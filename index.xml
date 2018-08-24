@@ -1,14 +1,99 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic on Academic</title>
+    <title>Academic</title>
     <link>http://sbh4th.github.io/</link>
-    <description>Recent content in Academic on Academic</description>
+    <description>Recent content on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Tue, 08 May 2018 00:00:00 -0400</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://sbh4th.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://sbh4th.github.io/home/about/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://sbh4th.github.io/home/about/</guid>
+      <description>Biography I am an associate professor in the Department of Epidemiology, Biostatistics &amp;amp; Occupational Health at McGill University. I am also a member of the McGill University Centre on Population Dynamics and the Montreal Health Equity Research Consortium.
+My research focuses on understanding population health and its social distribution, with specific interests in impact evaluation, measuring health inequalities, global health, demography, cancer epidemiology, causal inference, and ethical issues in public health.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>http://sbh4th.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://sbh4th.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>http://sbh4th.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://sbh4th.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://sbh4th.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://sbh4th.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>http://sbh4th.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://sbh4th.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://sbh4th.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://sbh4th.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Section</title>
+      <link>http://sbh4th.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://sbh4th.github.io/home/teaching/</guid>
+      <description>This is an example of using the custom widget to create your own homepage section.
+To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>http://sbh4th.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>http://sbh4th.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://sbh4th.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://sbh4th.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Comparison of Rates of Firearm and Nonfirearm Homicide and Suicide in Black and White Non-Hispanic Men, by U.S. State</title>
@@ -142,6 +227,1059 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://sbh4th.github.io/publication/2017-01-01_monitoring_equity_in/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oregon&#39;s hard-stop policy limiting elective early-term deliveries: Limitations of before-and-after studies in evaluating obstetric policies</title>
+      <link>http://sbh4th.github.io/publication/2017-01-01_oregons_hard-stop_p/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2017-01-01_oregons_hard-stop_p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primary Enforcement of Mandatory Seat Belt Laws and Motor Vehicle Crash Deaths</title>
+      <link>http://sbh4th.github.io/publication/2017-01-01_primary_enforcement_/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2017-01-01_primary_enforcement_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safety of labour and delivery following closures of obstetric services in small community hospitals</title>
+      <link>http://sbh4th.github.io/publication/2017-01-01_safety_of_labour_and/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2017-01-01_safety_of_labour_and/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social inequalities in tooth loss: A multinational comparison</title>
+      <link>http://sbh4th.github.io/publication/2017-01-01_social_inequalities_/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2017-01-01_social_inequalities_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The contribution of excise cigarette taxes on the decline in youth smoking in Canada during the time of the Federal Tobacco Control Strategy (2002-2012)</title>
+      <link>http://sbh4th.github.io/publication/2017-01-01_the_contribution_of_/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2017-01-01_the_contribution_of_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trends in differences in US mortality rates between black and white infants</title>
+      <link>http://sbh4th.github.io/publication/2017-01-01_trends_in_difference/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2017-01-01_trends_in_difference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authors&#39; reply re: Maternal and neonatal outcomes after implementation of a hospital policy to limit low-risk planned caesarean deliveries before 39 weeks of gestation: An interrupted time-series analysis</title>
+      <link>http://sbh4th.github.io/publication/2016-01-01_authors_reply_re_ma/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2016-01-01_authors_reply_re_ma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>By a large project grant from the Barts Charity for the HAPPY (Heart Attack Prevention Programme for You) London study (reference number 437/1412).</title>
+      <link>http://sbh4th.github.io/publication/2016-01-01_by_a_large_project_g/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2016-01-01_by_a_large_project_g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges in reproducing results from publicly available data: An example of sexual orientation and cardiovascular disease risk</title>
+      <link>http://sbh4th.github.io/publication/2016-01-01_challenges_in_reprod/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2016-01-01_challenges_in_reprod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do Socioeconomic Inequalities in Neonatal Mortality Reflect Inequalities in Coverage of Maternal Health Services? Evidence from 48 Low- and Middle-Income Countries</title>
+      <link>http://sbh4th.github.io/publication/2016-01-01_do_socioeconomic_ine/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2016-01-01_do_socioeconomic_ine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do minimum wages improve early life health? Evidence from developing countries</title>
+      <link>http://sbh4th.github.io/publication/2016-01-01_do_minimum_wages_imp/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2016-01-01_do_minimum_wages_imp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does segregation lead to lower birth weight?</title>
+      <link>http://sbh4th.github.io/publication/2016-01-01_does_segregation_lea/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2016-01-01_does_segregation_lea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Reductions in Body Mass Index on the Future Osteoarthritis Burden in Canada: A Population-Based Microsimulation Study</title>
+      <link>http://sbh4th.github.io/publication/2016-01-01_effects_of_reduction/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2016-01-01_effects_of_reduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Increased Duration of Paid Maternity Leave Lowers Infant Mortality in Low- and Middle-Income Countries: A Quasi-Experimental Study</title>
+      <link>http://sbh4th.github.io/publication/2016-01-01_increased_duration_o/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2016-01-01_increased_duration_o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual- and community-level determinants of inuit youth mental wellness</title>
+      <link>http://sbh4th.github.io/publication/2016-01-01_individual-_and_comm/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2016-01-01_individual-_and_comm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inequalities in indigenous oral health: Findings from Australia, New Zealand, and Canada</title>
+      <link>http://sbh4th.github.io/publication/2016-01-01_inequalities_in_indi/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2016-01-01_inequalities_in_indi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neighbourhood walkability and daily steps in adults with type 2 diabetes</title>
+      <link>http://sbh4th.github.io/publication/2016-01-01_neighbourhood_walkab/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2016-01-01_neighbourhood_walkab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of an affordable daycare program on health and economic well-being in Rajasthan, India: Protocol for a cluster-randomized impact evaluation study</title>
+      <link>http://sbh4th.github.io/publication/2016-01-01_the_effect_of_an_aff/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2016-01-01_the_effect_of_an_aff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of metropolitan-area mortgage delinquency on health behaviors, access to health services, and self-rated health in the United States, 2003-2010</title>
+      <link>http://sbh4th.github.io/publication/2016-01-01_the_effect_of_metrop/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2016-01-01_the_effect_of_metrop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economic downturns and suicide mortality in the USA, 1980-2010: Observational study</title>
+      <link>http://sbh4th.github.io/publication/2015-01-01_economic_downturns_a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2015-01-01_economic_downturns_a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited Commentary: A-P-C ... It&#39;s Easy as 1-2-3!</title>
+      <link>http://sbh4th.github.io/publication/2015-01-01_invited_commentary_a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2015-01-01_invited_commentary_a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maternal and neonatal outcomes after implementation of a hospital policy to limit low-risk planned caesarean deliveries before 39 weeks of gestation: An interrupted time-series analysis</title>
+      <link>http://sbh4th.github.io/publication/2015-01-01_maternal_and_neonata/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2015-01-01_maternal_and_neonata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neighbourhood walkability, daily steps and utilitarian walking in Canadian adults</title>
+      <link>http://sbh4th.github.io/publication/2015-01-01_neighbourhood_walkab/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2015-01-01_neighbourhood_walkab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paid maternity leave and childhood vaccination uptake: Longitudinal evidence from 20 low-and-middle-income countries</title>
+      <link>http://sbh4th.github.io/publication/2015-01-01_paid_maternity_leave/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2015-01-01_paid_maternity_leave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Removing user fees for facility-based delivery services: A difference-in-differences evaluation from ten sub-Saharan African countries</title>
+      <link>http://sbh4th.github.io/publication/2015-01-01_removing_user_fees_f/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2015-01-01_removing_user_fees_f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trends in educational inequalities in drug poisoning mortality: United States, 1994-2010</title>
+      <link>http://sbh4th.github.io/publication/2015-01-01_trends_in_educationa/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2015-01-01_trends_in_educationa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trends in socioeconomic inequalities in motor vehicle accident deaths in the United States, 1995-2010</title>
+      <link>http://sbh4th.github.io/publication/2015-01-01_trends_in_socioecono/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2015-01-01_trends_in_socioecono/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using inter-institutional practice variation to understand the risks and benefits of routine labour induction at 41&#43;0 weeks</title>
+      <link>http://sbh4th.github.io/publication/2015-01-01_using_inter-institut/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2015-01-01_using_inter-institut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who benefits from removing user fees for facility-based delivery services? Evidence on socioeconomic differences from Ghana, Senegal and Sierra Leone</title>
+      <link>http://sbh4th.github.io/publication/2015-01-01_who_benefits_from_re/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2015-01-01_who_benefits_from_re/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Determinants of increased opioid-related mortality in the united states and canada, 1990-2013: A systematic review</title>
+      <link>http://sbh4th.github.io/publication/2014-01-01_determinants_of_incr/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2014-01-01_determinants_of_incr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distance to emergency obstetric services and early neonatal mortality in Ethiopia.</title>
+      <link>http://sbh4th.github.io/publication/2014-01-01_distance_to_emergenc/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2014-01-01_distance_to_emergenc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implicit value judgments in the measurement of health inequalities [Juicios de valor implicitos en la medicion de las desigualdades en salud]</title>
+      <link>http://sbh4th.github.io/publication/2014-01-01_implicit_value_judgm/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2014-01-01_implicit_value_judgm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling preventive effectiveness to estimate the equity tipping point: At what coverage can individual preventive interventions reduce socioeconomic disparities in diabetes risk?</title>
+      <link>http://sbh4th.github.io/publication/2014-01-01_modelling_preventive/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2014-01-01_modelling_preventive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mortality inequality in populations with equal life expectancy: Arriaga&#39;s decomposition method in SAS, Stata, and Excel</title>
+      <link>http://sbh4th.github.io/publication/2014-01-01_mortality_inequality/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2014-01-01_mortality_inequality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing social inequalities in health: The role of simulation modelling in chronic disease epidemiology to evaluate the impact of population health interventions</title>
+      <link>http://sbh4th.github.io/publication/2014-01-01_reducing_social_ineq/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2014-01-01_reducing_social_ineq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socioeconomic inequality in neonatal mortality in countries of low and middle income: A multicountry analysis</title>
+      <link>http://sbh4th.github.io/publication/2014-01-01_socioeconomic_inequa/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2014-01-01_socioeconomic_inequa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of mandatory seat belt laws on seat belt use by socioeconomic position</title>
+      <link>http://sbh4th.github.io/publication/2014-01-01_the_effect_of_mandat/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2014-01-01_the_effect_of_mandat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trends in the black-white life expectancy gap among US States, 1990-2009</title>
+      <link>http://sbh4th.github.io/publication/2014-01-01_trends_in_the_black-/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2014-01-01_trends_in_the_black-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Achieving effective universal health coverage with equity: Evidence from Chile</title>
+      <link>http://sbh4th.github.io/publication/2013-01-01_achieving_effective_/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2013-01-01_achieving_effective_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Changes in socioeconomic inequality in Indonesian children&#39;s cognitive function from 2000 to 2007: a decomposition analysis.</title>
+      <link>http://sbh4th.github.io/publication/2013-01-01_changes_in_socioecon/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2013-01-01_changes_in_socioecon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commentary: Best practice for what?</title>
+      <link>http://sbh4th.github.io/publication/2013-01-01_commentary_best_prac/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2013-01-01_commentary_best_prac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diverging socioeconomic inequality in life expectancy of Francophones and Anglophones in Montreal, Quebec: Tobacco to blame?</title>
+      <link>http://sbh4th.github.io/publication/2013-01-01_diverging_socioecono/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2013-01-01_diverging_socioecono/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economic conditions and health behaviours during the &#39;Great Recession&#39;</title>
+      <link>http://sbh4th.github.io/publication/2013-01-01_economic_conditions_/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2013-01-01_economic_conditions_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health equity: Utopian and scientific</title>
+      <link>http://sbh4th.github.io/publication/2013-01-01_health_equity_utopia/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2013-01-01_health_equity_utopia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Selective Evidence Presentation on Judgments of Health Inequality Trends: An Experimental Study</title>
+      <link>http://sbh4th.github.io/publication/2013-01-01_impact_of_selective_/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2013-01-01_impact_of_selective_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation models for socioeconomic inequalities in health: A systematic review</title>
+      <link>http://sbh4th.github.io/publication/2013-01-01_simulation_models_fo/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2013-01-01_simulation_models_fo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survey data with sampling weights: Is there a &#39;best&#39; approach?</title>
+      <link>http://sbh4th.github.io/publication/2013-01-01_survey_data_with_sam/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2013-01-01_survey_data_with_sam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of popular media on perceptions of personal and population risk in possible disease outbreaks</title>
+      <link>http://sbh4th.github.io/publication/2013-01-01_the_influence_of_pop/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2013-01-01_the_influence_of_pop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The relationship of living arrangements and depressive symptoms among older adults in sub-Saharan Africa</title>
+      <link>http://sbh4th.github.io/publication/2013-01-01_the_relationship_of_/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2013-01-01_the_relationship_of_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using inequality measures to incorporate environmental justice into regulatory analyses</title>
+      <link>http://sbh4th.github.io/publication/2013-01-01_using_inequality_mea/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2013-01-01_using_inequality_mea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who cares about health inequalities? Cross-country evidence from the World Health Survey</title>
+      <link>http://sbh4th.github.io/publication/2013-01-01_who_cares_about_heal/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2013-01-01_who_cares_about_heal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Burden of disease, health indicators and challenges for epidemiology in North America</title>
+      <link>http://sbh4th.github.io/publication/2012-01-01_burden_of_disease_h/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2012-01-01_burden_of_disease_h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coronary heart disease risk factors and mortality [2]</title>
+      <link>http://sbh4th.github.io/publication/2012-01-01_coronary_heart_disea/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2012-01-01_coronary_heart_disea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deficiency of the odds ratio for common outcomes</title>
+      <link>http://sbh4th.github.io/publication/2012-01-01_deficiency_of_the_od/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2012-01-01_deficiency_of_the_od/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do Medical Marijuana Laws Increase Marijuana Use? Replication Study and Extension</title>
+      <link>http://sbh4th.github.io/publication/2012-01-01_do_medical_marijuana/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2012-01-01_do_medical_marijuana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Educational Inequalities in Preterm and Term Small-for-Gestational-Age Birth Over Time</title>
+      <link>http://sbh4th.github.io/publication/2012-01-01_educational_inequali/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2012-01-01_educational_inequali/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erratum to: Inequalities of health indicators for policy makers: Six hints (International Journal of Public Health (2012) DOI 10.1007/s00038-012-0386-5)</title>
+      <link>http://sbh4th.github.io/publication/2012-01-01_erratum_to_inequalit/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2012-01-01_erratum_to_inequalit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Francophone and Anglophone perinatal health: Temporal and regional inequalities in a Canadian setting, 1981-2008</title>
+      <link>http://sbh4th.github.io/publication/2012-01-01_francophone_and_angl/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2012-01-01_francophone_and_angl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global socioeconomic inequalities in tobacco use: internationally comparable estimates from the World Health Surveys.</title>
+      <link>http://sbh4th.github.io/publication/2012-01-01_global_socioeconomic/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2012-01-01_global_socioeconomic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Increased risk of coronary heart disease in female smokers</title>
+      <link>http://sbh4th.github.io/publication/2012-01-01_increased_risk_of_co/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2012-01-01_increased_risk_of_co/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inequalities of health indicators for policy makers: Six hints</title>
+      <link>http://sbh4th.github.io/publication/2012-01-01_inequalities_of_heal/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2012-01-01_inequalities_of_heal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International shortfall inequality in life expectancy in women and in men, 1950-2010 [Inegalite internationale de l&#39;esperance de vie des femmes et des hommes, mesuree en termes d&#39;ecart, 1950-2010]</title>
+      <link>http://sbh4th.github.io/publication/2012-01-01_international_shortf/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2012-01-01_international_shortf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life expectancy gap between the Francophone majority and Anglophone minority of a Canadian population</title>
+      <link>http://sbh4th.github.io/publication/2012-01-01_life_expectancy_gap_/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2012-01-01_life_expectancy_gap_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maternal education and stillbirth: Estimating gestational-age-specific and cause-specific associations</title>
+      <link>http://sbh4th.github.io/publication/2012-01-01_maternal_education_a/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2012-01-01_maternal_education_a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social epidemiology: Questionable answers and answerable questions</title>
+      <link>http://sbh4th.github.io/publication/2012-01-01_social_epidemiology_/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2012-01-01_social_epidemiology_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socio-economic inequalities and oral health in Canada and the United States</title>
+      <link>http://sbh4th.github.io/publication/2012-01-01_socio-economic_inequ/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2012-01-01_socio-economic_inequ/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socioeconomic inequalities in risk factors for non communicable diseases in low-income and middle-income countries: results from the World Health Survey.</title>
+      <link>http://sbh4th.github.io/publication/2012-01-01_socioeconomic_inequa/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2012-01-01_socioeconomic_inequa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The changing gender differences in life expectancy in Korea 1970-2005</title>
+      <link>http://sbh4th.github.io/publication/2012-01-01_the_changing_gender_/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2012-01-01_the_changing_gender_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trends in the black-white life expectancy gap, 2003-2008</title>
+      <link>http://sbh4th.github.io/publication/2012-01-01_trends_in_the_black-/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2012-01-01_trends_in_the_black-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use of relative and absolute effect measures in reporting health inequalities: Structured review</title>
+      <link>http://sbh4th.github.io/publication/2012-01-01_use_of_relative_and_/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2012-01-01_use_of_relative_and_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A more complete picture of higher cardiovascular disease prevalence among blacks compared to whites</title>
+      <link>http://sbh4th.github.io/publication/2011-01-01_a_more_complete_pict/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2011-01-01_a_more_complete_pict/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Causes of widening life expectancy inequalities in Quebec, Canada, 1989-2004</title>
+      <link>http://sbh4th.github.io/publication/2011-01-01_causes_of_widening_l/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2011-01-01_causes_of_widening_l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data systems linking social determinants of health with health outcomes: Advancing public goods to support research and evidence-based policy and programs</title>
+      <link>http://sbh4th.github.io/publication/2011-01-01_data_systems_linking/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2011-01-01_data_systems_linking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decomposing income-related inequality in cervical screening in 67 countries</title>
+      <link>http://sbh4th.github.io/publication/2011-01-01_decomposing_income-r/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2011-01-01_decomposing_income-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global income-related inequalities in HIV testing</title>
+      <link>http://sbh4th.github.io/publication/2011-01-01_global_income-relate/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2011-01-01_global_income-relate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Increasing educational inequality in preterm birth in Quebec, Canada, 1981-2006</title>
+      <link>http://sbh4th.github.io/publication/2011-01-01_increasing_education/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2011-01-01_increasing_education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life-course socioeconomic position and type 2 diabetes mellitus the Framingham offspring study</title>
+      <link>http://sbh4th.github.io/publication/2011-01-01_life-course_socioeco/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2011-01-01_life-course_socioeco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relation of socioeconomic position with ankle-brachial index</title>
+      <link>http://sbh4th.github.io/publication/2011-01-01_relation_of_socioeco/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2011-01-01_relation_of_socioeco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relative and Absolute Disparities in Preterm Birth Related to Neighborhood Education</title>
+      <link>http://sbh4th.github.io/publication/2011-01-01_relative_and_absolut/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2011-01-01_relative_and_absolut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social determinants and the decline of cardiovascular diseases: Understanding the links</title>
+      <link>http://sbh4th.github.io/publication/2011-01-01_social_determinants_/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2011-01-01_social_determinants_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of socioeconomic health inequalities using the concentration index</title>
+      <link>http://sbh4th.github.io/publication/2010-01-01_analysis_of_socioeco/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2010-01-01_analysis_of_socioeco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decomposing socioeconomic health inequalities</title>
+      <link>http://sbh4th.github.io/publication/2010-01-01_decomposing_socioeco/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2010-01-01_decomposing_socioeco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Editorial: Inequalities in cancer survival and the NHS cancer plan: Evidence of progress</title>
+      <link>http://sbh4th.github.io/publication/2010-01-01_editorial_inequaliti/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2010-01-01_editorial_inequaliti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global and national socioeconomic disparities in obesity, overweight, and underweight status</title>
+      <link>http://sbh4th.github.io/publication/2010-01-01_global_and_national_/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2010-01-01_global_and_national_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implicit value judgments in the measurement of health inequalities</title>
+      <link>http://sbh4th.github.io/publication/2010-01-01_implicit_value_judgm/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2010-01-01_implicit_value_judgm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>National female literacy, individual socio-economic status, and maternal health care use in sub-Saharan Africa</title>
+      <link>http://sbh4th.github.io/publication/2010-01-01_national_female_lite/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2010-01-01_national_female_lite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relative measures alone tell only part of the story</title>
+      <link>http://sbh4th.github.io/publication/2010-01-01_relative_measures_al/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2010-01-01_relative_measures_al/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding the rapid increase in life expectancy in South Korea</title>
+      <link>http://sbh4th.github.io/publication/2010-01-01_understanding_the_ra/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2010-01-01_understanding_the_ra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation of population-based disease simulation models: A review of concepts and methods</title>
+      <link>http://sbh4th.github.io/publication/2010-01-01_validation_of_popula/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2010-01-01_validation_of_popula/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>We&#39;ll take the red pill: A reply to Asada</title>
+      <link>http://sbh4th.github.io/publication/2010-01-01_well_take_the_red_p/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2010-01-01_well_take_the_red_p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commentary: Trends in indigenous inequalities in mortality in New Zealand</title>
+      <link>http://sbh4th.github.io/publication/2009-01-01_commentary_trends_in/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2009-01-01_commentary_trends_in/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Variability in Fruit and Vegetable Consumption</title>
+      <link>http://sbh4th.github.io/publication/2009-01-01_global_variability_i/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2009-01-01_global_variability_i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The contribution of material, psychosocial, and behavioral factors in explaining educational and occupational mortality inequalities in a nationally representative sample of South Koreans: Relative and absolute perspectives</title>
+      <link>http://sbh4th.github.io/publication/2009-01-01_the_contribution_of_/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2009-01-01_the_contribution_of_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trends in area-socioeconomic and race-ethnic disparities in breast cancer incidence, stage at diagnosis, screening, mortality, and survival among women ages 50 years and over (1987-2005)</title>
+      <link>http://sbh4th.github.io/publication/2009-01-01_trends_in_area-socio/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2009-01-01_trends_in_area-socio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Would achieving healthy people 2010&#39;s targets reduce both population levels and social disparities in heart disease?</title>
+      <link>http://sbh4th.github.io/publication/2009-01-01_would_achieving_heal/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2009-01-01_would_achieving_heal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An overview of methods for monitoring social disparities in cancer with an example using trends in lung cancer incidence by area-socioeconomic position and race-ethnicity, 1992-2004</title>
+      <link>http://sbh4th.github.io/publication/2008-01-01_an_overview_of_metho/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2008-01-01_an_overview_of_metho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harper et al. Respond to &#39;Measuring social disparities in health&#39;</title>
+      <link>http://sbh4th.github.io/publication/2008-01-01_harper_et_al._respon/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2008-01-01_harper_et_al._respon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The authors reply</title>
+      <link>http://sbh4th.github.io/publication/2008-01-01_the_authors_reply/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2008-01-01_the_authors_reply/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commentary: Using innovative inequality measures in epidemiology</title>
+      <link>http://sbh4th.github.io/publication/2007-01-01_commentary_using_inn/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2007-01-01_commentary_using_inn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Did clean water reduce black-white mortality inequalities in the United States? Water, race, and disease.</title>
+      <link>http://sbh4th.github.io/publication/2007-01-01_did_clean_water_redu/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2007-01-01_did_clean_water_redu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Highly active antiretroviral therapy and socioeconomic inequalities in AIDS mortality in Spain</title>
+      <link>http://sbh4th.github.io/publication/2007-01-01_highly_active_antire/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2007-01-01_highly_active_antire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socioeconomic differentials in cause-specific mortality among South Korean adolescents</title>
+      <link>http://sbh4th.github.io/publication/2007-01-01_socioeconomic_differ/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2007-01-01_socioeconomic_differ/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trends in socioeconomic inequalities in adult health behaviors among U.S. States, 1990-2004</title>
+      <link>http://sbh4th.github.io/publication/2007-01-01_trends_in_socioecono/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2007-01-01_trends_in_socioecono/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trends in the black-white life expectancy gap in the United States, 1983-2003</title>
+      <link>http://sbh4th.github.io/publication/2007-01-01_trends_in_the_black-/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2007-01-01_trends_in_the_black-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commentary: What explains widening geographic differences in life expectancy in New Zealand?</title>
+      <link>http://sbh4th.github.io/publication/2006-01-01_commentary_what_expl/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2006-01-01_commentary_what_expl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explaining the social gradient in coronary heart disease: Comparing relative and absolute risk approaches</title>
+      <link>http://sbh4th.github.io/publication/2006-01-01_explaining_the_socia/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2006-01-01_explaining_the_socia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preventing coronary heart disease</title>
+      <link>http://sbh4th.github.io/publication/2006-01-01_preventing_coronary_/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2006-01-01_preventing_coronary_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The &#39;Americanisation&#39; of migrants: Evidence for the contribution of ethnicity, social deprivation, lifestyle and life-course processes to the mid-20th century Coronary Heart Disease epidemic in the US</title>
+      <link>http://sbh4th.github.io/publication/2006-01-01_the_americanisation/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2006-01-01_the_americanisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Associations between income inequality and mortality among US states: The importance of time period and source of income data</title>
+      <link>http://sbh4th.github.io/publication/2005-01-01_associations_between/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2005-01-01_associations_between/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextual effect of income inequality on birth outcomes</title>
+      <link>http://sbh4th.github.io/publication/2005-01-01_contextual_effect_of/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2005-01-01_contextual_effect_of/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hurling alone? How social capital failed to save the Irish from cardiovascular disease in the United States</title>
+      <link>http://sbh4th.github.io/publication/2004-01-01_hurling_alone_how_s/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2004-01-01_hurling_alone_how_s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is income inequality a determinant of population health? Part 2. U.S. National and Regional Trends in income inequality and age- and cause-specific mortality</title>
+      <link>http://sbh4th.github.io/publication/2004-01-01_is_income_inequality/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2004-01-01_is_income_inequality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>US regional and national cause-specific mortality and trends in income inequality: Descriptive findings</title>
+      <link>http://sbh4th.github.io/publication/2004-01-01_us_regional_and_nati/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2004-01-01_us_regional_and_nati/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commentary: Plugging leaks and repelling boarders - Where to next for the SS Income Inequality?</title>
+      <link>http://sbh4th.github.io/publication/2003-01-01_commentary_plugging_/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2003-01-01_commentary_plugging_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring Contextual Characteristics for Community Health</title>
+      <link>http://sbh4th.github.io/publication/2003-01-01_measuring_contextual/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2003-01-01_measuring_contextual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relative or absolute standards for child poverty: A state-level analysis of infant and child mortality</title>
+      <link>http://sbh4th.github.io/publication/2003-01-01_relative_or_absolute/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2003-01-01_relative_or_absolute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life course socioeconomic conditions and adult psychosocial functioning</title>
+      <link>http://sbh4th.github.io/publication/2002-01-01_life_course_socioeco/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
+      <guid>http://sbh4th.github.io/publication/2002-01-01_life_course_socioeco/</guid>
       <description></description>
     </item>
     
