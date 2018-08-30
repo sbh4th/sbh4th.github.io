@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Randomized on Sam Harper</title>
-    <link>/tags/randomized/</link>
+    <link>http://sbh4th.github.io/tags/randomized/</link>
     <description>Recent content in Randomized on Sam Harper</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Thu, 30 Aug 2018 08:11:04 -0400</lastBuildDate>
     
-	<atom:link href="/tags/randomized/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://sbh4th.github.io/tags/randomized/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tabora Newborn and Maternal Health Initiative</title>
-      <link>/project/tamani/</link>
+      <link>http://sbh4th.github.io/project/tamani/</link>
       <pubDate>Thu, 30 Aug 2018 08:11:04 -0400</pubDate>
       
-      <guid>/project/tamani/</guid>
+      <guid>http://sbh4th.github.io/project/tamani/</guid>
       <description>(with Arijit Nandi, Ifakara Health Institute, CARE Canada)
 We are monitoring and evaluating a health systems strengthening program being implemented by CARE Canada, in partnership with the Society of Obstetricians and Gynaecologists of Canada (SOGC) and the Canadian Society for International Health (CSIH), in the Tabora region of Tanzania. The aim of this program is to reduce maternal and newborn mortality and morbidity by improving the availability of quality maternal and newborn healthcare services.</description>
     </item>
     
     <item>
       <title>Affordable Daycare To Empower Indian Women</title>
-      <link>/project/u2/</link>
+      <link>http://sbh4th.github.io/project/u2/</link>
       <pubDate>Wed, 29 Aug 2018 15:12:54 -0400</pubDate>
       
-      <guid>/project/u2/</guid>
+      <guid>http://sbh4th.github.io/project/u2/</guid>
       <description>(with Arijit Nandi)
 There are structural barriers to women’s empowerment in India. Among these barriers is the lack of affordable and reliable day-care services. The responsibility of providing childcare is imposed primarily on women and contributes to gender inequalities experienced by women over the life-course. The provision of affordable and reliable day-care services is a potentially important policy lever for empowering Indian women. Access to day-care might reduce barriers to labor force entry and generate economic opportunities for women.</description>
     </item>

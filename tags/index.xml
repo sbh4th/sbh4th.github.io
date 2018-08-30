@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sam Harper</title>
-    <link>/tags/</link>
+    <link>http://sbh4th.github.io/tags/</link>
     <description>Recent content in Tags on Sam Harper</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Thu, 30 Aug 2018 08:25:35 -0400</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://sbh4th.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Environmental</title>
-      <link>/tags/environmental/</link>
+      <link>http://sbh4th.github.io/tags/environmental/</link>
       <pubDate>Thu, 30 Aug 2018 08:25:35 -0400</pubDate>
       
-      <guid>/tags/environmental/</guid>
+      <guid>http://sbh4th.github.io/tags/environmental/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluation</title>
-      <link>/tags/evaluation/</link>
+      <link>http://sbh4th.github.io/tags/evaluation/</link>
       <pubDate>Thu, 30 Aug 2018 08:25:35 -0400</pubDate>
       
-      <guid>/tags/evaluation/</guid>
+      <guid>http://sbh4th.github.io/tags/evaluation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maternal/child health</title>
-      <link>/tags/maternal-child-health/</link>
+      <link>http://sbh4th.github.io/tags/maternal-child-health/</link>
       <pubDate>Thu, 30 Aug 2018 08:11:04 -0400</pubDate>
       
-      <guid>/tags/maternal-child-health/</guid>
+      <guid>http://sbh4th.github.io/tags/maternal-child-health/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quasi-experimental</title>
-      <link>/tags/quasi-experimental/</link>
+      <link>http://sbh4th.github.io/tags/quasi-experimental/</link>
       <pubDate>Thu, 30 Aug 2018 08:25:35 -0400</pubDate>
       
-      <guid>/tags/quasi-experimental/</guid>
+      <guid>http://sbh4th.github.io/tags/quasi-experimental/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Randomized</title>
-      <link>/tags/randomized/</link>
+      <link>http://sbh4th.github.io/tags/randomized/</link>
       <pubDate>Thu, 30 Aug 2018 08:11:04 -0400</pubDate>
       
-      <guid>/tags/randomized/</guid>
+      <guid>http://sbh4th.github.io/tags/randomized/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Women&#39;s empowerment</title>
-      <link>/tags/womens-empowerment/</link>
+      <link>http://sbh4th.github.io/tags/womens-empowerment/</link>
       <pubDate>Wed, 29 Aug 2018 15:12:54 -0400</pubDate>
       
-      <guid>/tags/womens-empowerment/</guid>
+      <guid>http://sbh4th.github.io/tags/womens-empowerment/</guid>
       <description></description>
     </item>
     

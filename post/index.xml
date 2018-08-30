@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Sam Harper</title>
-    <link>/post/</link>
+    <link>http://sbh4th.github.io/post/</link>
     <description>Recent content in Posts on Sam Harper</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://sbh4th.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Is 420 Deadly?</title>
-      <link>/post/is-420-deadly/</link>
+      <link>http://sbh4th.github.io/post/is-420-deadly/</link>
       <pubDate>Wed, 22 Aug 2018 16:02:51 -0400</pubDate>
       
-      <guid>/post/is-420-deadly/</guid>
+      <guid>http://sbh4th.github.io/post/is-420-deadly/</guid>
       <description>This Friday is April 20th, a day that for most people means nothing. Americans are relieved at having filed their taxes, Canadians are stressed in anticipation of filing theirs, and in Montreal we are still wondering if winter will ever end. However, for a small minority of people, April 20th (or 4&amp;frasl;20) is a day of celebration of all things cannabis, with large outdoor gatherings where cannabis consumption is promoted, especially at 4:20pm.</description>
     </item>
     
