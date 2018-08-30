@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Sam Harper</title>
-    <link>/project/</link>
-    <description>Recent content in Projects on Sam Harper</description>
+    <title>Randomized on Sam Harper</title>
+    <link>/tags/randomized/</link>
+    <description>Recent content in Randomized on Sam Harper</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 30 Aug 2018 08:25:35 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 30 Aug 2018 08:11:04 -0400</lastBuildDate>
     
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/randomized/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Beijing Household Energy Transitions</title>
-      <link>/project/bhet/</link>
-      <pubDate>Thu, 30 Aug 2018 08:25:35 -0400</pubDate>
-      
-      <guid>/project/bhet/</guid>
-      <description>(with Jill Baumgartner)
-Air pollution is a leading public health problem. Over 400 million Chinese homes burn coal to meet their indoor space heating needs, leading to high levels of air pollution and health impacts in adults and children. Coal burning in China also contributes to poor air quality and mercury contamination in Canada. This project will assess how transitioning away from coal and introducing new clean heating technology in China will impact the health and environment of people who live in homes impacted by policy changes.</description>
-    </item>
     
     <item>
       <title>Tabora Newborn and Maternal Health Initiative</title>

@@ -7,26 +7,53 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 30 Aug 2018 08:25:35 -0400</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <title>Environmental</title>
+      <link>/tags/environmental/</link>
+      <pubDate>Thu, 30 Aug 2018 08:25:35 -0400</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
+      <guid>/tags/environmental/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <title>Evaluation</title>
+      <link>/tags/evaluation/</link>
+      <pubDate>Thu, 30 Aug 2018 08:25:35 -0400</pubDate>
       
-      <guid>/tags/demo/</guid>
+      <guid>/tags/evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maternal/child health</title>
+      <link>/tags/maternal-child-health/</link>
+      <pubDate>Thu, 30 Aug 2018 08:11:04 -0400</pubDate>
+      
+      <guid>/tags/maternal-child-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Randomized</title>
+      <link>/tags/randomized/</link>
+      <pubDate>Thu, 30 Aug 2018 08:11:04 -0400</pubDate>
+      
+      <guid>/tags/randomized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Women&#39;s empowerment</title>
+      <link>/tags/womens-empowerment/</link>
+      <pubDate>Wed, 29 Aug 2018 15:12:54 -0400</pubDate>
+      
+      <guid>/tags/womens-empowerment/</guid>
       <description></description>
     </item>
     
