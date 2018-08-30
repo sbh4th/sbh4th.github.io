@@ -68,13 +68,12 @@ My research focuses on understanding population health and its social distributi
     </item>
     
     <item>
-      <title>Custom Section</title>
+      <title>Teaching</title>
       <link>/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+      <description> Current courses  PPHS 617 Impact Evaluation (co-taught with Arijit Nandi) EPIB 676 Reproducible Research  Past courses  EPIB 648 Social Epidemiology (co-taught with Jay Kaufman) EPIB 603 Intermediate Epidemiology  </description>
     </item>
     
     <item>
