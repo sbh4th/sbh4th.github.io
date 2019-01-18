@@ -11,69 +11,12 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>test2</title>
-      <link>/post/test2/</link>
-      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      <title>Invited Commentary: Promise and Pitfalls of the Sibling Comparison Design in Studies of Optimal Birth Spacing</title>
+      <link>/publication/2019-01-01_hutcheon201917/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/test2/</guid>
-      <description>
-
-&lt;p&gt;Weakly informative priors are an appealing modeling technique where the modeler identifies appropriate scales in a given analysis and uses those scales to introduce principled regularization into the analysis. Exactly how those scales are utilized, however, is not explicitly defined. Consequently the actual implementation of weakly informative priors can be ambiguous for practitioners.&lt;/p&gt;
-
-&lt;p&gt;In this case study I will consider two approaches for implementing weakly informative priors and demonstrate each effects the resulting analysis.
-{{% toc %}}&lt;/p&gt;
-
-&lt;h2 id=&#34;1-poorly-informed-regression&#34;&gt;1 Poorly Informed Regression&lt;/h2&gt;
-
-&lt;p&gt;{{% /toc %}}&lt;/p&gt;
-
-&lt;p&gt;Weakly informative priors are especially critical when inferences are hindered with only weakly identifiable likelihoods, such as those arising from models with sparse data.&lt;/p&gt;
-
-&lt;p&gt;To that end, let’s say that we are analyzing a small company and we want to model how much daily rainfall, x, affects daily income, y, using only a few measurements. For this study we will simulate data assuming that the company typically makes a few thousand dollars, or kilodollars (k$), per day without any rain and that a heavy rainfall of a few centimeters per day can severely curtail income,&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;library(rstan)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Assuming that the typical values of both rainfall and income are sufficiently large, we can ignore the fact that they are positive quantities and model their relationship with a linear regression,&lt;/p&gt;
-
-&lt;h2 id=&#34;2-less-poorly-informed-regression&#34;&gt;2 Less Poorly Informed Regression&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>/post/test/</link>
-      <pubDate>Sun, 02 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/test/</guid>
-      <description>&lt;div id=&#34;TOC&#34;&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#poorly-informed-regression&#34;&gt;1 Poorly Informed Regression&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#less-poorly-informed-regression&#34;&gt;2 Less Poorly Informed Regression&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Weakly informative priors are an appealing modeling technique where the modeler identifies appropriate scales in a given analysis and uses those scales to introduce principled regularization into the analysis. Exactly how those scales are utilized, however, is not explicitly defined. Consequently the actual implementation of weakly informative priors can be ambiguous for practitioners.&lt;/p&gt;
-&lt;p&gt;In this case study I will consider two approaches for implementing weakly informative priors and demonstrate each effects the resulting analysis.&lt;/p&gt;
-&lt;div id=&#34;poorly-informed-regression&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;1 Poorly Informed Regression&lt;/h2&gt;
-&lt;p&gt;Weakly informative priors are especially critical when inferences are hindered with only weakly identifiable likelihoods, such as those arising from models with sparse data.&lt;/p&gt;
-&lt;p&gt;To that end, let’s say that we are analyzing a small company and we want to model how much daily rainfall, x, affects daily income, y, using only a few measurements. For this study we will simulate data assuming that the company typically makes a few thousand dollars, or kilodollars (k$), per day without any rain and that a heavy rainfall of a few centimeters per day can severely curtail income,&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;library(rstan)&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;## Loading required package: ggplot2&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;## Warning: package &amp;#39;ggplot2&amp;#39; was built under R version 3.4.4&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;## Loading required package: StanHeaders&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;## rstan (Version 2.17.3, GitRev: 2e1f913d3ca3)&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;## For execution on a local, multicore CPU with excess RAM we recommend calling
-## options(mc.cores = parallel::detectCores()).
-## To avoid recompilation of unchanged Stan programs, we recommend calling
-## rstan_options(auto_write = TRUE)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Assuming that the typical values of both rainfall and income are sufficiently large, we can ignore the fact that they are positive quantities and model their relationship with a linear regression,&lt;/p&gt;
-&lt;/div&gt;
-&lt;div id=&#34;less-poorly-informed-regression&#34; class=&#34;section level2&#34;&gt;
-&lt;h2&gt;2 Less Poorly Informed Regression&lt;/h2&gt;
-&lt;/div&gt;
-</description>
+      <guid>/publication/2019-01-01_hutcheon201917/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -82,7 +25,10 @@
       <pubDate>Thu, 30 Aug 2018 08:25:35 -0400</pubDate>
       
       <guid>/project/bhet/</guid>
-      <description>&lt;p&gt;(with &lt;a href=&#34;https://jillbaumgartner.weebly.com/&#34;&gt;Jill Baumgartner&lt;/a&gt;)&lt;/p&gt;
+      <description>
+
+
+&lt;p&gt;(with &lt;a href=&#34;https://jillbaumgartner.weebly.com/&#34;&gt;Jill Baumgartner&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;Air pollution is a leading public health problem. Over 400 million Chinese homes burn coal to meet their indoor space heating needs, leading to high levels of air pollution and health impacts in adults and children. Coal burning in China also contributes to poor air quality and mercury contamination in Canada. This project will assess how transitioning away from coal and introducing new clean heating technology in China will impact the health and environment of people who live in homes impacted by policy changes.&lt;/p&gt;
 &lt;p&gt;Funding: Canadian Institutes for Health Research&lt;/p&gt;
 </description>
@@ -94,7 +40,10 @@
       <pubDate>Thu, 30 Aug 2018 08:11:04 -0400</pubDate>
       
       <guid>/project/tamani/</guid>
-      <description>&lt;p&gt;(with &lt;a href=&#34;https://www.mcgill.ca/epi-biostat-occh/arijit-nandi&#34;&gt;Arijit Nandi&lt;/a&gt;, &lt;a href=&#34;http://ihi.or.tz/&#34;&gt;Ifakara Health Institute&lt;/a&gt;, &lt;a href=&#34;https://care.ca/tamani&#34;&gt;CARE Canada&lt;/a&gt;)&lt;/p&gt;
+      <description>
+
+
+&lt;p&gt;(with &lt;a href=&#34;https://www.mcgill.ca/epi-biostat-occh/arijit-nandi&#34;&gt;Arijit Nandi&lt;/a&gt;, &lt;a href=&#34;http://ihi.or.tz/&#34;&gt;Ifakara Health Institute&lt;/a&gt;, &lt;a href=&#34;https://care.ca/tamani&#34;&gt;CARE Canada&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;We are monitoring and evaluating a health systems strengthening program being implemented by CARE Canada, in partnership with the Society of Obstetricians and Gynaecologists of Canada (SOGC) and the Canadian Society for International Health (CSIH), in the Tabora region of Tanzania. The aim of this program is to reduce maternal and newborn mortality and morbidity by improving the availability of quality maternal and newborn healthcare services. Activities include: training and mentoring of Regional and District Council Health Management Teams (R/CHMTs) in data management and usage, supply chain management, budgeting and leadership; development of an emergency transportation system; refurbishing health centre and hospital maternity wards and procuring Basic Emergency Obstetric and Newborn CARE (BEmONC) and Comprehensive Emergency Obstetric and Newborn CARE (CEmONC) equipment; training and mentoring of health care workers (HCWs) on BEmONC, CEmONC and family planning; and training and support of Community Health Workers (CHWs) to deliver quality maternal and newborn health education and promote utilization of health care services. We will be assessing the program’s impacts by integrating monitoring and evaluation with the delivery of interventions using a randomized phase-in or “stepped wedge” design.&lt;/p&gt;
 &lt;p&gt;Funding: Global Affairs Canada&lt;/p&gt;
 </description>
@@ -106,7 +55,10 @@
       <pubDate>Wed, 29 Aug 2018 15:12:54 -0400</pubDate>
       
       <guid>/project/u2/</guid>
-      <description>&lt;p&gt;(with &lt;a href=&#34;https://www.mcgill.ca/epi-biostat-occh/arijit-nandi&#34;&gt;Arijit Nandi&lt;/a&gt;)&lt;/p&gt;
+      <description>
+
+
+&lt;p&gt;(with &lt;a href=&#34;https://www.mcgill.ca/epi-biostat-occh/arijit-nandi&#34;&gt;Arijit Nandi&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;There are structural barriers to women’s empowerment in India. Among these barriers is the lack of affordable and reliable day-care services. The responsibility of providing childcare is imposed primarily on women and contributes to gender inequalities experienced by women over the life-course. The provision of affordable and reliable day-care services is a potentially important policy lever for empowering Indian women. Access to day-care might reduce barriers to labor force entry and generate economic opportunities for women. However, empirical evidence concerning the effects of day-care programs in low-and-middle-income countries is scarce. We propose a cluster-randomized impact evaluation for estimating the effect of a community-based day-care program on empowerment, economic opportunity, and health among mothers living in rural Rajasthan, India. This interdisciplinary research initiative will address an important research gap and has the potential to inform policies for improving the day-care system in India in ways that promote inclusive economic growth.&lt;/p&gt;
 &lt;p&gt;The video below provides some additional details about the project and some essential context for where this work is being done.&lt;/p&gt;
 &lt;iframe width=&#34;700&#34; height=&#34;400&#34; src=&#34;https://www.youtube.com/embed/EhG45a8WUxc&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; encrypted-media&#34; allowfullscreen&gt;
@@ -139,74 +91,83 @@
     </item>
     
     <item>
-      <title>Comparison of Rates of Firearm and Nonfirearm Homicide and Suicide in Black and White Non-Hispanic Men, by U.S. State</title>
-      <link>/publication/2018-01-01_comparison_of_rates_/</link>
+      <title>Accounting for Selection Bias in Studies of Acute Cardiac Events</title>
+      <link>/publication/2018-01-01_banack2018709/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2018-01-01_comparison_of_rates_/</guid>
+      <guid>/publication/2018-01-01_banack2018709/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of Rates of Firearm and Nonfirearm Homicide and Suicide in Black and White Non-Hispanic Men, by U.S. State</title>
+      <link>/publication/2018-01-01_riddell2018aa/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_riddell2018aa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Educational and wealth inequalities in tobacco use among men and women in 54 low-income and middle-income countries</title>
-      <link>/publication/2018-01-01_educational_and_weal/</link>
+      <link>/publication/2018-01-01_sreeramareddy201826/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2018-01-01_educational_and_weal/</guid>
+      <guid>/publication/2018-01-01_sreeramareddy201826/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Injection drug use, food insecurity, and HIV-HCV co-infection: a longitudinal cohort analysis</title>
-      <link>/publication/2018-01-01_injection_drug_use_/</link>
+      <link>/publication/2018-01-01_mclinden20181/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2018-01-01_injection_drug_use_/</guid>
+      <guid>/publication/2018-01-01_mclinden20181/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Injection drug use, food insecurity, and HIV-HCV co-infection: a longitudinal cohort analysis</title>
+      <link>/publication/2018-01-01_mclinden20181322/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-01-01_mclinden20181322/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Methadone treatment, severe food insecurity, and HIV-HCV co-infection: A propensity score matching analysis</title>
-      <link>/publication/2018-01-01_methadone_treatment/</link>
+      <link>/publication/2018-01-01_mclinden2018374/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2018-01-01_methadone_treatment/</guid>
+      <guid>/publication/2018-01-01_mclinden2018374/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The impact of social and psychological consequences of disease on judgments of disease severity: An experimental study</title>
-      <link>/publication/2018-01-01_impact_of_social/</link>
+      <title>Socioeconomic status, oral health and dental disease in Australia, Canada, New Zealand and the United States</title>
+      <link>/publication/2018-01-01_mejia2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2018-01-01_impact_of_social/</guid>
+      <guid>/publication/2018-01-01_mejia2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>An equity dashboard to monitor vaccination coverage</title>
-      <link>/publication/2017-01-01_an_equity_dashboard_/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <title>The Impact of Parental and Medical Leave Policies on Socioeconomic and Health Outcomes in OECD Countries: A Systematic Review of the Empirical Literature</title>
+      <link>/publication/2018-01-01_nandi2018434/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2017-01-01_an_equity_dashboard_/</guid>
+      <guid>/publication/2018-01-01_nandi2018434/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Are work demands associated with mental distress? Evidence from women in rural India</title>
-      <link>/publication/2017-01-01_are_work_demands_ass/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <title>The effect of affordable daycare on women&#39;s mental health: Evidence from a cluster randomized trial in rural India</title>
+      <link>/publication/2018-01-01_richardson201832/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2017-01-01_are_work_demands_ass/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Assessing disparities in colorectal cancer mortality by socioeconomic status using new tools: health disparities calculator and socioeconomic quintiles</title>
-      <link>/publication/2017-01-01_assessing_disparitie/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/2017-01-01_assessing_disparitie/</guid>
+      <guid>/publication/2018-01-01_richardson201832/</guid>
       <description></description>
     </item>
     
