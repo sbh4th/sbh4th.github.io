@@ -4,6 +4,30 @@
     
     <url>
     
+      <loc>/post/is-420-deadly/</loc>
+      <lastmod>2019-02-08T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/qe-approaches-2018/</loc>
+      <lastmod>2019-02-03T10:27:40-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2019-01-29_harper_ip/</loc>
+      <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/publication/2019-01-01_hutcheon201917/</loc>
       <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -36,14 +60,6 @@
     
     <url>
     
-      <loc>/post/is-420-deadly/</loc>
-      <lastmod>2018-08-22T16:02:51-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/privacy/</loc>
       <lastmod>2018-06-28T00:00:00-04:00</lastmod>
     </url>
@@ -60,7 +76,23 @@
     
     <url>
     
-      <loc>/publication/2018-01-01_riddell2018aa/</loc>
+      <loc>/publication/2018-01-01_austin2018128/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2018-01-01_riddell2018712/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2018-01-01_richardson2018/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -76,7 +108,7 @@
     
     <url>
     
-      <loc>/publication/2018-01-01_mclinden20181/</loc>
+      <loc>/publication/2018-01-01_hutcheon2018/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -93,6 +125,14 @@
     <url>
     
       <loc>/publication/2018-01-01_mclinden2018374/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/2018-01-01_ahrens2018/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -117,14 +157,6 @@
     <url>
     
       <loc>/publication/2018-01-01_richardson201832/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/2018-01-01_king2018aa/</loc>
       <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -188,7 +220,7 @@
     
     <url>
     
-      <loc>/publication/2017-01-01_harper2017aa/</loc>
+      <loc>/publication/2017-01-01_harper2017e54/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -340,7 +372,7 @@
     
     <url>
     
-      <loc>/publication/2016-01-01_nandi2016aa/</loc>
+      <loc>/publication/2016-01-01_nandi20161/</loc>
       <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -516,7 +548,7 @@
     
     <url>
     
-      <loc>/publication/2014-01-01_mckinnon2014165/</loc>
+      <loc>/publication/2014-01-01_mckinnon2014e165/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -1189,7 +1221,16 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/bayesian/</loc>
+      <lastmod>2019-01-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1215,7 +1256,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-01-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1224,7 +1265,7 @@
     <url>
     
       <loc>/publication/</loc>
-      <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-01-29T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1241,7 +1282,44 @@
     
     <url>
     
+      <loc>/tags/smarter-choices/</loc>
+      <lastmod>2019-02-03T10:27:40-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/</loc>
+      <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/cannabis/</loc>
+      <lastmod>2019-02-08T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/decomposition/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/demography/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1267,6 +1345,24 @@
     
     <url>
     
+      <loc>/tags/health-inequalities/</loc>
+      <lastmod>2019-02-03T10:27:40-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/life-expectancy/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/maternal-child-health/</loc>
       <lastmod>2018-08-30T08:11:04-04:00</lastmod>
       <priority>0</priority>
@@ -1276,8 +1372,26 @@
     
     <url>
     
+      <loc>/tags/motor-vehicle-crashes/</loc>
+      <lastmod>2019-02-08T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/quasi-experimental/</loc>
-      <lastmod>2018-08-30T08:25:35-04:00</lastmod>
+      <lastmod>2019-02-03T10:27:40-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/race/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1287,6 +1401,24 @@
     
       <loc>/tags/randomized/</loc>
       <lastmod>2018-08-30T08:11:04-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/replication/</loc>
+      <lastmod>2019-02-08T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/reproducible-research/</loc>
+      <lastmod>2019-02-08T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>health inequalities on Sam Harper</title>
+    <link>/tags/health-inequalities/</link>
+    <description>Recent content in health inequalities on Sam Harper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 03 Feb 2019 10:27:40 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/health-inequalities/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Challenges, advantages, and limitations of quasi-experimental approaches to evaluate interventions on health inequalities</title>
+      <link>/talk/qe-approaches-2018/</link>
+      <pubDate>Sun, 03 Feb 2019 10:27:40 -0500</pubDate>
+      
+      <guid>/talk/qe-approaches-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>replication on Sam Harper</title>
+    <link>/tags/replication/</link>
+    <description>Recent content in replication on Sam Harper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 08 Feb 2019 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/replication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>420 update</title>
+      <link>/post/is-420-deadly/</link>
+      <pubDate>Fri, 08 Feb 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/post/is-420-deadly/</guid>
+      <description>Background Last fall Adam Palayew and I wrote about an interesting paper that claimed that the number of people in fatal traffic crashes increased by 12% on April the 20th. For those that don&amp;rsquo;t know, April 20th (or &amp;lsquo;420&amp;rsquo;) is a day of celebration of all things cannabis, with large outdoor gatherings where cannabis consumption is promoted, especially at 4:20pm. The idea behind the paper was that excess consumption of cannabis on April 20th led to more drugged driving, and therefore more fatal accidents.</description>
+    </item>
+    
+    <item>
+      <title>The Annual Cannabis Holiday and Fatal Traffic Crashes</title>
+      <link>/publication/2019-01-29_harper_ip/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2019-01-29_harper_ip/</guid>
+      <description>Altmetric score:</description>
+    </item>
+    
+  </channel>
+</rss>
