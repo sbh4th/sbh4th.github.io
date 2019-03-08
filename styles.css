@@ -85,7 +85,7 @@ ul, ol, dl {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 400;
   margin-top: 1rem;
   margin-bottom: .5rem;
@@ -157,7 +157,7 @@ figcaption {
   line-height: 1.25;
   font-size: 1rem;
   margin-bottom: 1.65rem;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 figcaption.numbered:before {
