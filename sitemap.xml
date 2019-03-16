@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/talk/rsf-ur-2019/</loc>
+      <lastmod>2019-03-15T10:27:40-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/media/</loc>
       <lastmod>2019-03-06T09:08:00-05:00</lastmod>
     </url>
@@ -1318,7 +1326,7 @@
     <url>
     
       <loc>/tags/decomposition/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-03-15T10:27:40-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1354,7 +1362,7 @@
     <url>
     
       <loc>/tags/health-inequalities/</loc>
-      <lastmod>2019-02-03T10:27:40-05:00</lastmod>
+      <lastmod>2019-03-15T10:27:40-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1363,7 +1371,7 @@
     <url>
     
       <loc>/tags/life-expectancy/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-03-15T10:27:40-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1373,6 +1381,15 @@
     
       <loc>/tags/maternal/child-health/</loc>
       <lastmod>2018-08-30T08:11:04-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/mortality/</loc>
+      <lastmod>2019-03-15T10:27:40-05:00</lastmod>
       <priority>0</priority>
     </url>
     
