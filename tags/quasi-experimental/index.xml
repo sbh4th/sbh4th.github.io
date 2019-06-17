@@ -4,12 +4,12 @@
     <title>quasi-experimental on Sam Harper</title>
     <link>/tags/quasi-experimental/</link>
     <description>Recent content in quasi-experimental on Sam Harper</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy {year}</copyright>
     <lastBuildDate>Sun, 03 Feb 2019 10:27:40 -0500</lastBuildDate>
     
-	<atom:link href="/tags/quasi-experimental/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/quasi-experimental/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,8 +27,12 @@
       <pubDate>Thu, 30 Aug 2018 08:25:35 -0400</pubDate>
       
       <guid>/project/bhet/</guid>
-      <description>(with Jill Baumgartner)
-Air pollution is a leading public health problem. Over 400 million Chinese homes burn coal to meet their indoor space heating needs, leading to high levels of air pollution and health impacts in adults and children. Coal burning in China also contributes to poor air quality and mercury contamination in Canada. This project will assess how transitioning away from coal and introducing new clean heating technology in China will impact the health and environment of people who live in homes impacted by policy changes.</description>
+      <description>&lt;p&gt;(with &lt;a href=&#34;https://jillbaumgartner.weebly.com/&#34; target=&#34;_blank&#34;&gt;Jill Baumgartner&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;Air pollution is a leading public health problem. Over 400 million Chinese homes burn coal to meet their indoor space heating needs, leading to high levels of air pollution and health impacts in adults and children. Coal burning in China also contributes to poor air quality and mercury contamination in Canada. This project will assess how transitioning away from coal and introducing new clean heating technology in China will impact the health and environment of people who live in homes impacted by policy changes.&lt;/p&gt;
+
+&lt;p&gt;Funding: Canadian Institutes for Health Research&lt;/p&gt;
+</description>
     </item>
     
   </channel>

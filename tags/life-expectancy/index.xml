@@ -4,12 +4,12 @@
     <title>life expectancy on Sam Harper</title>
     <link>/tags/life-expectancy/</link>
     <description>Recent content in life expectancy on Sam Harper</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy {year}</copyright>
     <lastBuildDate>Fri, 15 Mar 2019 10:27:40 -0500</lastBuildDate>
     
-	<atom:link href="/tags/life-expectancy/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/life-expectancy/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,12 +22,12 @@
     </item>
     
     <item>
-      <title>Declining US Life Expectancy: A First Look</title>
-      <link>/publication/2017-01-01_harper2017e54/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <title>Trends in the contribution of major causes of death to the black-white life expectancy gap by US state</title>
+      <link>/publication/riddell-201885/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/publication/2017-01-01_harper2017e54/</guid>
-      <description>Altmetric score:</description>
+      <guid>/publication/riddell-201885/</guid>
+      <description></description>
     </item>
     
   </channel>

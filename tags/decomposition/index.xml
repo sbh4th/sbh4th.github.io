@@ -4,12 +4,12 @@
     <title>decomposition on Sam Harper</title>
     <link>/tags/decomposition/</link>
     <description>Recent content in decomposition on Sam Harper</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy {year}</copyright>
     <lastBuildDate>Fri, 15 Mar 2019 10:27:40 -0500</lastBuildDate>
     
-	<atom:link href="/tags/decomposition/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/decomposition/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>/talk/rsf-ur-2019/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Declining US Life Expectancy: A First Look</title>
-      <link>/publication/2017-01-01_harper2017e54/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/2017-01-01_harper2017e54/</guid>
-      <description>Altmetric score:</description>
     </item>
     
   </channel>

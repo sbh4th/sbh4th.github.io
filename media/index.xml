@@ -4,12 +4,12 @@
     <title>Media on Sam Harper</title>
     <link>/media/</link>
     <description>Recent content in Media on Sam Harper</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy {year}</copyright>
     <lastBuildDate>Wed, 06 Mar 2019 09:08:00 -0500</lastBuildDate>
     
-	<atom:link href="/media/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/media/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
