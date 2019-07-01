@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Media on Sam Harper</title>
-    <link>/media/</link>
+    <link>http://sbh4th.github.io/media/</link>
     <description>Recent content in Media on Sam Harper</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy {year}</copyright>
+    <copyright>&amp;copy; {year}</copyright>
     <lastBuildDate>Wed, 06 Mar 2019 09:08:00 -0500</lastBuildDate>
     
-	    <atom:link href="/media/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="http://sbh4th.github.io/media/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
