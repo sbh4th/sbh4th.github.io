@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Fri, 15 Mar 2019 14:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Academic</title>
+      <link>/tags/academic/</link>
+      <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/academic/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>health inequalities</title>
@@ -63,15 +72,6 @@
       <pubDate>Fri, 08 Feb 2019 00:00:00 -0500</pubDate>
       
       <guid>/tags/reproducible-research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>United States</title>
-      <link>/tags/united-states/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/united-states/</guid>
       <description></description>
     </item>
     
@@ -292,11 +292,11 @@
     </item>
     
     <item>
-      <title>Smarter Choices</title>
-      <link>/tags/smarter-choices/</link>
-      <pubDate>Fri, 12 Oct 2018 13:00:00 +0000</pubDate>
+      <title>United States</title>
+      <link>/tags/united-states/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/smarter-choices/</guid>
+      <guid>/tags/united-states/</guid>
       <description></description>
     </item>
     
@@ -306,6 +306,15 @@
       <pubDate>Fri, 12 Oct 2018 13:00:00 +0000</pubDate>
       
       <guid>/tags/quasi-experimental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smarter Choices</title>
+      <link>/tags/smarter-choices/</link>
+      <pubDate>Fri, 12 Oct 2018 13:00:00 +0000</pubDate>
+      
+      <guid>/tags/smarter-choices/</guid>
       <description></description>
     </item>
     
@@ -351,24 +360,6 @@
       <pubDate>Wed, 29 Aug 2018 15:12:54 -0400</pubDate>
       
       <guid>/tags/womens-empowerment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HIV</title>
-      <link>/tags/hiv/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/hiv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>India</title>
-      <link>/tags/india/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/india/</guid>
       <description></description>
     </item>
     
@@ -499,11 +490,29 @@
     </item>
     
     <item>
+      <title>HIV</title>
+      <link>/tags/hiv/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>hypertension</title>
       <link>/tags/hypertension/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/hypertension/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>India</title>
+      <link>/tags/india/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/india/</guid>
       <description></description>
     </item>
     
