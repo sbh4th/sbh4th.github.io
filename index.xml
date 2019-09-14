@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Fri, 15 Mar 2019 14:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Publications</title>
+      <link>/publication/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Media</title>
@@ -18,15 +27,6 @@
       <pubDate>Wed, 06 Mar 2019 09:08:00 -0500</pubDate>
       
       <guid>/media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>/publication/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/</guid>
       <description></description>
     </item>
     

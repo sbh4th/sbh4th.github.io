@@ -7,10 +7,37 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Fri, 15 Mar 2019 14:30:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>replication</title>
+      <link>/tags/replication/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/replication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reproducible research</title>
+      <link>/tags/reproducible-research/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/reproducible-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research ethics</title>
+      <link>/tags/research-ethics/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/research-ethics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>health inequalities</title>
@@ -45,24 +72,6 @@
       <pubDate>Fri, 08 Feb 2019 00:00:00 -0500</pubDate>
       
       <guid>/tags/motor-vehicle-crashes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>replication</title>
-      <link>/tags/replication/</link>
-      <pubDate>Fri, 08 Feb 2019 00:00:00 -0500</pubDate>
-      
-      <guid>/tags/replication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reproducible research</title>
-      <link>/tags/reproducible-research/</link>
-      <pubDate>Fri, 08 Feb 2019 00:00:00 -0500</pubDate>
-      
-      <guid>/tags/reproducible-research/</guid>
       <description></description>
     </item>
     
