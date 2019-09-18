@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>reproducible research on Sam Harper</title>
+    <title>reproducible research | Sam Harper</title>
     <link>/tags/reproducible-research/</link>
-    <description>Recent content in reproducible research on Sam Harper</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="/tags/reproducible-research/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/tags/reproducible-research/index.xml" rel="self" type="application/rss+xml" />
+    <description>reproducible research</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>reproducible research</title>
+      <link>/tags/reproducible-research/</link>
+    </image>
     
     <item>
       <title>Resource Sharing to Improve Research Quality</title>
       <link>/publication/hamra-2019/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>/publication/hamra-2019/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>420 update</title>
       <link>/post/420-update/</link>
       <pubDate>Fri, 08 Feb 2019 00:00:00 -0500</pubDate>
-      
       <guid>/post/420-update/</guid>
       <description>
 

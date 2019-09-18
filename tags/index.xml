@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Sam Harper</title>
+    <title>Tags | Sam Harper</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Sam Harper</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
     
     <item>
       <title>replication</title>
       <link>/tags/replication/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>/tags/replication/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>reproducible research</title>
       <link>/tags/reproducible-research/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>/tags/reproducible-research/</guid>
       <description></description>
     </item>
@@ -34,7 +32,6 @@
       <title>research ethics</title>
       <link>/tags/research-ethics/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>/tags/research-ethics/</guid>
       <description></description>
     </item>
@@ -43,7 +40,6 @@
       <title>health inequalities</title>
       <link>/tags/health-inequalities/</link>
       <pubDate>Fri, 15 Mar 2019 14:30:00 +0000</pubDate>
-      
       <guid>/tags/health-inequalities/</guid>
       <description></description>
     </item>
@@ -52,7 +48,6 @@
       <title>urban-rural</title>
       <link>/tags/urban-rural/</link>
       <pubDate>Fri, 15 Mar 2019 14:30:00 +0000</pubDate>
-      
       <guid>/tags/urban-rural/</guid>
       <description></description>
     </item>
@@ -61,7 +56,6 @@
       <title>cannabis</title>
       <link>/tags/cannabis/</link>
       <pubDate>Fri, 08 Feb 2019 00:00:00 -0500</pubDate>
-      
       <guid>/tags/cannabis/</guid>
       <description></description>
     </item>
@@ -70,7 +64,6 @@
       <title>motor vehicle crashes</title>
       <link>/tags/motor-vehicle-crashes/</link>
       <pubDate>Fri, 08 Feb 2019 00:00:00 -0500</pubDate>
-      
       <guid>/tags/motor-vehicle-crashes/</guid>
       <description></description>
     </item>
@@ -79,7 +72,6 @@
       <title>birth spacing</title>
       <link>/tags/birth-spacing/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/tags/birth-spacing/</guid>
       <description></description>
     </item>
@@ -88,7 +80,6 @@
       <title>causality</title>
       <link>/tags/causality/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/tags/causality/</guid>
       <description></description>
     </item>
@@ -97,7 +88,6 @@
       <title>clinical practice</title>
       <link>/tags/clinical-practice/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/tags/clinical-practice/</guid>
       <description></description>
     </item>
@@ -106,7 +96,6 @@
       <title>economic status</title>
       <link>/tags/economic-status/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/tags/economic-status/</guid>
       <description></description>
     </item>
@@ -115,7 +104,6 @@
       <title>epidemiology</title>
       <link>/tags/epidemiology/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/tags/epidemiology/</guid>
       <description></description>
     </item>
@@ -124,7 +112,6 @@
       <title>evaluation study</title>
       <link>/tags/evaluation-study/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/tags/evaluation-study/</guid>
       <description></description>
     </item>
@@ -133,7 +120,6 @@
       <title>evidence based practice</title>
       <link>/tags/evidence-based-practice/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/tags/evidence-based-practice/</guid>
       <description></description>
     </item>
@@ -142,7 +128,6 @@
       <title>family planning</title>
       <link>/tags/family-planning/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/tags/family-planning/</guid>
       <description></description>
     </item>
@@ -151,7 +136,6 @@
       <title>health care delivery</title>
       <link>/tags/health-care-delivery/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/tags/health-care-delivery/</guid>
       <description></description>
     </item>
@@ -160,7 +144,6 @@
       <title>health care quality</title>
       <link>/tags/health-care-quality/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/tags/health-care-quality/</guid>
       <description></description>
     </item>
@@ -169,7 +152,6 @@
       <title>health equity</title>
       <link>/tags/health-equity/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/tags/health-equity/</guid>
       <description></description>
     </item>
@@ -178,7 +160,6 @@
       <title>maternal age</title>
       <link>/tags/maternal-age/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/tags/maternal-age/</guid>
       <description></description>
     </item>
@@ -187,7 +168,6 @@
       <title>maternal care</title>
       <link>/tags/maternal-care/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/tags/maternal-care/</guid>
       <description></description>
     </item>
@@ -196,7 +176,6 @@
       <title>meta analysis</title>
       <link>/tags/meta-analysis/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/tags/meta-analysis/</guid>
       <description></description>
     </item>
@@ -205,7 +184,6 @@
       <title>observational studies</title>
       <link>/tags/observational-studies/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/tags/observational-studies/</guid>
       <description></description>
     </item>
@@ -214,7 +192,6 @@
       <title>perinatal care</title>
       <link>/tags/perinatal-care/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/tags/perinatal-care/</guid>
       <description></description>
     </item>
@@ -223,7 +200,6 @@
       <title>practice guideline</title>
       <link>/tags/practice-guideline/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/tags/practice-guideline/</guid>
       <description></description>
     </item>
@@ -232,7 +208,6 @@
       <title>pregnancy</title>
       <link>/tags/pregnancy/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/tags/pregnancy/</guid>
       <description></description>
     </item>
@@ -241,7 +216,6 @@
       <title>pregnancy outcome</title>
       <link>/tags/pregnancy-outcome/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/tags/pregnancy-outcome/</guid>
       <description></description>
     </item>
@@ -250,7 +224,6 @@
       <title>risk reduction</title>
       <link>/tags/risk-reduction/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/tags/risk-reduction/</guid>
       <description></description>
     </item>
@@ -259,7 +232,6 @@
       <title>selection bias</title>
       <link>/tags/selection-bias/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/tags/selection-bias/</guid>
       <description></description>
     </item>
@@ -268,7 +240,6 @@
       <title>statistical analysis</title>
       <link>/tags/statistical-analysis/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/tags/statistical-analysis/</guid>
       <description></description>
     </item>
@@ -277,7 +248,6 @@
       <title>study design</title>
       <link>/tags/study-design/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/tags/study-design/</guid>
       <description></description>
     </item>
@@ -286,7 +256,6 @@
       <title>systematic review</title>
       <link>/tags/systematic-review/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/tags/systematic-review/</guid>
       <description></description>
     </item>
@@ -295,7 +264,6 @@
       <title>United States</title>
       <link>/tags/united-states/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/tags/united-states/</guid>
       <description></description>
     </item>
@@ -304,7 +272,6 @@
       <title>quasi-experimental</title>
       <link>/tags/quasi-experimental/</link>
       <pubDate>Fri, 12 Oct 2018 13:00:00 +0000</pubDate>
-      
       <guid>/tags/quasi-experimental/</guid>
       <description></description>
     </item>
@@ -313,7 +280,6 @@
       <title>Smarter Choices</title>
       <link>/tags/smarter-choices/</link>
       <pubDate>Fri, 12 Oct 2018 13:00:00 +0000</pubDate>
-      
       <guid>/tags/smarter-choices/</guid>
       <description></description>
     </item>
@@ -322,7 +288,6 @@
       <title>environmental</title>
       <link>/tags/environmental/</link>
       <pubDate>Thu, 30 Aug 2018 08:25:35 -0400</pubDate>
-      
       <guid>/tags/environmental/</guid>
       <description></description>
     </item>
@@ -331,7 +296,6 @@
       <title>evaluation</title>
       <link>/tags/evaluation/</link>
       <pubDate>Thu, 30 Aug 2018 08:25:35 -0400</pubDate>
-      
       <guid>/tags/evaluation/</guid>
       <description></description>
     </item>
@@ -340,7 +304,6 @@
       <title>maternal/child health</title>
       <link>/tags/maternal/child-health/</link>
       <pubDate>Thu, 30 Aug 2018 08:11:04 -0400</pubDate>
-      
       <guid>/tags/maternal/child-health/</guid>
       <description></description>
     </item>
@@ -349,7 +312,6 @@
       <title>randomized</title>
       <link>/tags/randomized/</link>
       <pubDate>Thu, 30 Aug 2018 08:11:04 -0400</pubDate>
-      
       <guid>/tags/randomized/</guid>
       <description></description>
     </item>
@@ -358,7 +320,6 @@
       <title>women&#39;s empowerment</title>
       <link>/tags/womens-empowerment/</link>
       <pubDate>Wed, 29 Aug 2018 15:12:54 -0400</pubDate>
-      
       <guid>/tags/womens-empowerment/</guid>
       <description></description>
     </item>
@@ -367,7 +328,6 @@
       <title>alcohol consumption</title>
       <link>/tags/alcohol-consumption/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/alcohol-consumption/</guid>
       <description></description>
     </item>
@@ -376,7 +336,6 @@
       <title>cardiovascular disease</title>
       <link>/tags/cardiovascular-disease/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/cardiovascular-disease/</guid>
       <description></description>
     </item>
@@ -385,7 +344,6 @@
       <title>cause of death</title>
       <link>/tags/cause-of-death/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/cause-of-death/</guid>
       <description></description>
     </item>
@@ -394,7 +352,6 @@
       <title>child health</title>
       <link>/tags/child-health/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/child-health/</guid>
       <description></description>
     </item>
@@ -403,7 +360,6 @@
       <title>cohort study</title>
       <link>/tags/cohort-study/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/cohort-study/</guid>
       <description></description>
     </item>
@@ -412,7 +368,6 @@
       <title>communicable disease</title>
       <link>/tags/communicable-disease/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/communicable-disease/</guid>
       <description></description>
     </item>
@@ -421,7 +376,6 @@
       <title>day care</title>
       <link>/tags/day-care/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/day-care/</guid>
       <description></description>
     </item>
@@ -430,7 +384,6 @@
       <title>diabetes mellitus</title>
       <link>/tags/diabetes-mellitus/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/diabetes-mellitus/</guid>
       <description></description>
     </item>
@@ -439,7 +392,6 @@
       <title>drug use</title>
       <link>/tags/drug-use/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/drug-use/</guid>
       <description></description>
     </item>
@@ -448,7 +400,6 @@
       <title>dyslipidemia</title>
       <link>/tags/dyslipidemia/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/dyslipidemia/</guid>
       <description></description>
     </item>
@@ -457,7 +408,6 @@
       <title>employment</title>
       <link>/tags/employment/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/employment/</guid>
       <description></description>
     </item>
@@ -466,7 +416,6 @@
       <title>food insecurity</title>
       <link>/tags/food-insecurity/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/food-insecurity/</guid>
       <description></description>
     </item>
@@ -475,7 +424,6 @@
       <title>health care policy</title>
       <link>/tags/health-care-policy/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/health-care-policy/</guid>
       <description></description>
     </item>
@@ -484,7 +432,6 @@
       <title>hepatitis C</title>
       <link>/tags/hepatitis-c/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/hepatitis-c/</guid>
       <description></description>
     </item>
@@ -493,7 +440,6 @@
       <title>HIV</title>
       <link>/tags/hiv/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/hiv/</guid>
       <description></description>
     </item>
@@ -502,7 +448,6 @@
       <title>hypertension</title>
       <link>/tags/hypertension/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/hypertension/</guid>
       <description></description>
     </item>
@@ -511,7 +456,6 @@
       <title>India</title>
       <link>/tags/india/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/india/</guid>
       <description></description>
     </item>
@@ -520,7 +464,6 @@
       <title>injection drug use</title>
       <link>/tags/injection-drug-use/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/injection-drug-use/</guid>
       <description></description>
     </item>
@@ -529,7 +472,6 @@
       <title>injury</title>
       <link>/tags/injury/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/injury/</guid>
       <description></description>
     </item>
@@ -538,7 +480,6 @@
       <title>legislation</title>
       <link>/tags/legislation/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/legislation/</guid>
       <description></description>
     </item>
@@ -547,7 +488,6 @@
       <title>life expectancy</title>
       <link>/tags/life-expectancy/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/life-expectancy/</guid>
       <description></description>
     </item>
@@ -556,7 +496,6 @@
       <title>maternal health</title>
       <link>/tags/maternal-health/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/maternal-health/</guid>
       <description></description>
     </item>
@@ -565,7 +504,6 @@
       <title>medical leave</title>
       <link>/tags/medical-leave/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/medical-leave/</guid>
       <description></description>
     </item>
@@ -574,7 +512,6 @@
       <title>mental health</title>
       <link>/tags/mental-health/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/mental-health/</guid>
       <description></description>
     </item>
@@ -583,7 +520,6 @@
       <title>mortality</title>
       <link>/tags/mortality/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/mortality/</guid>
       <description></description>
     </item>
@@ -592,7 +528,6 @@
       <title>parental leave</title>
       <link>/tags/parental-leave/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/parental-leave/</guid>
       <description></description>
     </item>
@@ -601,7 +536,6 @@
       <title>partner violence</title>
       <link>/tags/partner-violence/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/partner-violence/</guid>
       <description></description>
     </item>
@@ -610,7 +544,6 @@
       <title>race</title>
       <link>/tags/race/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/race/</guid>
       <description></description>
     </item>
@@ -619,7 +552,6 @@
       <title>randomized controlled trial</title>
       <link>/tags/randomized-controlled-trial/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/randomized-controlled-trial/</guid>
       <description></description>
     </item>
@@ -628,7 +560,6 @@
       <title>rural</title>
       <link>/tags/rural/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/rural/</guid>
       <description></description>
     </item>
@@ -637,7 +568,6 @@
       <title>sick leave</title>
       <link>/tags/sick-leave/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/sick-leave/</guid>
       <description></description>
     </item>
@@ -646,7 +576,6 @@
       <title>smoking</title>
       <link>/tags/smoking/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/smoking/</guid>
       <description></description>
     </item>
@@ -655,7 +584,6 @@
       <title>socioeconomic status</title>
       <link>/tags/socioeconomic-status/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/socioeconomic-status/</guid>
       <description></description>
     </item>
@@ -664,7 +592,6 @@
       <title>trends</title>
       <link>/tags/trends/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/tags/trends/</guid>
       <description></description>
     </item>

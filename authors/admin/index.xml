@@ -3,13 +3,14 @@
   <channel>
     <title>Sam Harper</title>
     <link>/authors/admin/</link>
-    <description>Recent content on Sam Harper</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year}</copyright>
-    
-	    <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sam Harper</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Sam Harper</title>
+      <link>/authors/admin/</link>
+    </image>
     
   </channel>
 </rss>

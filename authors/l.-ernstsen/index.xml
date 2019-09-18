@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>L. Ernstsen on Sam Harper</title>
+    <title>L. Ernstsen | Sam Harper</title>
     <link>/authors/l.-ernstsen/</link>
-    <description>Recent content in L. Ernstsen on Sam Harper</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="/authors/l.-ernstsen/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/l.-ernstsen/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Ernstsen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>L. Ernstsen</title>
+      <link>/authors/l.-ernstsen/</link>
+    </image>
     
     <item>
       <title>Educational and wealth inequalities in tobacco use among men and women in 54 low-income and middle-income countries</title>
       <link>/publication/sreeramareddy-201826/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/publication/sreeramareddy-201826/</guid>
       <description></description>
     </item>

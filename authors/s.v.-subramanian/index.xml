@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>S.V. Subramanian on Sam Harper</title>
+    <title>S.V. Subramanian | Sam Harper</title>
     <link>/authors/s.v.-subramanian/</link>
-    <description>Recent content in S.V. Subramanian on Sam Harper</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
-    
-	    <atom:link href="/authors/s.v.-subramanian/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/authors/s.v.-subramanian/index.xml" rel="self" type="application/rss+xml" />
+    <description>S.V. Subramanian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>S.V. Subramanian</title>
+      <link>/authors/s.v.-subramanian/</link>
+    </image>
     
     <item>
       <title>The effect of metropolitan-area mortgage delinquency on health behaviors, access to health services, and self-rated health in the United States, 2003-2010</title>
       <link>/publication/charters-201674/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>/publication/charters-201674/</guid>
       <description></description>
     </item>

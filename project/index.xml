@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Sam Harper</title>
+    <title>Projects | Sam Harper</title>
     <link>/project/</link>
-    <description>Recent content in Projects on Sam Harper</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Thu, 30 Aug 2018 08:25:35 -0400</lastBuildDate>
-    
-	    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 30 Aug 2018 08:25:35 -0400</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
     
     <item>
       <title>Beijing Household Energy Transitions</title>
       <link>/project/bhet/</link>
       <pubDate>Thu, 30 Aug 2018 08:25:35 -0400</pubDate>
-      
       <guid>/project/bhet/</guid>
       <description>&lt;p&gt;(with &lt;a href=&#34;https://jillbaumgartner.weebly.com/&#34; target=&#34;_blank&#34;&gt;Jill Baumgartner&lt;/a&gt;)&lt;/p&gt;
 
@@ -30,7 +29,6 @@
       <title>Tabora Newborn and Maternal Health Initiative</title>
       <link>/project/tamani/</link>
       <pubDate>Thu, 30 Aug 2018 08:11:04 -0400</pubDate>
-      
       <guid>/project/tamani/</guid>
       <description>&lt;p&gt;(with &lt;a href=&#34;https://www.mcgill.ca/epi-biostat-occh/arijit-nandi&#34; target=&#34;_blank&#34;&gt;Arijit Nandi&lt;/a&gt;, &lt;a href=&#34;http://ihi.or.tz/&#34; target=&#34;_blank&#34;&gt;Ifakara Health Institute&lt;/a&gt;, &lt;a href=&#34;https://care.ca/tamani&#34; target=&#34;_blank&#34;&gt;CARE Canada&lt;/a&gt;)&lt;/p&gt;
 
@@ -44,7 +42,6 @@
       <title>Affordable Daycare To Empower Indian Women</title>
       <link>/project/u2/</link>
       <pubDate>Wed, 29 Aug 2018 15:12:54 -0400</pubDate>
-      
       <guid>/project/u2/</guid>
       <description>&lt;p&gt;(with &lt;a href=&#34;https://www.mcgill.ca/epi-biostat-occh/arijit-nandi&#34; target=&#34;_blank&#34;&gt;Arijit Nandi&lt;/a&gt;)&lt;/p&gt;
 
