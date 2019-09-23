@@ -5,12 +5,28 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>**Sam Harper**</title>
+      <link>/authors/sam-harper/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/sam-harper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nichole Austin</title>
+      <link>/authors/nichole-austin/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/nichole-austin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>**S. Harper**</title>
@@ -81,14 +97,6 @@
       <link>/authors/mandi-yu/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/authors/mandi-yu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sam Harper</title>
-      <link>/authors/sam-harper/</link>
-      <pubDate>Fri, 15 Mar 2019 14:30:00 +0000</pubDate>
-      <guid>/authors/sam-harper/</guid>
       <description></description>
     </item>
     
