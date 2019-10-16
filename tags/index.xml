@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,17 +13,25 @@
     </image>
     
     <item>
-      <title>abortion; supply-side policies; women&#39;s health</title>
-      <link>/tags/abortion-supply-side-policies-womens-health/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/abortion-supply-side-policies-womens-health/</guid>
+      <title>peer review</title>
+      <link>/tags/peer-review/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/peer-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quasi-experiments</title>
+      <link>/tags/quasi-experiments/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/quasi-experiments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>replication</title>
       <link>/tags/replication/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/tags/replication/</guid>
       <description></description>
     </item>
@@ -31,8 +39,16 @@
     <item>
       <title>reproducible research</title>
       <link>/tags/reproducible-research/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/tags/reproducible-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>abortion; supply-side policies; women&#39;s health</title>
+      <link>/tags/abortion-supply-side-policies-womens-health/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/abortion-supply-side-policies-womens-health/</guid>
       <description></description>
     </item>
     
