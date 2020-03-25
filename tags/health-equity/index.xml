@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>health equity | Sam Harper</title>
+    <title>health equity on Sam Harper</title>
     <link>/tags/health-equity/</link>
-      <atom:link href="/tags/health-equity/index.xml" rel="self" type="application/rss+xml" />
-    <description>health equity</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/icon-192.png</url>
-      <title>health equity</title>
-      <link>/tags/health-equity/</link>
-    </image>
+    <description>Recent content in health equity on Sam Harper</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/health-equity/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Comment on the equity impact of women&#39;s community groups on inequalities in neonatal mortality</title>
       <link>/publication/harper-2019182/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/publication/harper-2019182/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;

@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>**Sam Harper** | Sam Harper</title>
+    <title>**Sam Harper** on Sam Harper</title>
     <link>/authors/sam-harper/</link>
-      <atom:link href="/authors/sam-harper/index.xml" rel="self" type="application/rss+xml" />
-    <description>**Sam Harper**</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/icon-192.png</url>
-      <title>**Sam Harper**</title>
-      <link>/authors/sam-harper/</link>
-    </image>
+    <description>Recent content in **Sam Harper** on Sam Harper</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/sam-harper/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Constructing a longitudinal database of targeted regulation of abortion providers laws</title>
       <link>/publication/austin-2019-aa/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
       <guid>/publication/austin-2019-aa/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -29,6 +30,7 @@
       <title>Quantifying the impact of targeted regulation of abortion provider laws on US abortion rates: a multi-state assessment</title>
       <link>/publication/austin-2019-ab/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
       <guid>/publication/austin-2019-ab/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -42,6 +44,7 @@
       <title>Past and present rural-urban mortality transitions</title>
       <link>/talk/rsf/</link>
       <pubDate>Fri, 15 Mar 2019 14:30:00 +0000</pubDate>
+      
       <guid>/talk/rsf/</guid>
       <description></description>
     </item>
@@ -50,6 +53,7 @@
       <title>Challenges, advantages, and limitations of quasi-experimental approaches to evaluate interventions on health inequalities</title>
       <link>/talk/kickoff/</link>
       <pubDate>Fri, 12 Oct 2018 13:00:00 +0000</pubDate>
+      
       <guid>/talk/kickoff/</guid>
       <description></description>
     </item>
@@ -58,6 +62,7 @@
       <title>Assessing the impact of TRAP laws on abortion and women&#39;s health in the USA: a systematic review</title>
       <link>/publication/austin-2018-aa/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
       <guid>/publication/austin-2018-aa/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -71,6 +76,7 @@
       <title>Comparison of Rates of Firearm and Nonfirearm Homicide and Suicide in Black and White Non-Hispanic Men, by U.S. State</title>
       <link>/publication/riddell-2018-aa/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
       <guid>/publication/riddell-2018-aa/</guid>
       <description></description>
     </item>
@@ -79,6 +85,7 @@
       <title>The impact of social and psychological consequences of disease on judgments of disease severity: An experimental study</title>
       <link>/publication/king-2018-aa/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/publication/king-2018-aa/</guid>
       <description></description>
     </item>
@@ -87,6 +94,7 @@
       <title>Declining US Life Expectancy: A First Look</title>
       <link>/publication/harper-2017-aa/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
       <guid>/publication/harper-2017-aa/</guid>
       <description></description>
     </item>

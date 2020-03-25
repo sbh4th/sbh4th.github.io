@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Sam Harper</title>
+    <title>Authors on Sam Harper</title>
     <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/icon-192.png</url>
-      <title>Authors</title>
-      <link>/authors/</link>
-    </image>
+    <description>Recent content in Authors on Sam Harper</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title></title>
       <link>/authors/admin/</link>
       <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I am an associate professor in the Department of Epidemiology, Biostatistics &amp;amp; Occupational Health at McGill University. I am also a member of the McGill University Centre on Population Dynamics and the Montreal Health Equity Research Consortium.&lt;/p&gt;
-
 &lt;p&gt;My research focuses on understanding population health and its social distribution, with specific interests in impact evaluation, measuring health inequalities, global health, demography, causal inference, and ethical issues in public health.&lt;/p&gt;
-
 &lt;p&gt;More information on specific projects, papers, students, and teaching are in my &lt;a href=&#34;/files/cv.pdf&#34; target=&#34;_blank&#34;&gt;CV&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
@@ -29,6 +28,7 @@
       <title>**Sam Harper**</title>
       <link>/authors/sam-harper/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/sam-harper/</guid>
       <description></description>
     </item>
@@ -37,6 +37,7 @@
       <title>Nichole Austin</title>
       <link>/authors/nichole-austin/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/nichole-austin/</guid>
       <description></description>
     </item>
@@ -45,6 +46,7 @@
       <title>**S. Harper**</title>
       <link>/authors/s.-harper/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/s.-harper/</guid>
       <description></description>
     </item>
@@ -53,6 +55,7 @@
       <title>Benmei Liu</title>
       <link>/authors/benmei-liu/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/benmei-liu/</guid>
       <description></description>
     </item>
@@ -61,6 +64,7 @@
       <title>C.T. Sreeramareddy</title>
       <link>/authors/c.t.-sreeramareddy/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/c.t.-sreeramareddy/</guid>
       <description></description>
     </item>
@@ -69,6 +73,7 @@
       <title>Eric J. Feuer</title>
       <link>/authors/eric-j.-feuer/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/eric-j.-feuer/</guid>
       <description></description>
     </item>
@@ -77,6 +82,7 @@
       <title>Goldstein, N.D.</title>
       <link>/authors/goldstein-n.d./</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/goldstein-n.d./</guid>
       <description></description>
     </item>
@@ -85,6 +91,7 @@
       <title>Hamra, G.B.</title>
       <link>/authors/hamra-g.b./</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/hamra-g.b./</guid>
       <description></description>
     </item>
@@ -93,6 +100,7 @@
       <title>Harper, S.</title>
       <link>/authors/harper-s./</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/harper-s./</guid>
       <description></description>
     </item>
@@ -101,6 +109,7 @@
       <title>Jaeil Ahn</title>
       <link>/authors/jaeil-ahn/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/jaeil-ahn/</guid>
       <description></description>
     </item>
@@ -109,6 +118,7 @@
       <title>Mandi Yu</title>
       <link>/authors/mandi-yu/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/mandi-yu/</guid>
       <description></description>
     </item>
@@ -117,6 +127,7 @@
       <title>A. Costa</title>
       <link>/authors/a.-costa/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/a.-costa/</guid>
       <description></description>
     </item>
@@ -125,6 +136,7 @@
       <title>A. Nandi</title>
       <link>/authors/a.-nandi/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/a.-nandi/</guid>
       <description></description>
     </item>
@@ -133,6 +145,7 @@
       <title>A. Palayew</title>
       <link>/authors/a.-palayew/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/a.-palayew/</guid>
       <description></description>
     </item>
@@ -141,6 +154,7 @@
       <title>A.H. Hirai</title>
       <link>/authors/a.h.-hirai/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/a.h.-hirai/</guid>
       <description></description>
     </item>
@@ -149,6 +163,7 @@
       <title>A.M. Stuebe</title>
       <link>/authors/a.m.-stuebe/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/a.m.-stuebe/</guid>
       <description></description>
     </item>
@@ -157,6 +172,7 @@
       <title>B.N. Frederiksen</title>
       <link>/authors/b.n.-frederiksen/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/b.n.-frederiksen/</guid>
       <description></description>
     </item>
@@ -165,6 +181,7 @@
       <title>C. Maguni</title>
       <link>/authors/c.-maguni/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/c.-maguni/</guid>
       <description></description>
     </item>
@@ -173,6 +190,7 @@
       <title>C.D. Ferré</title>
       <link>/authors/c.d.-ferr%C3%A9/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/c.d.-ferr%C3%A9/</guid>
       <description></description>
     </item>
@@ -181,6 +199,7 @@
       <title>C.J. Vladutiu</title>
       <link>/authors/c.j.-vladutiu/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/c.j.-vladutiu/</guid>
       <description></description>
     </item>
@@ -189,6 +208,7 @@
       <title>C.V. Ananth</title>
       <link>/authors/c.v.-ananth/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/c.v.-ananth/</guid>
       <description></description>
     </item>
@@ -197,6 +217,7 @@
       <title>D. Bracco</title>
       <link>/authors/d.-bracco/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/d.-bracco/</guid>
       <description></description>
     </item>
@@ -205,6 +226,7 @@
       <title>D.L. Deckelbaum</title>
       <link>/authors/d.l.-deckelbaum/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/d.l.-deckelbaum/</guid>
       <description></description>
     </item>
@@ -213,6 +235,7 @@
       <title>E. Massinga</title>
       <link>/authors/e.-massinga/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/e.-massinga/</guid>
       <description></description>
     </item>
@@ -221,6 +244,7 @@
       <title>E. Wong</title>
       <link>/authors/e.-wong/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/e.-wong/</guid>
       <description></description>
     </item>
@@ -229,6 +253,7 @@
       <title>F. Hamadani</title>
       <link>/authors/f.-hamadani/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/f.-hamadani/</guid>
       <description></description>
     </item>
@@ -237,6 +262,7 @@
       <title>H.D. Nelson</title>
       <link>/authors/h.d.-nelson/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/h.d.-nelson/</guid>
       <description></description>
     </item>
@@ -245,6 +271,7 @@
       <title>I. Percina</title>
       <link>/authors/i.-percina/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/i.-percina/</guid>
       <description></description>
     </item>
@@ -253,6 +280,7 @@
       <title>J.A. Hutcheon</title>
       <link>/authors/j.a.-hutcheon/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/j.a.-hutcheon/</guid>
       <description></description>
     </item>
@@ -261,6 +289,7 @@
       <title>K.A. Ahrens</title>
       <link>/authors/k.a.-ahrens/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/k.a.-ahrens/</guid>
       <description></description>
     </item>
@@ -269,6 +298,7 @@
       <title>L. Lindberg</title>
       <link>/authors/l.-lindberg/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/l.-lindberg/</guid>
       <description></description>
     </item>
@@ -277,6 +307,7 @@
       <title>L.M. Bates</title>
       <link>/authors/l.m.-bates/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/l.m.-bates/</guid>
       <description></description>
     </item>
@@ -285,6 +316,7 @@
       <title>L.M. Rossen</title>
       <link>/authors/l.m.-rossen/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/l.m.-rossen/</guid>
       <description></description>
     </item>
@@ -293,6 +325,7 @@
       <title>M. Muataco</title>
       <link>/authors/m.-muataco/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/m.-muataco/</guid>
       <description></description>
     </item>
@@ -301,6 +334,7 @@
       <title>M.A. Klebanoff</title>
       <link>/authors/m.a.-klebanoff/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/m.a.-klebanoff/</guid>
       <description></description>
     </item>
@@ -309,6 +343,7 @@
       <title>M.E. Thoma</title>
       <link>/authors/m.e.-thoma/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/m.e.-thoma/</guid>
       <description></description>
     </item>
@@ -317,6 +352,7 @@
       <title>N. Schmitz</title>
       <link>/authors/n.-schmitz/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/n.-schmitz/</guid>
       <description></description>
     </item>
@@ -325,6 +361,7 @@
       <title>O. Basso</title>
       <link>/authors/o.-basso/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/o.-basso/</guid>
       <description></description>
     </item>
@@ -333,6 +370,7 @@
       <title>O. Neves</title>
       <link>/authors/o.-neves/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/o.-neves/</guid>
       <description></description>
     </item>
@@ -341,6 +379,7 @@
       <title>P. Muripiha</title>
       <link>/authors/p.-muripiha/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/p.-muripiha/</guid>
       <description></description>
     </item>
@@ -349,6 +388,7 @@
       <title>P. Yohannan</title>
       <link>/authors/p.-yohannan/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/p.-yohannan/</guid>
       <description></description>
     </item>
@@ -357,6 +397,7 @@
       <title>P.A. Briss</title>
       <link>/authors/p.a.-briss/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/p.a.-briss/</guid>
       <description></description>
     </item>
@@ -365,6 +406,7 @@
       <title>R. Richardson</title>
       <link>/authors/r.-richardson/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/r.-richardson/</guid>
       <description></description>
     </item>
@@ -373,6 +415,7 @@
       <title>R.A. Richardson</title>
       <link>/authors/r.a.-richardson/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/r.a.-richardson/</guid>
       <description></description>
     </item>
@@ -381,6 +424,7 @@
       <title>R.S. Kirby</title>
       <link>/authors/r.s.-kirby/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/r.s.-kirby/</guid>
       <description></description>
     </item>
@@ -389,6 +433,7 @@
       <title>R.W. Platt</title>
       <link>/authors/r.w.-platt/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/r.w.-platt/</guid>
       <description></description>
     </item>
@@ -397,6 +442,7 @@
       <title>S. Gupta</title>
       <link>/authors/s.-gupta/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/s.-gupta/</guid>
       <description></description>
     </item>
@@ -405,6 +451,7 @@
       <title>S. Hernández-Dı́az</title>
       <link>/authors/s.-hern%C3%A1ndez-d%C4%B1%CC%81az/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/s.-hern%C3%A1ndez-d%C4%B1%CC%81az/</guid>
       <description></description>
     </item>
@@ -413,6 +460,7 @@
       <title>S. Moskosky</title>
       <link>/authors/s.-moskosky/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/s.-moskosky/</guid>
       <description></description>
     </item>
@@ -421,6 +469,7 @@
       <title>S.L. Mumford</title>
       <link>/authors/s.l.-mumford/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/s.l.-mumford/</guid>
       <description></description>
     </item>
@@ -429,6 +478,7 @@
       <title>T. Razek</title>
       <link>/authors/t.-razek/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/t.-razek/</guid>
       <description></description>
     </item>
@@ -437,6 +487,7 @@
       <title>V. Muripa</title>
       <link>/authors/v.-muripa/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>/authors/v.-muripa/</guid>
       <description></description>
     </item>
@@ -445,6 +496,7 @@
       <title>Corinne A Riddell</title>
       <link>/authors/corinne-a-riddell/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/corinne-a-riddell/</guid>
       <description></description>
     </item>
@@ -453,6 +505,7 @@
       <title>Jay S Kaufman</title>
       <link>/authors/jay-s-kaufman/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/jay-s-kaufman/</guid>
       <description></description>
     </item>
@@ -461,6 +514,7 @@
       <title>Magdalena Cerdá</title>
       <link>/authors/magdalena-cerd%C3%A1/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/magdalena-cerd%C3%A1/</guid>
       <description></description>
     </item>
@@ -469,6 +523,7 @@
       <title>A. Anema</title>
       <link>/authors/a.-anema/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/a.-anema/</guid>
       <description></description>
     </item>
@@ -477,6 +532,7 @@
       <title>A. Earle</title>
       <link>/authors/a.-earle/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/a.-earle/</guid>
       <description></description>
     </item>
@@ -485,6 +541,7 @@
       <title>A.-M. Hamelin</title>
       <link>/authors/a.-m.-hamelin/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/a.-m.-hamelin/</guid>
       <description></description>
     </item>
@@ -493,6 +550,7 @@
       <title>C. Cooper</title>
       <link>/authors/c.-cooper/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/c.-cooper/</guid>
       <description></description>
     </item>
@@ -501,6 +559,7 @@
       <title>C. Rossi</title>
       <link>/authors/c.-rossi/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/c.-rossi/</guid>
       <description></description>
     </item>
@@ -509,6 +568,7 @@
       <title>C.A. Riddell</title>
       <link>/authors/c.a.-riddell/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/c.a.-riddell/</guid>
       <description></description>
     </item>
@@ -517,6 +577,7 @@
       <title>D. Jahagirdar</title>
       <link>/authors/d.-jahagirdar/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/d.-jahagirdar/</guid>
       <description></description>
     </item>
@@ -525,6 +586,7 @@
       <title>E. Atabay</title>
       <link>/authors/e.-atabay/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/e.-atabay/</guid>
       <description></description>
     </item>
@@ -533,6 +595,7 @@
       <title>E.C. Strumpf</title>
       <link>/authors/e.c.-strumpf/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/e.c.-strumpf/</guid>
       <description></description>
     </item>
@@ -541,6 +604,7 @@
       <title>E.E.M. Moodie</title>
       <link>/authors/e.e.m.-moodie/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/e.e.m.-moodie/</guid>
       <description></description>
     </item>
@@ -549,6 +613,7 @@
       <title>G.C. Mejia</title>
       <link>/authors/g.c.-mejia/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/g.c.-mejia/</guid>
       <description></description>
     </item>
@@ -557,6 +622,7 @@
       <title>H.R. Banack</title>
       <link>/authors/h.r.-banack/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/h.r.-banack/</guid>
       <description></description>
     </item>
@@ -565,6 +631,7 @@
       <title>H.W. Elani</title>
       <link>/authors/h.w.-elani/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/h.w.-elani/</guid>
       <description></description>
     </item>
@@ -573,6 +640,7 @@
       <title>I. Kawachi</title>
       <link>/authors/i.-kawachi/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/i.-kawachi/</guid>
       <description></description>
     </item>
@@ -581,6 +649,7 @@
       <title>I. Vincent</title>
       <link>/authors/i.-vincent/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/i.-vincent/</guid>
       <description></description>
     </item>
@@ -589,6 +658,7 @@
       <title>J. Cox</title>
       <link>/authors/j.-cox/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/j.-cox/</guid>
       <description></description>
     </item>
@@ -597,6 +667,7 @@
       <title>J.A. Labrecque</title>
       <link>/authors/j.a.-labrecque/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/j.a.-labrecque/</guid>
       <description></description>
     </item>
@@ -605,6 +676,7 @@
       <title>J.S. Kaufman</title>
       <link>/authors/j.s.-kaufman/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/j.s.-kaufman/</guid>
       <description></description>
     </item>
@@ -613,6 +685,7 @@
       <title>K.T. Morrison</title>
       <link>/authors/k.t.-morrison/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/k.t.-morrison/</guid>
       <description></description>
     </item>
@@ -621,6 +694,7 @@
       <title>Kristin Voigt</title>
       <link>/authors/kristin-voigt/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/kristin-voigt/</guid>
       <description></description>
     </item>
@@ -629,6 +703,7 @@
       <title>L. Ernstsen</title>
       <link>/authors/l.-ernstsen/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/l.-ernstsen/</guid>
       <description></description>
     </item>
@@ -637,6 +712,7 @@
       <title>L.M. Jamieson</title>
       <link>/authors/l.m.-jamieson/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/l.m.-jamieson/</guid>
       <description></description>
     </item>
@@ -645,6 +721,7 @@
       <title>M.B. Klein</title>
       <link>/authors/m.b.-klein/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/m.b.-klein/</guid>
       <description></description>
     </item>
@@ -653,6 +730,7 @@
       <title>M.C. Dimitris</title>
       <link>/authors/m.c.-dimitris/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/m.c.-dimitris/</guid>
       <description></description>
     </item>
@@ -661,6 +739,7 @@
       <title>Meredith Young</title>
       <link>/authors/meredith-young/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/meredith-young/</guid>
       <description></description>
     </item>
@@ -669,6 +748,7 @@
       <title>Nicholas B King</title>
       <link>/authors/nicholas-b-king/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/nicholas-b-king/</guid>
       <description></description>
     </item>
@@ -677,6 +757,7 @@
       <title>S.B. Rourke</title>
       <link>/authors/s.b.-rourke/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/s.b.-rourke/</guid>
       <description></description>
     </item>
@@ -685,6 +766,7 @@
       <title>S.J. Heymann</title>
       <link>/authors/s.j.-heymann/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/s.j.-heymann/</guid>
       <description></description>
     </item>
@@ -693,6 +775,7 @@
       <title>S.L. Walmsley</title>
       <link>/authors/s.l.-walmsley/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/s.l.-walmsley/</guid>
       <description></description>
     </item>
@@ -701,6 +784,7 @@
       <title>Sarah C Berry</title>
       <link>/authors/sarah-c-berry/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/sarah-c-berry/</guid>
       <description></description>
     </item>
@@ -709,6 +793,7 @@
       <title>T. McLinden</title>
       <link>/authors/t.-mclinden/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/t.-mclinden/</guid>
       <description></description>
     </item>
@@ -717,6 +802,7 @@
       <title>W. Aibibula</title>
       <link>/authors/w.-aibibula/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/w.-aibibula/</guid>
       <description></description>
     </item>
@@ -725,6 +811,7 @@
       <title>W. Murray Thomson</title>
       <link>/authors/w.-murray-thomson/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/w.-murray-thomson/</guid>
       <description></description>
     </item>
@@ -733,6 +820,7 @@
       <title>X. Ju</title>
       <link>/authors/x.-ju/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
       <guid>/authors/x.-ju/</guid>
       <description></description>
     </item>
@@ -741,6 +829,7 @@
       <title>Richard S Cooper</title>
       <link>/authors/richard-s-cooper/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
       <guid>/authors/richard-s-cooper/</guid>
       <description></description>
     </item>
@@ -749,6 +838,7 @@
       <title>A. Mukherji</title>
       <link>/authors/a.-mukherji/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
       <guid>/authors/a.-mukherji/</guid>
       <description></description>
     </item>
@@ -757,6 +847,7 @@
       <title>A. Quesnel-Vallée</title>
       <link>/authors/a.-quesnel-vall%C3%A9e/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
       <guid>/authors/a.-quesnel-vall%C3%A9e/</guid>
       <description></description>
     </item>
@@ -765,6 +856,7 @@
       <title>C. Arsenault</title>
       <link>/authors/c.-arsenault/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
       <guid>/authors/c.-arsenault/</guid>
       <description></description>
     </item>
@@ -773,6 +865,7 @@
       <title>D.R. Lewis</title>
       <link>/authors/d.r.-lewis/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
       <guid>/authors/d.r.-lewis/</guid>
       <description></description>
     </item>
@@ -781,6 +874,7 @@
       <title>E. Strumpf</title>
       <link>/authors/e.-strumpf/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
       <guid>/authors/e.-strumpf/</guid>
       <description></description>
     </item>
@@ -789,6 +883,7 @@
       <title>G. Paradis</title>
       <link>/authors/g.-paradis/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
       <guid>/authors/g.-paradis/</guid>
       <description></description>
     </item>
@@ -797,6 +892,7 @@
       <title>H. Swaminathan</title>
       <link>/authors/h.-swaminathan/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
       <guid>/authors/h.-swaminathan/</guid>
       <description></description>
     </item>
@@ -805,6 +901,7 @@
       <title>I.L. Espinoza</title>
       <link>/authors/i.l.-espinoza/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
       <guid>/authors/i.l.-espinoza/</guid>
       <description></description>
     </item>
@@ -813,6 +910,7 @@
       <title>J. Heymann</title>
       <link>/authors/j.-heymann/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
       <guid>/authors/j.-heymann/</guid>
       <description></description>
     </item>
@@ -821,6 +919,7 @@
       <title>J.-F. Lévesque</title>
       <link>/authors/j.-f.-l%C3%A9vesque/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
       <guid>/authors/j.-f.-l%C3%A9vesque/</guid>
       <description></description>
     </item>
@@ -829,6 +928,7 @@
       <title>J.M. Mendoza Rodrı́guez</title>
       <link>/authors/j.m.-mendoza-rodr%C4%B1%CC%81guez/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
       <guid>/authors/j.m.-mendoza-rodr%C4%B1%CC%81guez/</guid>
       <description></description>
     </item>
@@ -837,6 +937,7 @@
       <title>J.T. Gibson</title>
       <link>/authors/j.t.-gibson/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
       <guid>/authors/j.t.-gibson/</guid>
       <description></description>
     </item>
@@ -845,6 +946,7 @@
       <title>L. Lee</title>
       <link>/authors/l.-lee/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
       <guid>/authors/l.-lee/</guid>
       <description></description>
     </item>
@@ -853,6 +955,7 @@
       <title>M. Johri</title>
       <link>/authors/m.-johri/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
       <guid>/authors/m.-johri/</guid>
       <description></description>
     </item>
@@ -861,6 +964,7 @@
       <title>M. Yu</title>
       <link>/authors/m.-yu/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
       <guid>/authors/m.-yu/</guid>
       <description></description>
     </item>
@@ -869,6 +973,7 @@
       <title>N. Breen</title>
       <link>/authors/n.-breen/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
       <guid>/authors/n.-breen/</guid>
       <description></description>
     </item>
@@ -877,6 +982,7 @@
       <title>P. Manivong</title>
       <link>/authors/p.-manivong/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
       <guid>/authors/p.-manivong/</guid>
       <description></description>
     </item>
@@ -885,6 +991,7 @@
       <title>P.M. Hansen</title>
       <link>/authors/p.m.-hansen/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
       <guid>/authors/p.m.-hansen/</guid>
       <description></description>
     </item>
@@ -893,6 +1000,7 @@
       <title>R. Carter</title>
       <link>/authors/r.-carter/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
       <guid>/authors/r.-carter/</guid>
       <description></description>
     </item>
@@ -901,6 +1009,7 @@
       <title>S. Jaswal</title>
       <link>/authors/s.-jaswal/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
       <guid>/authors/s.-jaswal/</guid>
       <description></description>
     </item>
@@ -909,6 +1018,7 @@
       <title>T.A. Bruckner</title>
       <link>/authors/t.a.-bruckner/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
       <guid>/authors/t.a.-bruckner/</guid>
       <description></description>
     </item>
@@ -917,6 +1027,7 @@
       <title>T.J. Charters</title>
       <link>/authors/t.j.-charters/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
       <guid>/authors/t.j.-charters/</guid>
       <description></description>
     </item>
@@ -925,6 +1036,7 @@
       <title>W.M. Thomson</title>
       <link>/authors/w.m.-thomson/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
       <guid>/authors/w.m.-thomson/</guid>
       <description></description>
     </item>
@@ -933,6 +1045,7 @@
       <title>A. Chandrashekar</title>
       <link>/authors/a.-chandrashekar/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/a.-chandrashekar/</guid>
       <description></description>
     </item>
@@ -941,6 +1054,7 @@
       <title>A. Heath</title>
       <link>/authors/a.-heath/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/a.-heath/</guid>
       <description></description>
     </item>
@@ -949,6 +1063,7 @@
       <title>A. Koski</title>
       <link>/authors/a.-koski/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/a.-koski/</guid>
       <description></description>
     </item>
@@ -957,6 +1072,7 @@
       <title>A. Okhmatovskaia</title>
       <link>/authors/a.-okhmatovskaia/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/a.-okhmatovskaia/</guid>
       <description></description>
     </item>
@@ -965,6 +1081,7 @@
       <title>A.P. Gray</title>
       <link>/authors/a.p.-gray/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/a.p.-gray/</guid>
       <description></description>
     </item>
@@ -973,6 +1090,7 @@
       <title>B. McKinnon</title>
       <link>/authors/b.-mckinnon/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/b.-mckinnon/</guid>
       <description></description>
     </item>
@@ -981,6 +1099,7 @@
       <title>B. Sharif</title>
       <link>/authors/b.-sharif/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/b.-sharif/</guid>
       <description></description>
     </item>
@@ -989,6 +1108,7 @@
       <title>B. Smith</title>
       <link>/authors/b.-smith/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/b.-smith/</guid>
       <description></description>
     </item>
@@ -997,6 +1117,7 @@
       <title>C. Nadeau</title>
       <link>/authors/c.-nadeau/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/c.-nadeau/</guid>
       <description></description>
     </item>
@@ -1005,6 +1126,7 @@
       <title>D. Buckeridge</title>
       <link>/authors/d.-buckeridge/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/d.-buckeridge/</guid>
       <description></description>
     </item>
@@ -1013,6 +1135,7 @@
       <title>D. Hennessy</title>
       <link>/authors/d.-hennessy/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/d.-hennessy/</guid>
       <description></description>
     </item>
@@ -1021,6 +1144,7 @@
       <title>D. Manuel</title>
       <link>/authors/d.-manuel/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/d.-manuel/</guid>
       <description></description>
     </item>
@@ -1029,6 +1153,7 @@
       <title>E. Giesbrecht</title>
       <link>/authors/e.-giesbrecht/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/e.-giesbrecht/</guid>
       <description></description>
     </item>
@@ -1037,6 +1162,7 @@
       <title>E.C. Sayre</title>
       <link>/authors/e.c.-sayre/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/e.c.-sayre/</guid>
       <description></description>
     </item>
@@ -1045,6 +1171,7 @@
       <title>F. Richer</title>
       <link>/authors/f.-richer/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/f.-richer/</guid>
       <description></description>
     </item>
@@ -1053,6 +1180,7 @@
       <title>G.B. Hamra</title>
       <link>/authors/g.b.-hamra/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/g.b.-hamra/</guid>
       <description></description>
     </item>
@@ -1061,6 +1189,7 @@
       <title>H. Elani</title>
       <link>/authors/h.-elani/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/h.-elani/</guid>
       <description></description>
     </item>
@@ -1069,6 +1198,7 @@
       <title>J. Frank</title>
       <link>/authors/j.-frank/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/j.-frank/</guid>
       <description></description>
     </item>
@@ -1077,6 +1207,7 @@
       <title>J. Hutcheon</title>
       <link>/authors/j.-hutcheon/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/j.-hutcheon/</guid>
       <description></description>
     </item>
@@ -1085,6 +1216,7 @@
       <title>J. Oderkirk</title>
       <link>/authors/j.-oderkirk/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/j.-oderkirk/</guid>
       <description></description>
     </item>
@@ -1093,6 +1225,7 @@
       <title>J.A. Kopec</title>
       <link>/authors/j.a.-kopec/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/j.a.-kopec/</guid>
       <description></description>
     </item>
@@ -1101,6 +1234,7 @@
       <title>K. Dasgupta</title>
       <link>/authors/k.-dasgupta/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/k.-dasgupta/</guid>
       <description></description>
     </item>
@@ -1109,6 +1243,7 @@
       <title>L. Joseph</title>
       <link>/authors/l.-joseph/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/l.-joseph/</guid>
       <description></description>
     </item>
@@ -1117,6 +1252,7 @@
       <title>M. Arcaya</title>
       <link>/authors/m.-arcaya/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/m.-arcaya/</guid>
       <description></description>
     </item>
@@ -1125,6 +1261,7 @@
       <title>M. Hajizadeh</title>
       <link>/authors/m.-hajizadeh/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/m.-hajizadeh/</guid>
       <description></description>
     </item>
@@ -1133,6 +1270,7 @@
       <title>M. Rahman</title>
       <link>/authors/m.-rahman/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/m.-rahman/</guid>
       <description></description>
     </item>
@@ -1141,6 +1279,7 @@
       <title>M. Tuna</title>
       <link>/authors/m.-tuna/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/m.-tuna/</guid>
       <description></description>
     </item>
@@ -1149,6 +1288,7 @@
       <title>M.C. Wolfson</title>
       <link>/authors/m.c.-wolfson/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/m.c.-wolfson/</guid>
       <description></description>
     </item>
@@ -1157,6 +1297,7 @@
       <title>M.F. Majid</title>
       <link>/authors/m.f.-majid/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/m.f.-majid/</guid>
       <description></description>
     </item>
@@ -1165,6 +1306,7 @@
       <title>N. Austin</title>
       <link>/authors/n.-austin/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/n.-austin/</guid>
       <description></description>
     </item>
@@ -1173,6 +1315,7 @@
       <title>N.A. Ross</title>
       <link>/authors/n.a.-ross/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/n.a.-ross/</guid>
       <description></description>
     </item>
@@ -1181,6 +1324,7 @@
       <title>N.B. King</title>
       <link>/authors/n.b.-king/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/n.b.-king/</guid>
       <description></description>
     </item>
@@ -1189,6 +1333,7 @@
       <title>P. Agarwal</title>
       <link>/authors/p.-agarwal/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/p.-agarwal/</guid>
       <description></description>
     </item>
@@ -1197,6 +1342,7 @@
       <title>P. Fines</title>
       <link>/authors/p.-fines/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/p.-fines/</guid>
       <description></description>
     </item>
@@ -1205,6 +1351,7 @@
       <title>R. Liu</title>
       <link>/authors/r.-liu/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/r.-liu/</guid>
       <description></description>
     </item>
@@ -1213,6 +1360,7 @@
       <title>S. Dahaghin</title>
       <link>/authors/s.-dahaghin/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/s.-dahaghin/</guid>
       <description></description>
     </item>
@@ -1221,6 +1369,7 @@
       <title>S. Hajna</title>
       <link>/authors/s.-hajna/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/s.-hajna/</guid>
       <description></description>
     </item>
@@ -1229,6 +1378,7 @@
       <title>S. Maloney</title>
       <link>/authors/s.-maloney/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/s.-maloney/</guid>
       <description></description>
     </item>
@@ -1237,6 +1387,7 @@
       <title>S.V. Subramanian</title>
       <link>/authors/s.v.-subramanian/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/s.v.-subramanian/</guid>
       <description></description>
     </item>
@@ -1245,6 +1396,7 @@
       <title>the Simulation Technology for Applied Research Team</title>
       <link>/authors/the-simulation-technology-for-applied-research-team/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/the-simulation-technology-for-applied-research-team/</guid>
       <description></description>
     </item>
@@ -1253,6 +1405,7 @@
       <title>W.M. Flanagan</title>
       <link>/authors/w.m.-flanagan/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>/authors/w.m.-flanagan/</guid>
       <description></description>
     </item>
@@ -1261,6 +1414,7 @@
       <title>G. Marquette</title>
       <link>/authors/g.-marquette/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
       <guid>/authors/g.-marquette/</guid>
       <description></description>
     </item>
@@ -1269,6 +1423,7 @@
       <title>N. King</title>
       <link>/authors/n.-king/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
       <guid>/authors/n.-king/</guid>
       <description></description>
     </item>
@@ -1277,6 +1432,7 @@
       <title>S. Galea</title>
       <link>/authors/s.-galea/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
       <guid>/authors/s.-galea/</guid>
       <description></description>
     </item>
@@ -1285,6 +1441,7 @@
       <title>T. Charters</title>
       <link>/authors/t.-charters/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
       <guid>/authors/t.-charters/</guid>
       <description></description>
     </item>
@@ -1293,6 +1450,7 @@
       <title>Y. Bergevin</title>
       <link>/authors/y.-bergevin/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
       <guid>/authors/y.-bergevin/</guid>
       <description></description>
     </item>
@@ -1301,6 +1459,7 @@
       <title>A.D. Barry</title>
       <link>/authors/a.d.-barry/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>/authors/a.d.-barry/</guid>
       <description></description>
     </item>
@@ -1309,6 +1468,7 @@
       <title>B.T. Smith</title>
       <link>/authors/b.t.-smith/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>/authors/b.t.-smith/</guid>
       <description></description>
     </item>
@@ -1317,6 +1477,7 @@
       <title>C. Boikos</title>
       <link>/authors/c.-boikos/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>/authors/c.-boikos/</guid>
       <description></description>
     </item>
@@ -1325,6 +1486,7 @@
       <title>C.A. Mustard</title>
       <link>/authors/c.a.-mustard/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>/authors/c.a.-mustard/</guid>
       <description></description>
     </item>
@@ -1333,6 +1495,7 @@
       <title>D.G. Manuel</title>
       <link>/authors/d.g.-manuel/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>/authors/d.g.-manuel/</guid>
       <description></description>
     </item>
@@ -1341,6 +1504,7 @@
       <title>E. Lo</title>
       <link>/authors/e.-lo/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>/authors/e.-lo/</guid>
       <description></description>
     </item>
@@ -1349,6 +1513,7 @@
       <title>G.D. Smith</title>
       <link>/authors/g.d.-smith/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>/authors/g.d.-smith/</guid>
       <description></description>
     </item>
@@ -1357,6 +1522,7 @@
       <title>G.M. Anderson</title>
       <link>/authors/g.m.-anderson/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>/authors/g.m.-anderson/</guid>
       <description></description>
     </item>
@@ -1365,6 +1531,7 @@
       <title>J. Lynch</title>
       <link>/authors/j.-lynch/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>/authors/j.-lynch/</guid>
       <description></description>
     </item>
@@ -1373,6 +1540,7 @@
       <title>L.C. Rosella</title>
       <link>/authors/l.c.-rosella/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>/authors/l.c.-rosella/</guid>
       <description></description>
     </item>
@@ -1381,6 +1549,7 @@
       <title>M. Abdullah</title>
       <link>/authors/m.-abdullah/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>/authors/m.-abdullah/</guid>
       <description></description>
     </item>
@@ -1389,6 +1558,7 @@
       <title>M.E. Reichman</title>
       <link>/authors/m.e.-reichman/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>/authors/m.e.-reichman/</guid>
       <description></description>
     </item>
@@ -1397,6 +1567,7 @@
       <title>N. Auger</title>
       <link>/authors/n.-auger/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>/authors/n.-auger/</guid>
       <description></description>
     </item>
@@ -1405,6 +1576,7 @@
       <title>P. Feuillet</title>
       <link>/authors/p.-feuillet/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>/authors/p.-feuillet/</guid>
       <description></description>
     </item>
@@ -1413,6 +1585,7 @@
       <title>P.M. Smith</title>
       <link>/authors/p.m.-smith/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>/authors/p.m.-smith/</guid>
       <description></description>
     </item>
@@ -1421,6 +1594,7 @@
       <title>R.F. MacLehose</title>
       <link>/authors/r.f.-maclehose/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>/authors/r.f.-maclehose/</guid>
       <description></description>
     </item>
@@ -1429,6 +1603,7 @@
       <title>S. Burris</title>
       <link>/authors/s.-burris/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>/authors/s.-burris/</guid>
       <description></description>
     </item>
@@ -1437,6 +1612,7 @@
       <title>S. Martel</title>
       <link>/authors/s.-martel/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>/authors/s.-martel/</guid>
       <description></description>
     </item>
@@ -1445,6 +1621,7 @@
       <title>S.C. Meersman</title>
       <link>/authors/s.c.-meersman/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>/authors/s.c.-meersman/</guid>
       <description></description>
     </item>
@@ -1453,6 +1630,7 @@
       <title>T.H. Ho</title>
       <link>/authors/t.h.-ho/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>/authors/t.h.-ho/</guid>
       <description></description>
     </item>
@@ -1461,6 +1639,7 @@
       <title>V. Fraser</title>
       <link>/authors/v.-fraser/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>/authors/v.-fraser/</guid>
       <description></description>
     </item>
@@ -1469,6 +1648,7 @@
       <title>A. Geggel</title>
       <link>/authors/a.-geggel/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
       <guid>/authors/a.-geggel/</guid>
       <description></description>
     </item>
@@ -1477,6 +1657,7 @@
       <title>A. Maika</title>
       <link>/authors/a.-maika/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
       <guid>/authors/a.-maika/</guid>
       <description></description>
     </item>
@@ -1485,6 +1666,7 @@
       <title>B. Devleesschauwer</title>
       <link>/authors/b.-devleesschauwer/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
       <guid>/authors/b.-devleesschauwer/</guid>
       <description></description>
     </item>
@@ -1493,6 +1675,7 @@
       <title>B. Müller</title>
       <link>/authors/b.-m%C3%BCller/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
       <guid>/authors/b.-m%C3%BCller/</guid>
       <description></description>
     </item>
@@ -1501,6 +1684,7 @@
       <title>C. Van Malderen</title>
       <link>/authors/c.-van-malderen/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
       <guid>/authors/c.-van-malderen/</guid>
       <description></description>
     </item>
@@ -1509,6 +1693,7 @@
       <title>D. Payne-Sturges</title>
       <link>/authors/d.-payne-sturges/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
       <guid>/authors/d.-payne-sturges/</guid>
       <description></description>
     </item>
@@ -1517,6 +1702,7 @@
       <title>E. Ruder</title>
       <link>/authors/e.-ruder/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
       <guid>/authors/e.-ruder/</guid>
       <description></description>
     </item>
@@ -1525,6 +1711,7 @@
       <title>E. Satriawan</title>
       <link>/authors/e.-satriawan/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
       <guid>/authors/e.-satriawan/</guid>
       <description></description>
     </item>
@@ -1533,6 +1720,7 @@
       <title>H.A. Roman</title>
       <link>/authors/h.a.-roman/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
       <guid>/authors/h.a.-roman/</guid>
       <description></description>
     </item>
@@ -1541,6 +1729,7 @@
       <title>I. Delgado</title>
       <link>/authors/i.-delgado/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
       <guid>/authors/i.-delgado/</guid>
       <description></description>
     </item>
@@ -1549,6 +1738,7 @@
       <title>J.I. Levy</title>
       <link>/authors/j.i.-levy/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
       <guid>/authors/j.i.-levy/</guid>
       <description></description>
     </item>
@@ -1557,6 +1747,7 @@
       <title>J.W. Lynch</title>
       <link>/authors/j.w.-lynch/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
       <guid>/authors/j.w.-lynch/</guid>
       <description></description>
     </item>
@@ -1565,6 +1756,7 @@
       <title>K.R. Humphreys</title>
       <link>/authors/k.r.-humphreys/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
       <guid>/authors/k.r.-humphreys/</guid>
       <description></description>
     </item>
@@ -1573,6 +1765,7 @@
       <title>M.E. Young</title>
       <link>/authors/m.e.-young/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
       <guid>/authors/m.e.-young/</guid>
       <description></description>
     </item>
@@ -1581,6 +1774,7 @@
       <title>M.N. Mittinty</title>
       <link>/authors/m.n.-mittinty/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
       <guid>/authors/m.n.-mittinty/</guid>
       <description></description>
     </item>
@@ -1589,6 +1783,7 @@
       <title>N. Speybroeck</title>
       <link>/authors/n.-speybroeck/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
       <guid>/authors/n.-speybroeck/</guid>
       <description></description>
     </item>
@@ -1597,6 +1792,7 @@
       <title>O. Nweke</title>
       <link>/authors/o.-nweke/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
       <guid>/authors/o.-nweke/</guid>
       <description></description>
     </item>
@@ -1605,6 +1801,7 @@
       <title>P. Frenz</title>
       <link>/authors/p.-frenz/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
       <guid>/authors/p.-frenz/</guid>
       <description></description>
     </item>
@@ -1613,6 +1810,7 @@
       <title>S. Brinkman</title>
       <link>/authors/s.-brinkman/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
       <guid>/authors/s.-brinkman/</guid>
       <description></description>
     </item>
@@ -1621,6 +1819,7 @@
       <title>S. Moore</title>
       <link>/authors/s.-moore/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
       <guid>/authors/s.-moore/</guid>
       <description></description>
     </item>
@@ -1629,6 +1828,7 @@
       <title>S.B. Harper</title>
       <link>/authors/s.b.-harper/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
       <guid>/authors/s.b.-harper/</guid>
       <description></description>
     </item>
@@ -1637,6 +1837,7 @@
       <title>A. Kunst</title>
       <link>/authors/a.-kunst/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/a.-kunst/</guid>
       <description></description>
     </item>
@@ -1645,6 +1846,7 @@
       <title>A. Toporowski</title>
       <link>/authors/a.-toporowski/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/a.-toporowski/</guid>
       <description></description>
     </item>
@@ -1653,6 +1855,7 @@
       <title>A.L. Park</title>
       <link>/authors/a.l.-park/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/a.l.-park/</guid>
       <description></description>
     </item>
@@ -1661,6 +1864,7 @@
       <title>A.R. Hosseinpoor</title>
       <link>/authors/a.r.-hosseinpoor/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/a.r.-hosseinpoor/</guid>
       <description></description>
     </item>
@@ -1669,6 +1873,7 @@
       <title>C. Abou-Zahr</title>
       <link>/authors/c.-abou-zahr/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/c.-abou-zahr/</guid>
       <description></description>
     </item>
@@ -1677,6 +1882,7 @@
       <title>C. Bedos</title>
       <link>/authors/c.-bedos/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/c.-bedos/</guid>
       <description></description>
     </item>
@@ -1685,6 +1891,7 @@
       <title>C. Mathers</title>
       <link>/authors/c.-mathers/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/c.-mathers/</guid>
       <description></description>
     </item>
@@ -1693,6 +1900,7 @@
       <title>C. Victora</title>
       <link>/authors/c.-victora/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/c.-victora/</guid>
       <description></description>
     </item>
@@ -1701,6 +1909,7 @@
       <title>D. De Savigny</title>
       <link>/authors/d.-de-savigny/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/d.-de-savigny/</guid>
       <description></description>
     </item>
@@ -1709,6 +1918,7 @@
       <title>D. Rekve</title>
       <link>/authors/d.-rekve/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/d.-rekve/</guid>
       <description></description>
     </item>
@@ -1717,6 +1927,7 @@
       <title>D. Rushani</title>
       <link>/authors/d.-rushani/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/d.-rushani/</guid>
       <description></description>
     </item>
@@ -1725,6 +1936,7 @@
       <title>E. Verdes</title>
       <link>/authors/e.-verdes/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/e.-verdes/</guid>
       <description></description>
     </item>
@@ -1733,6 +1945,7 @@
       <title>E.L. Franco</title>
       <link>/authors/e.l.-franco/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/e.l.-franco/</guid>
       <description></description>
     </item>
@@ -1741,6 +1954,7 @@
       <title>E.T. d&#39;Espaignet</title>
       <link>/authors/e.t.-despaignet/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/e.t.-despaignet/</guid>
       <description></description>
     </item>
@@ -1749,6 +1963,7 @@
       <title>F. Roncarolo</title>
       <link>/authors/f.-roncarolo/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/f.-roncarolo/</guid>
       <description></description>
     </item>
@@ -1757,6 +1972,7 @@
       <title>H. Chun</title>
       <link>/authors/h.-chun/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/h.-chun/</guid>
       <description></description>
     </item>
@@ -1765,6 +1981,7 @@
       <title>H. Sam</title>
       <link>/authors/h.-sam/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/h.-sam/</guid>
       <description></description>
     </item>
@@ -1773,6 +1990,7 @@
       <title>J.H. Lee</title>
       <link>/authors/j.h.-lee/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/j.h.-lee/</guid>
       <description></description>
     </item>
@@ -1781,6 +1999,7 @@
       <title>M. Daniel</title>
       <link>/authors/m.-daniel/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/m.-daniel/</guid>
       <description></description>
     </item>
@@ -1789,6 +2008,7 @@
       <title>N. Bergen</title>
       <link>/authors/n.-bergen/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/n.-bergen/</guid>
       <description></description>
     </item>
@@ -1797,6 +2017,7 @@
       <title>N. Krieger</title>
       <link>/authors/n.-krieger/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/n.-krieger/</guid>
       <description></description>
     </item>
@@ -1805,6 +2026,7 @@
       <title>N. Naidoo</title>
       <link>/authors/n.-naidoo/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/n.-naidoo/</guid>
       <description></description>
     </item>
@@ -1813,6 +2035,7 @@
       <title>N. Trempe</title>
       <link>/authors/n.-trempe/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/n.-trempe/</guid>
       <description></description>
     </item>
@@ -1821,6 +2044,7 @@
       <title>P. Delézire</title>
       <link>/authors/p.-del%C3%A9zire/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/p.-del%C3%A9zire/</guid>
       <description></description>
     </item>
@@ -1829,6 +2053,7 @@
       <title>P.A. Buffler</title>
       <link>/authors/p.a.-buffler/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/p.a.-buffler/</guid>
       <description></description>
     </item>
@@ -1837,6 +2062,7 @@
       <title>P.J. Allison</title>
       <link>/authors/p.j.-allison/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/p.j.-allison/</guid>
       <description></description>
     </item>
@@ -1845,6 +2071,7 @@
       <title>R. Detels</title>
       <link>/authors/r.-detels/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/r.-detels/</guid>
       <description></description>
     </item>
@@ -1853,6 +2080,7 @@
       <title>R. Fuhrer</title>
       <link>/authors/r.-fuhrer/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/r.-fuhrer/</guid>
       <description></description>
     </item>
@@ -1861,6 +2089,7 @@
       <title>R. Guthold</title>
       <link>/authors/r.-guthold/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/r.-guthold/</guid>
       <description></description>
     </item>
@@ -1869,6 +2098,7 @@
       <title>S. Chatterji</title>
       <link>/authors/s.-chatterji/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/s.-chatterji/</guid>
       <description></description>
     </item>
@@ -1877,6 +2107,7 @@
       <title>S. Mendis</title>
       <link>/authors/s.-mendis/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/s.-mendis/</guid>
       <description></description>
     </item>
@@ -1885,6 +2116,7 @@
       <title>S. Yang</title>
       <link>/authors/s.-yang/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/s.-yang/</guid>
       <description></description>
     </item>
@@ -1893,6 +2125,7 @@
       <title>Y.-H. Khang</title>
       <link>/authors/y.-h.-khang/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/authors/y.-h.-khang/</guid>
       <description></description>
     </item>
@@ -1901,6 +2134,7 @@
       <title>A. Larose</title>
       <link>/authors/a.-larose/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
       <guid>/authors/a.-larose/</guid>
       <description></description>
     </item>
@@ -1909,6 +2143,7 @@
       <title>C.S. Fox</title>
       <link>/authors/c.s.-fox/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
       <guid>/authors/c.s.-fox/</guid>
       <description></description>
     </item>
@@ -1917,6 +2152,7 @@
       <title>E.B. Loucks</title>
       <link>/authors/e.b.-loucks/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
       <guid>/authors/e.b.-loucks/</guid>
       <description></description>
     </item>
@@ -1925,6 +2161,7 @@
       <title>G. Agha</title>
       <link>/authors/g.-agha/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
       <guid>/authors/g.-agha/</guid>
       <description></description>
     </item>
@@ -1933,6 +2170,7 @@
       <title>J. Adam-Smith</title>
       <link>/authors/j.-adam-smith/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
       <guid>/authors/j.-adam-smith/</guid>
       <description></description>
     </item>
@@ -1941,6 +2179,7 @@
       <title>J.M. Murabito</title>
       <link>/authors/j.m.-murabito/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
       <guid>/authors/j.m.-murabito/</guid>
       <description></description>
     </item>
@@ -1949,6 +2188,7 @@
       <title>M. Abrahamowicz</title>
       <link>/authors/m.-abrahamowicz/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
       <guid>/authors/m.-abrahamowicz/</guid>
       <description></description>
     </item>
@@ -1957,6 +2197,7 @@
       <title>N.D. Almeida</title>
       <link>/authors/n.d.-almeida/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
       <guid>/authors/n.d.-almeida/</guid>
       <description></description>
     </item>
@@ -1965,6 +2206,7 @@
       <title>P. Gamache</title>
       <link>/authors/p.-gamache/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
       <guid>/authors/p.-gamache/</guid>
       <description></description>
     </item>
@@ -1973,6 +2215,7 @@
       <title>R. Sadana</title>
       <link>/authors/r.-sadana/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
       <guid>/authors/r.-sadana/</guid>
       <description></description>
     </item>
@@ -1981,6 +2224,7 @@
       <title>A. Geckova</title>
       <link>/authors/a.-geckova/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
       <guid>/authors/a.-geckova/</guid>
       <description></description>
     </item>
@@ -1989,6 +2233,7 @@
       <title>D. Berkvens</title>
       <link>/authors/d.-berkvens/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
       <guid>/authors/d.-berkvens/</guid>
       <description></description>
     </item>
@@ -1997,6 +2242,7 @@
       <title>D.A. Leon</title>
       <link>/authors/d.a.-leon/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
       <guid>/authors/d.a.-leon/</guid>
       <description></description>
     </item>
@@ -2005,6 +2251,7 @@
       <title>D.L. Buckeridge</title>
       <link>/authors/d.l.-buckeridge/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
       <guid>/authors/d.l.-buckeridge/</guid>
       <description></description>
     </item>
@@ -2013,6 +2260,7 @@
       <title>J.N. Hall</title>
       <link>/authors/j.n.-hall/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
       <guid>/authors/j.n.-hall/</guid>
       <description></description>
     </item>
@@ -2021,6 +2269,7 @@
       <title>M.M. Rahman</title>
       <link>/authors/m.m.-rahman/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
       <guid>/authors/m.m.-rahman/</guid>
       <description></description>
     </item>
@@ -2029,6 +2278,7 @@
       <title>P. Finès</title>
       <link>/authors/p.-fin%C3%A8s/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
       <guid>/authors/p.-fin%C3%A8s/</guid>
       <description></description>
     </item>
@@ -2037,6 +2287,7 @@
       <title>P. Konings</title>
       <link>/authors/p.-konings/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
       <guid>/authors/p.-konings/</guid>
       <description></description>
     </item>
@@ -2045,6 +2296,7 @@
       <title>S. McTavish</title>
       <link>/authors/s.-mctavish/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
       <guid>/authors/s.-mctavish/</guid>
       <description></description>
     </item>
@@ -2053,6 +2305,7 @@
       <title>V. Lorant</title>
       <link>/authors/v.-lorant/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
       <guid>/authors/v.-lorant/</guid>
       <description></description>
     </item>
@@ -2061,6 +2314,7 @@
       <title>B.E. Alvarado</title>
       <link>/authors/b.e.-alvarado/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
       <guid>/authors/b.e.-alvarado/</guid>
       <description></description>
     </item>
@@ -2069,6 +2323,7 @@
       <title>H.R. Kim</title>
       <link>/authors/h.r.-kim/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
       <guid>/authors/h.r.-kim/</guid>
       <description></description>
     </item>
@@ -2077,6 +2332,7 @@
       <title>K. Jung-Choi</title>
       <link>/authors/k.-jung-choi/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
       <guid>/authors/k.-jung-choi/</guid>
       <description></description>
     </item>
@@ -2085,6 +2341,7 @@
       <title>M.C. Reichman</title>
       <link>/authors/m.c.-reichman/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
       <guid>/authors/m.c.-reichman/</guid>
       <description></description>
     </item>
@@ -2093,6 +2350,7 @@
       <title>S.-C. Yun</title>
       <link>/authors/s.-c.-yun/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
       <guid>/authors/s.-c.-yun/</guid>
       <description></description>
     </item>
@@ -2101,6 +2359,7 @@
       <title>W.W. Davis</title>
       <link>/authors/w.w.-davis/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
       <guid>/authors/w.w.-davis/</guid>
       <description></description>
     </item>
@@ -2109,6 +2368,7 @@
       <title>H.-J. Cho</title>
       <link>/authors/h.-j.-cho/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
       <guid>/authors/h.-j.-cho/</guid>
       <description></description>
     </item>
@@ -2117,6 +2377,7 @@
       <title>C.C. Kelleher</title>
       <link>/authors/c.c.-kelleher/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
       <guid>/authors/c.c.-kelleher/</guid>
       <description></description>
     </item>
@@ -2125,6 +2386,7 @@
       <title>E. Daly</title>
       <link>/authors/e.-daly/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
       <guid>/authors/e.-daly/</guid>
       <description></description>
     </item>
@@ -2133,6 +2395,7 @@
       <title>H. Ulmer</title>
       <link>/authors/h.-ulmer/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
       <guid>/authors/h.-ulmer/</guid>
       <description></description>
     </item>
@@ -2141,6 +2404,7 @@
       <title>K. Bainbridge</title>
       <link>/authors/k.-bainbridge/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
       <guid>/authors/k.-bainbridge/</guid>
       <description></description>
     </item>
@@ -2149,6 +2413,7 @@
       <title>L. Daly</title>
       <link>/authors/l.-daly/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
       <guid>/authors/l.-daly/</guid>
       <description></description>
     </item>
@@ -2157,6 +2422,7 @@
       <title>N. Fitz-simon</title>
       <link>/authors/n.-fitz-simon/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
       <guid>/authors/n.-fitz-simon/</guid>
       <description></description>
     </item>
@@ -2165,6 +2431,7 @@
       <title>R. Jackson</title>
       <link>/authors/r.-jackson/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
       <guid>/authors/r.-jackson/</guid>
       <description></description>
     </item>
@@ -2173,6 +2440,7 @@
       <title>Y. Bimpeh</title>
       <link>/authors/y.-bimpeh/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
       <guid>/authors/y.-bimpeh/</guid>
       <description></description>
     </item>
@@ -2181,6 +2449,7 @@
       <title>E. Pamuk</title>
       <link>/authors/e.-pamuk/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
       <guid>/authors/e.-pamuk/</guid>
       <description></description>
     </item>
@@ -2189,6 +2458,7 @@
       <title>G.A. Kaplan</title>
       <link>/authors/g.a.-kaplan/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
       <guid>/authors/g.a.-kaplan/</guid>
       <description></description>
     </item>
@@ -2197,6 +2467,7 @@
       <title>J.D. Parker</title>
       <link>/authors/j.d.-parker/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
       <guid>/authors/j.d.-parker/</guid>
       <description></description>
     </item>
@@ -2205,6 +2476,7 @@
       <title>K.C. Schoendorf</title>
       <link>/authors/k.c.-schoendorf/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
       <guid>/authors/k.c.-schoendorf/</guid>
       <description></description>
     </item>
@@ -2213,6 +2485,7 @@
       <title>M. Huynh</title>
       <link>/authors/m.-huynh/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      
       <guid>/authors/m.-huynh/</guid>
       <description></description>
     </item>
@@ -2221,6 +2494,7 @@
       <title>G. Nolan</title>
       <link>/authors/g.-nolan/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
       <guid>/authors/g.-nolan/</guid>
       <description></description>
     </item>
@@ -2229,6 +2503,7 @@
       <title>J. Dunn</title>
       <link>/authors/j.-dunn/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
       <guid>/authors/j.-dunn/</guid>
       <description></description>
     </item>
@@ -2237,6 +2512,7 @@
       <title>J.B. Tay</title>
       <link>/authors/j.b.-tay/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
       <guid>/authors/j.b.-tay/</guid>
       <description></description>
     </item>
@@ -2245,6 +2521,7 @@
       <title>M. Hillemeier</title>
       <link>/authors/m.-hillemeier/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
       <guid>/authors/m.-hillemeier/</guid>
       <description></description>
     </item>
@@ -2253,6 +2530,7 @@
       <title>M. Wolfson</title>
       <link>/authors/m.-wolfson/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
       <guid>/authors/m.-wolfson/</guid>
       <description></description>
     </item>
@@ -2261,6 +2539,7 @@
       <title>N. Ross</title>
       <link>/authors/n.-ross/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
       <guid>/authors/n.-ross/</guid>
       <description></description>
     </item>
@@ -2269,6 +2548,7 @@
       <title>M. Casper</title>
       <link>/authors/m.-casper/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      
       <guid>/authors/m.-casper/</guid>
       <description></description>
     </item>
@@ -2277,6 +2557,7 @@
       <title>M.M. Hillemeier</title>
       <link>/authors/m.m.-hillemeier/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      
       <guid>/authors/m.m.-hillemeier/</guid>
       <description></description>
     </item>
@@ -2285,6 +2566,7 @@
       <title>M.M. Hillemezer</title>
       <link>/authors/m.m.-hillemezer/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      
       <guid>/authors/m.m.-hillemezer/</guid>
       <description></description>
     </item>
@@ -2293,6 +2575,7 @@
       <title>T. Raghunathan</title>
       <link>/authors/t.-raghunathan/</link>
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      
       <guid>/authors/t.-raghunathan/</guid>
       <description></description>
     </item>
@@ -2301,6 +2584,7 @@
       <title>J.T. Salonen</title>
       <link>/authors/j.t.-salonen/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
       <guid>/authors/j.t.-salonen/</guid>
       <description></description>
     </item>
@@ -2309,6 +2593,7 @@
       <title>S.A. Everson</title>
       <link>/authors/s.a.-everson/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
       <guid>/authors/s.a.-everson/</guid>
       <description></description>
     </item>
@@ -2317,6 +2602,7 @@
       <title>T.E. Raghunathan</title>
       <link>/authors/t.e.-raghunathan/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
       <guid>/authors/t.e.-raghunathan/</guid>
       <description></description>
     </item>
@@ -2325,6 +2611,7 @@
       <title>W.-L. Hsu</title>
       <link>/authors/w.-l.-hsu/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
       <guid>/authors/w.-l.-hsu/</guid>
       <description></description>
     </item>

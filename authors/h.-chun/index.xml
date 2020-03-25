@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>H. Chun | Sam Harper</title>
+    <title>H. Chun on Sam Harper</title>
     <link>/authors/h.-chun/</link>
-      <atom:link href="/authors/h.-chun/index.xml" rel="self" type="application/rss+xml" />
-    <description>H. Chun</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/icon-192.png</url>
-      <title>H. Chun</title>
-      <link>/authors/h.-chun/</link>
-    </image>
+    <description>Recent content in H. Chun on Sam Harper</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/h.-chun/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>The changing gender differences in life expectancy in Korea 1970-2005</title>
       <link>/publication/yang-20121280/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
       <guid>/publication/yang-20121280/</guid>
       <description></description>
     </item>
