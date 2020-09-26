@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. Maika | Sam Harper</title>
-    <link>/author/a.-maika/</link>
-      <atom:link href="/author/a.-maika/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://sbh4th.github.io/author/a.-maika/</link>
+      <atom:link href="http://sbh4th.github.io/author/a.-maika/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Maika</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://sbh4th.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>A. Maika</title>
-      <link>/author/a.-maika/</link>
+      <link>http://sbh4th.github.io/author/a.-maika/</link>
     </image>
     
     <item>
       <title>Changes in socioeconomic inequality in Indonesian children&#39;s cognitive function from 2000 to 2007: a decomposition analysis.</title>
-      <link>/publication-old/maika-2013/</link>
+      <link>http://sbh4th.github.io/publication-old/maika-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication-old/maika-2013/</guid>
+      <guid>http://sbh4th.github.io/publication-old/maika-2013/</guid>
       <description></description>
     </item>
     

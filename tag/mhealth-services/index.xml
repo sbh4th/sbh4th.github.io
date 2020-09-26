@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mhealth services | Sam Harper</title>
-    <link>/tag/mhealth-services/</link>
-      <atom:link href="/tag/mhealth-services/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://sbh4th.github.io/tag/mhealth-services/</link>
+      <atom:link href="http://sbh4th.github.io/tag/mhealth-services/index.xml" rel="self" type="application/rss+xml" />
     <description>mhealth services</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://sbh4th.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>mhealth services</title>
-      <link>/tag/mhealth-services/</link>
+      <link>http://sbh4th.github.io/tag/mhealth-services/</link>
     </image>
     
     <item>
       <title>Social and Behavior Change Communication Interventions Delivered Face-to-Face and by a Mobile Phone to Strengthen Vaccination Uptake and Improve Child Health in Rural India: Randomized Pilot Study</title>
-      <link>/publication/johri-2020-aa/</link>
+      <link>http://sbh4th.github.io/publication/johri-2020-aa/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/johri-2020-aa/</guid>
+      <guid>http://sbh4th.github.io/publication/johri-2020-aa/</guid>
       <description></description>
     </item>
     

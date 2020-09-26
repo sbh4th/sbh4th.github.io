@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rural | Sam Harper</title>
-    <link>/tag/rural/</link>
-      <atom:link href="/tag/rural/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://sbh4th.github.io/tag/rural/</link>
+      <atom:link href="http://sbh4th.github.io/tag/rural/index.xml" rel="self" type="application/rss+xml" />
     <description>rural</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://sbh4th.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>rural</title>
-      <link>/tag/rural/</link>
+      <link>http://sbh4th.github.io/tag/rural/</link>
     </image>
     
     <item>
       <title>The effect of affordable daycare on women&#39;s mental health: Evidence from a cluster randomized trial in rural India</title>
-      <link>/publication-old/richardson-201832/</link>
+      <link>http://sbh4th.github.io/publication-old/richardson-201832/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication-old/richardson-201832/</guid>
+      <guid>http://sbh4th.github.io/publication-old/richardson-201832/</guid>
       <description></description>
     </item>
     

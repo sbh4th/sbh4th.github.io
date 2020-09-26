@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Auburn Larose | Sam Harper</title>
-    <link>/author/auburn-larose/</link>
-      <atom:link href="/author/auburn-larose/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://sbh4th.github.io/author/auburn-larose/</link>
+      <atom:link href="http://sbh4th.github.io/author/auburn-larose/index.xml" rel="self" type="application/rss+xml" />
     <description>Auburn Larose</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 01 Sep 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://sbh4th.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Auburn Larose</title>
-      <link>/author/auburn-larose/</link>
+      <link>http://sbh4th.github.io/author/auburn-larose/</link>
     </image>
     
     <item>
       <title>Global income-related inequalities in HIV testing</title>
-      <link>/publication/larose-2011-aa/</link>
+      <link>http://sbh4th.github.io/publication/larose-2011-aa/</link>
       <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/larose-2011-aa/</guid>
+      <guid>http://sbh4th.github.io/publication/larose-2011-aa/</guid>
       <description></description>
     </item>
     

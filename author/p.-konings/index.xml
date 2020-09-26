@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>P. Konings | Sam Harper</title>
-    <link>/author/p.-konings/</link>
-      <atom:link href="/author/p.-konings/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://sbh4th.github.io/author/p.-konings/</link>
+      <atom:link href="http://sbh4th.github.io/author/p.-konings/index.xml" rel="self" type="application/rss+xml" />
     <description>P. Konings</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://sbh4th.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>P. Konings</title>
-      <link>/author/p.-konings/</link>
+      <link>http://sbh4th.github.io/author/p.-konings/</link>
     </image>
     
     <item>
       <title>Analysis of socioeconomic health inequalities using the concentration index</title>
-      <link>/publication-old/konings-201071/</link>
+      <link>http://sbh4th.github.io/publication-old/konings-201071/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>/publication-old/konings-201071/</guid>
+      <guid>http://sbh4th.github.io/publication-old/konings-201071/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decomposing socioeconomic health inequalities</title>
-      <link>/publication-old/speybroeck-2010347/</link>
+      <link>http://sbh4th.github.io/publication-old/speybroeck-2010347/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>/publication-old/speybroeck-2010347/</guid>
+      <guid>http://sbh4th.github.io/publication-old/speybroeck-2010347/</guid>
       <description></description>
     </item>
     

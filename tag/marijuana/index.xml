@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>marijuana | Sam Harper</title>
-    <link>/tag/marijuana/</link>
-      <atom:link href="/tag/marijuana/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://sbh4th.github.io/tag/marijuana/</link>
+      <atom:link href="http://sbh4th.github.io/tag/marijuana/index.xml" rel="self" type="application/rss+xml" />
     <description>marijuana</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://sbh4th.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>marijuana</title>
-      <link>/tag/marijuana/</link>
+      <link>http://sbh4th.github.io/tag/marijuana/</link>
     </image>
     
     <item>
       <title>The annual cannabis holiday and fatal traffic crashes</title>
-      <link>/publication/harper-2019-ac/</link>
+      <link>http://sbh4th.github.io/publication/harper-2019-ac/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/harper-2019-ac/</guid>
+      <guid>http://sbh4th.github.io/publication/harper-2019-ac/</guid>
       <description></description>
     </item>
     

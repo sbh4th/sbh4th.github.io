@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evan Wong | Sam Harper</title>
-    <link>/author/evan-wong/</link>
-      <atom:link href="/author/evan-wong/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://sbh4th.github.io/author/evan-wong/</link>
+      <atom:link href="http://sbh4th.github.io/author/evan-wong/index.xml" rel="self" type="application/rss+xml" />
     <description>Evan Wong</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://sbh4th.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Evan Wong</title>
-      <link>/author/evan-wong/</link>
+      <link>http://sbh4th.github.io/author/evan-wong/</link>
     </image>
     
     <item>
       <title>Trauma Surveillance and Registry Development in Mozambique: Results of a 1-Year Study and the First Phase of National Implementation</title>
-      <link>/publication/hamadani-2019-aa/</link>
+      <link>http://sbh4th.github.io/publication/hamadani-2019-aa/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/hamadani-2019-aa/</guid>
+      <guid>http://sbh4th.github.io/publication/hamadani-2019-aa/</guid>
       <description></description>
     </item>
     

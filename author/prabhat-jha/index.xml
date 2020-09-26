@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prabhat Jha | Sam Harper</title>
-    <link>/author/prabhat-jha/</link>
-      <atom:link href="/author/prabhat-jha/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://sbh4th.github.io/author/prabhat-jha/</link>
+      <atom:link href="http://sbh4th.github.io/author/prabhat-jha/index.xml" rel="self" type="application/rss+xml" />
     <description>Prabhat Jha</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://sbh4th.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Prabhat Jha</title>
-      <link>/author/prabhat-jha/</link>
+      <link>http://sbh4th.github.io/author/prabhat-jha/</link>
     </image>
     
     <item>
       <title>Extremes in water availability and suicide: Evidence from a nationally representative sample of rural Indian adults</title>
-      <link>/publication-old/richardson-2020-aa/</link>
+      <link>http://sbh4th.github.io/publication-old/richardson-2020-aa/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication-old/richardson-2020-aa/</guid>
+      <guid>http://sbh4th.github.io/publication-old/richardson-2020-aa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Extremes in water availability and suicide: Evidence from a nationally representative sample of rural Indian adults</title>
-      <link>/publication/richardson-2020-aa/</link>
+      <link>http://sbh4th.github.io/publication/richardson-2020-aa/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/richardson-2020-aa/</guid>
+      <guid>http://sbh4th.github.io/publication/richardson-2020-aa/</guid>
       <description></description>
     </item>
     

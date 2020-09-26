@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R. Carter | Sam Harper</title>
-    <link>/author/r.-carter/</link>
-      <atom:link href="/author/r.-carter/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://sbh4th.github.io/author/r.-carter/</link>
+      <atom:link href="http://sbh4th.github.io/author/r.-carter/index.xml" rel="self" type="application/rss+xml" />
     <description>R. Carter</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://sbh4th.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>R. Carter</title>
-      <link>/author/r.-carter/</link>
+      <link>http://sbh4th.github.io/author/r.-carter/</link>
     </image>
     
     <item>
       <title>Measuring the effect of Family Medicine Group enrolment on avoidable visits to emergency departments by patients with diabetes in Quebec, Canada</title>
-      <link>/publication-old/carter-2017369/</link>
+      <link>http://sbh4th.github.io/publication-old/carter-2017369/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication-old/carter-2017369/</guid>
+      <guid>http://sbh4th.github.io/publication-old/carter-2017369/</guid>
       <description></description>
     </item>
     

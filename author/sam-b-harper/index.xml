@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sam B Harper | Sam Harper</title>
-    <link>/author/sam-b-harper/</link>
-      <atom:link href="/author/sam-b-harper/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://sbh4th.github.io/author/sam-b-harper/</link>
+      <atom:link href="http://sbh4th.github.io/author/sam-b-harper/index.xml" rel="self" type="application/rss+xml" />
     <description>Sam B Harper</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://sbh4th.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Sam B Harper</title>
-      <link>/author/sam-b-harper/</link>
+      <link>http://sbh4th.github.io/author/sam-b-harper/</link>
     </image>
     
     <item>
       <title>Survey data with sampling weights: is there a \&#34;best\&#34; approach?</title>
-      <link>/publication/platt-2013-aa/</link>
+      <link>http://sbh4th.github.io/publication/platt-2013-aa/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/platt-2013-aa/</guid>
+      <guid>http://sbh4th.github.io/publication/platt-2013-aa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Relation of socioeconomic position with ankle-brachial index</title>
-      <link>/publication/agha-2011-aa/</link>
+      <link>http://sbh4th.github.io/publication/agha-2011-aa/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/agha-2011-aa/</guid>
+      <guid>http://sbh4th.github.io/publication/agha-2011-aa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global variability in fruit and vegetable consumption</title>
-      <link>/publication/hall-2009-aa/</link>
+      <link>http://sbh4th.github.io/publication/hall-2009-aa/</link>
       <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
-      <guid>/publication/hall-2009-aa/</guid>
+      <guid>http://sbh4th.github.io/publication/hall-2009-aa/</guid>
       <description></description>
     </item>
     

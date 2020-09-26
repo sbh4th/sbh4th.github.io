@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>N. Speybroeck | Sam Harper</title>
-    <link>/author/n.-speybroeck/</link>
-      <atom:link href="/author/n.-speybroeck/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://sbh4th.github.io/author/n.-speybroeck/</link>
+      <atom:link href="http://sbh4th.github.io/author/n.-speybroeck/index.xml" rel="self" type="application/rss+xml" />
     <description>N. Speybroeck</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://sbh4th.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>N. Speybroeck</title>
-      <link>/author/n.-speybroeck/</link>
+      <link>http://sbh4th.github.io/author/n.-speybroeck/</link>
     </image>
     
     <item>
       <title>Simulation models for socioeconomic inequalities in health: A systematic review</title>
-      <link>/publication-old/speybroeck-20135750/</link>
+      <link>http://sbh4th.github.io/publication-old/speybroeck-20135750/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication-old/speybroeck-20135750/</guid>
+      <guid>http://sbh4th.github.io/publication-old/speybroeck-20135750/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Erratum to: Inequalities of health indicators for policy makers: Six hints (International Journal of Public Health (2012) DOI 10.1007/s00038-012-0386-5)</title>
-      <link>/publication-old/speybroeck-2012859/</link>
+      <link>http://sbh4th.github.io/publication-old/speybroeck-2012859/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication-old/speybroeck-2012859/</guid>
+      <guid>http://sbh4th.github.io/publication-old/speybroeck-2012859/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inequalities of health indicators for policy makers: Six hints</title>
-      <link>/publication-old/speybroeck-2012855/</link>
+      <link>http://sbh4th.github.io/publication-old/speybroeck-2012855/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication-old/speybroeck-2012855/</guid>
+      <guid>http://sbh4th.github.io/publication-old/speybroeck-2012855/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of socioeconomic health inequalities using the concentration index</title>
-      <link>/publication-old/konings-201071/</link>
+      <link>http://sbh4th.github.io/publication-old/konings-201071/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>/publication-old/konings-201071/</guid>
+      <guid>http://sbh4th.github.io/publication-old/konings-201071/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decomposing socioeconomic health inequalities</title>
-      <link>/publication-old/speybroeck-2010347/</link>
+      <link>http://sbh4th.github.io/publication-old/speybroeck-2010347/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>/publication-old/speybroeck-2010347/</guid>
+      <guid>http://sbh4th.github.io/publication-old/speybroeck-2010347/</guid>
       <description></description>
     </item>
     

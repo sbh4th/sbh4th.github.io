@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pauline Delézire | Sam Harper</title>
-    <link>/author/pauline-delezire/</link>
-      <atom:link href="/author/pauline-delezire/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://sbh4th.github.io/author/pauline-delezire/</link>
+      <atom:link href="http://sbh4th.github.io/author/pauline-delezire/index.xml" rel="self" type="application/rss+xml" />
     <description>Pauline Delézire</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 01 Mar 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://sbh4th.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Pauline Delézire</title>
-      <link>/author/pauline-delezire/</link>
+      <link>http://sbh4th.github.io/author/pauline-delezire/</link>
     </image>
     
     <item>
       <title>Maternal education and stillbirth: estimating gestational-age-specific and cause-specific associations</title>
-      <link>/publication/auger-2012-ac/</link>
+      <link>http://sbh4th.github.io/publication/auger-2012-ac/</link>
       <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/auger-2012-ac/</guid>
+      <guid>http://sbh4th.github.io/publication/auger-2012-ac/</guid>
       <description></description>
     </item>
     

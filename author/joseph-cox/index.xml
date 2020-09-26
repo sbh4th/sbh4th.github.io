@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joseph Cox | Sam Harper</title>
-    <link>/author/joseph-cox/</link>
-      <atom:link href="/author/joseph-cox/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://sbh4th.github.io/author/joseph-cox/</link>
+      <atom:link href="http://sbh4th.github.io/author/joseph-cox/index.xml" rel="self" type="application/rss+xml" />
     <description>Joseph Cox</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://sbh4th.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Joseph Cox</title>
-      <link>/author/joseph-cox/</link>
+      <link>http://sbh4th.github.io/author/joseph-cox/</link>
     </image>
     
     <item>
       <title>Injection drug use, food insecurity, and HIV-HCV co-infection: a longitudinal cohort analysis</title>
-      <link>/publication/mc-linden-2018-aa/</link>
+      <link>http://sbh4th.github.io/publication/mc-linden-2018-aa/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/mc-linden-2018-aa/</guid>
+      <guid>http://sbh4th.github.io/publication/mc-linden-2018-aa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Methadone treatment, severe food insecurity, and HIV-HCV co-infection: A propensity score matching analysis</title>
-      <link>/publication/mc-linden-2018-ab/</link>
+      <link>http://sbh4th.github.io/publication/mc-linden-2018-ab/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/mc-linden-2018-ab/</guid>
+      <guid>http://sbh4th.github.io/publication/mc-linden-2018-ab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Injection Drug Use, Unemployment, and Severe Food Insecurity Among HIV-HCV Co-Infected Individuals: A Mediation Analysis</title>
-      <link>/publication/mc-linden-2017-aa/</link>
+      <link>http://sbh4th.github.io/publication/mc-linden-2017-aa/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/mc-linden-2017-aa/</guid>
+      <guid>http://sbh4th.github.io/publication/mc-linden-2017-aa/</guid>
       <description></description>
     </item>
     

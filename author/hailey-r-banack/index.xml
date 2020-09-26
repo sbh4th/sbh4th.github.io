@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hailey R Banack | Sam Harper</title>
-    <link>/author/hailey-r-banack/</link>
-      <atom:link href="/author/hailey-r-banack/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://sbh4th.github.io/author/hailey-r-banack/</link>
+      <atom:link href="http://sbh4th.github.io/author/hailey-r-banack/index.xml" rel="self" type="application/rss+xml" />
     <description>Hailey R Banack</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://sbh4th.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Hailey R Banack</title>
-      <link>/author/hailey-r-banack/</link>
+      <link>http://sbh4th.github.io/author/hailey-r-banack/</link>
     </image>
     
     <item>
       <title>Accounting for Selection Bias in Studies of Acute Cardiac Events</title>
-      <link>/publication/banack-2018-aa/</link>
+      <link>http://sbh4th.github.io/publication/banack-2018-aa/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/banack-2018-aa/</guid>
+      <guid>http://sbh4th.github.io/publication/banack-2018-aa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Coronary heart disease risk factors and mortality</title>
-      <link>/publication/banack-2012-aa/</link>
+      <link>http://sbh4th.github.io/publication/banack-2012-aa/</link>
       <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/banack-2012-aa/</guid>
+      <guid>http://sbh4th.github.io/publication/banack-2012-aa/</guid>
       <description></description>
     </item>
     

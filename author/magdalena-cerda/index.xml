@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Magdalena Cerdá | Sam Harper</title>
-    <link>/author/magdalena-cerda/</link>
-      <atom:link href="/author/magdalena-cerda/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://sbh4th.github.io/author/magdalena-cerda/</link>
+      <atom:link href="http://sbh4th.github.io/author/magdalena-cerda/index.xml" rel="self" type="application/rss+xml" />
     <description>Magdalena Cerdá</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://sbh4th.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Magdalena Cerdá</title>
-      <link>/author/magdalena-cerda/</link>
+      <link>http://sbh4th.github.io/author/magdalena-cerda/</link>
     </image>
     
     <item>
       <title>Comparison of Rates of Firearm and Nonfirearm Homicide and Suicide in Black and White Non-Hispanic Men, by U.S. State</title>
-      <link>/publication/riddell-2018-ab/</link>
+      <link>http://sbh4th.github.io/publication/riddell-2018-ab/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/riddell-2018-ab/</guid>
+      <guid>http://sbh4th.github.io/publication/riddell-2018-ab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparison of Rates of Firearm and Nonfirearm Homicide and Suicide in Black and White Non-Hispanic Men, by U.S. State</title>
-      <link>/publication-old/riddell-2018-aa/</link>
+      <link>http://sbh4th.github.io/publication-old/riddell-2018-aa/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/publication-old/riddell-2018-aa/</guid>
+      <guid>http://sbh4th.github.io/publication-old/riddell-2018-aa/</guid>
       <description></description>
     </item>
     

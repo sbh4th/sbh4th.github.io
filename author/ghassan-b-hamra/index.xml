@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ghassan B Hamra | Sam Harper</title>
-    <link>/author/ghassan-b-hamra/</link>
-      <atom:link href="/author/ghassan-b-hamra/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://sbh4th.github.io/author/ghassan-b-hamra/</link>
+      <atom:link href="http://sbh4th.github.io/author/ghassan-b-hamra/index.xml" rel="self" type="application/rss+xml" />
     <description>Ghassan B Hamra</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://sbh4th.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Ghassan B Hamra</title>
-      <link>/author/ghassan-b-hamra/</link>
+      <link>http://sbh4th.github.io/author/ghassan-b-hamra/</link>
     </image>
     
     <item>
       <title>Are Descriptions of Methods Alone Sufficient for Study Reproducibility? An Example From the Cardiovascular Literature</title>
-      <link>/publication/goldstein-2020-aa/</link>
+      <link>http://sbh4th.github.io/publication/goldstein-2020-aa/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/goldstein-2020-aa/</guid>
+      <guid>http://sbh4th.github.io/publication/goldstein-2020-aa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resource Sharing to Improve Research Quality</title>
-      <link>/publication/hamra-2019-aa/</link>
+      <link>http://sbh4th.github.io/publication/hamra-2019-aa/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/hamra-2019-aa/</guid>
+      <guid>http://sbh4th.github.io/publication/hamra-2019-aa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Challenges in reproducing results from publicly available data: an example of sexual orientation and cardiovascular disease risk</title>
-      <link>/publication/austin-2016-ab/</link>
+      <link>http://sbh4th.github.io/publication/austin-2016-ab/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/austin-2016-ab/</guid>
+      <guid>http://sbh4th.github.io/publication/austin-2016-ab/</guid>
       <description></description>
     </item>
     

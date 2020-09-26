@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>urban-rural | Sam Harper</title>
-    <link>/tag/urban-rural/</link>
-      <atom:link href="/tag/urban-rural/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://sbh4th.github.io/tag/urban-rural/</link>
+      <atom:link href="http://sbh4th.github.io/tag/urban-rural/index.xml" rel="self" type="application/rss+xml" />
     <description>urban-rural</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 15 Mar 2019 14:30:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://sbh4th.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>urban-rural</title>
-      <link>/tag/urban-rural/</link>
+      <link>http://sbh4th.github.io/tag/urban-rural/</link>
     </image>
     
     <item>
       <title>Past and present rural-urban mortality transitions</title>
-      <link>/talk/rsf/</link>
+      <link>http://sbh4th.github.io/talk/rsf/</link>
       <pubDate>Fri, 15 Mar 2019 14:30:00 +0000</pubDate>
-      <guid>/talk/rsf/</guid>
+      <guid>http://sbh4th.github.io/talk/rsf/</guid>
       <description></description>
     </item>
     

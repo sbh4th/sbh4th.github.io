@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>peer review | Sam Harper</title>
-    <link>/tag/peer-review/</link>
-      <atom:link href="/tag/peer-review/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://sbh4th.github.io/tag/peer-review/</link>
+      <atom:link href="http://sbh4th.github.io/tag/peer-review/index.xml" rel="self" type="application/rss+xml" />
     <description>peer review</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://sbh4th.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>peer review</title>
-      <link>/tag/peer-review/</link>
+      <link>http://sbh4th.github.io/tag/peer-review/</link>
     </image>
     
     <item>
       <title>Clusterjerk: Peer Review Edition!</title>
-      <link>/post/peer-review/</link>
+      <link>http://sbh4th.github.io/post/peer-review/</link>
       <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/post/peer-review/</guid>
+      <guid>http://sbh4th.github.io/post/peer-review/</guid>
       <description>&lt;h2 id=&#34;i&#34;&gt;I.&lt;/h2&gt;
 &lt;p&gt;This week I saw an interesting 
 &lt;a href=&#34;http://www.nber.org/papers/w26364&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; published by NBER by D. Mark Anderson, Kyutaro Matsuzawa, and Joseph J. Sabia (an ungated version is posted on Anderson&amp;rsquo;s 

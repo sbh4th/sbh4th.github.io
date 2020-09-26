@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. Larose | Sam Harper</title>
-    <link>/author/a.-larose/</link>
-      <atom:link href="/author/a.-larose/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://sbh4th.github.io/author/a.-larose/</link>
+      <atom:link href="http://sbh4th.github.io/author/a.-larose/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Larose</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://sbh4th.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>A. Larose</title>
-      <link>/author/a.-larose/</link>
+      <link>http://sbh4th.github.io/author/a.-larose/</link>
     </image>
     
     <item>
       <title>Global income-related inequalities in HIV testing</title>
-      <link>/publication-old/larose-2011345/</link>
+      <link>http://sbh4th.github.io/publication-old/larose-2011345/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/publication-old/larose-2011345/</guid>
+      <guid>http://sbh4th.github.io/publication-old/larose-2011345/</guid>
       <description></description>
     </item>
     

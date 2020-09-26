@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>F. Roncarolo | Sam Harper</title>
-    <link>/author/f.-roncarolo/</link>
-      <atom:link href="/author/f.-roncarolo/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://sbh4th.github.io/author/f.-roncarolo/</link>
+      <atom:link href="http://sbh4th.github.io/author/f.-roncarolo/index.xml" rel="self" type="application/rss+xml" />
     <description>F. Roncarolo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://sbh4th.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>F. Roncarolo</title>
-      <link>/author/f.-roncarolo/</link>
+      <link>http://sbh4th.github.io/author/f.-roncarolo/</link>
     </image>
     
     <item>
       <title>Educational Inequalities in Preterm and Term Small-for-Gestational-Age Birth Over Time</title>
-      <link>/publication-old/auger-2012160/</link>
+      <link>http://sbh4th.github.io/publication-old/auger-2012160/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication-old/auger-2012160/</guid>
+      <guid>http://sbh4th.github.io/publication-old/auger-2012160/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Increasing educational inequality in preterm birth in Québec, Canada, 1981-2006</title>
-      <link>/publication-old/auger-20111091/</link>
+      <link>http://sbh4th.github.io/publication-old/auger-20111091/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>/publication-old/auger-20111091/</guid>
+      <guid>http://sbh4th.github.io/publication-old/auger-20111091/</guid>
       <description></description>
     </item>
     

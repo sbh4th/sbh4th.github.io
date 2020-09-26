@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Harper, S. | Sam Harper</title>
-    <link>/author/harper-s./</link>
-      <atom:link href="/author/harper-s./index.xml" rel="self" type="application/rss+xml" />
+    <link>http://sbh4th.github.io/author/harper-s./</link>
+      <atom:link href="http://sbh4th.github.io/author/harper-s./index.xml" rel="self" type="application/rss+xml" />
     <description>Harper, S.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://sbh4th.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Harper, S.</title>
-      <link>/author/harper-s./</link>
+      <link>http://sbh4th.github.io/author/harper-s./</link>
     </image>
     
     <item>
       <title>Resource Sharing to Improve Research Quality</title>
-      <link>/publication-old/hamra-2019/</link>
+      <link>http://sbh4th.github.io/publication-old/hamra-2019/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/publication-old/hamra-2019/</guid>
+      <guid>http://sbh4th.github.io/publication-old/hamra-2019/</guid>
       <description></description>
     </item>
     

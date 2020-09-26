@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>equity | Sam Harper</title>
-    <link>/tag/equity/</link>
-      <atom:link href="/tag/equity/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://sbh4th.github.io/tag/equity/</link>
+      <atom:link href="http://sbh4th.github.io/tag/equity/index.xml" rel="self" type="application/rss+xml" />
     <description>equity</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Feb 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://sbh4th.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>equity</title>
-      <link>/tag/equity/</link>
+      <link>http://sbh4th.github.io/tag/equity/</link>
     </image>
     
     <item>
       <title>Monitoring equity in vaccination coverage: A systematic analysis of demographic and health surveys from 45 Gavi-supported countries</title>
-      <link>/publication/arsenault-2017-ac/</link>
+      <link>http://sbh4th.github.io/publication/arsenault-2017-ac/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/arsenault-2017-ac/</guid>
+      <guid>http://sbh4th.github.io/publication/arsenault-2017-ac/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M. Daniel | Sam Harper</title>
-    <link>/author/m.-daniel/</link>
-      <atom:link href="/author/m.-daniel/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://sbh4th.github.io/author/m.-daniel/</link>
+      <atom:link href="http://sbh4th.github.io/author/m.-daniel/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Daniel</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://sbh4th.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>M. Daniel</title>
-      <link>/author/m.-daniel/</link>
+      <link>http://sbh4th.github.io/author/m.-daniel/</link>
     </image>
     
     <item>
       <title>Educational Inequalities in Preterm and Term Small-for-Gestational-Age Birth Over Time</title>
-      <link>/publication-old/auger-2012160/</link>
+      <link>http://sbh4th.github.io/publication-old/auger-2012160/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication-old/auger-2012160/</guid>
+      <guid>http://sbh4th.github.io/publication-old/auger-2012160/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Life expectancy gap between the Francophone majority and Anglophone minority of a Canadian population</title>
-      <link>/publication-old/auger-201227/</link>
+      <link>http://sbh4th.github.io/publication-old/auger-201227/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>/publication-old/auger-201227/</guid>
+      <guid>http://sbh4th.github.io/publication-old/auger-201227/</guid>
       <description></description>
     </item>
     

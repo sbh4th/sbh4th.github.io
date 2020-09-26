@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nancy A Ross | Sam Harper</title>
-    <link>/author/nancy-a-ross/</link>
-      <atom:link href="/author/nancy-a-ross/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://sbh4th.github.io/author/nancy-a-ross/</link>
+      <atom:link href="http://sbh4th.github.io/author/nancy-a-ross/index.xml" rel="self" type="application/rss+xml" />
     <description>Nancy A Ross</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://sbh4th.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Nancy A Ross</title>
-      <link>/author/nancy-a-ross/</link>
+      <link>http://sbh4th.github.io/author/nancy-a-ross/</link>
     </image>
     
     <item>
       <title>Childbirth-Related Hospital Burden by Socioeconomic Status in a Universal Health Care Setting</title>
-      <link>/publication/mah-2018-aa/</link>
+      <link>http://sbh4th.github.io/publication/mah-2018-aa/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/mah-2018-aa/</guid>
+      <guid>http://sbh4th.github.io/publication/mah-2018-aa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neighbourhood Walkability and Daily Steps in Adults with Type 2 Diabetes</title>
-      <link>/publication/hajna-2016-aa/</link>
+      <link>http://sbh4th.github.io/publication/hajna-2016-aa/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/hajna-2016-aa/</guid>
+      <guid>http://sbh4th.github.io/publication/hajna-2016-aa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neighbourhood walkability, daily steps and utilitarian walking in Canadian adults</title>
-      <link>/publication/hajna-2015-aa/</link>
+      <link>http://sbh4th.github.io/publication/hajna-2015-aa/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/hajna-2015-aa/</guid>
+      <guid>http://sbh4th.github.io/publication/hajna-2015-aa/</guid>
       <description></description>
     </item>
     

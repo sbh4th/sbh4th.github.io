@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Birgit Müller | Sam Harper</title>
-    <link>/author/birgit-muller/</link>
-      <atom:link href="/author/birgit-muller/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://sbh4th.github.io/author/birgit-muller/</link>
+      <atom:link href="http://sbh4th.github.io/author/birgit-muller/index.xml" rel="self" type="application/rss+xml" />
     <description>Birgit Müller</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Nov 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://sbh4th.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Birgit Müller</title>
-      <link>/author/birgit-muller/</link>
+      <link>http://sbh4th.github.io/author/birgit-muller/</link>
     </image>
     
     <item>
       <title>Simulation models for socioeconomic inequalities in health: a systematic review</title>
-      <link>/publication/speybroeck-2013-aa/</link>
+      <link>http://sbh4th.github.io/publication/speybroeck-2013-aa/</link>
       <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/speybroeck-2013-aa/</guid>
+      <guid>http://sbh4th.github.io/publication/speybroeck-2013-aa/</guid>
       <description></description>
     </item>
     

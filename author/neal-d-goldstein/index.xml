@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neal D Goldstein | Sam Harper</title>
-    <link>/author/neal-d-goldstein/</link>
-      <atom:link href="/author/neal-d-goldstein/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://sbh4th.github.io/author/neal-d-goldstein/</link>
+      <atom:link href="http://sbh4th.github.io/author/neal-d-goldstein/index.xml" rel="self" type="application/rss+xml" />
     <description>Neal D Goldstein</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://sbh4th.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Neal D Goldstein</title>
-      <link>/author/neal-d-goldstein/</link>
+      <link>http://sbh4th.github.io/author/neal-d-goldstein/</link>
     </image>
     
     <item>
       <title>Are Descriptions of Methods Alone Sufficient for Study Reproducibility? An Example From the Cardiovascular Literature</title>
-      <link>/publication/goldstein-2020-aa/</link>
+      <link>http://sbh4th.github.io/publication/goldstein-2020-aa/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/goldstein-2020-aa/</guid>
+      <guid>http://sbh4th.github.io/publication/goldstein-2020-aa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resource Sharing to Improve Research Quality</title>
-      <link>/publication/hamra-2019-aa/</link>
+      <link>http://sbh4th.github.io/publication/hamra-2019-aa/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/hamra-2019-aa/</guid>
+      <guid>http://sbh4th.github.io/publication/hamra-2019-aa/</guid>
       <description></description>
     </item>
     
