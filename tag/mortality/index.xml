@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mortality | Sam Harper</title>
+    <link>/tag/mortality/</link>
+      <atom:link href="/tag/mortality/index.xml" rel="self" type="application/rss+xml" />
+    <description>mortality</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>mortality</title>
+      <link>/tag/mortality/</link>
+    </image>
+    
+    <item>
+      <title>Black and White Differences in Life Expectancy in 4 US States, 1969-2013</title>
+      <link>/publication/kaufman-2019-aa/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/kaufman-2019-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The annual cannabis holiday and fatal traffic crashes</title>
+      <link>/publication/harper-2019-ac/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/harper-2019-ac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accounting for Selection Bias in Studies of Acute Cardiac Events</title>
+      <link>/publication-old/banack-2018709/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication-old/banack-2018709/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Parental and Medical Leave Policies on Socioeconomic and Health Outcomes in OECD Countries: A Systematic Review of the Empirical Literature</title>
+      <link>/publication-old/nandi-2018434/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication-old/nandi-2018434/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trends in the contribution of major causes of death to the black-white life expectancy gap by US state</title>
+      <link>/publication-old/riddell-201885/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication-old/riddell-201885/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Did the Great Recession affect mortality rates in the metropolitan United States? Effects on mortality by age, gender and cause of death</title>
+      <link>/publication/strumpf-2017-aa/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/strumpf-2017-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trends in Socioeconomic Inequalities in Motor Vehicle Accident Deaths in the United States, 1995-2010</title>
+      <link>/publication/harper-2015-aa/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/harper-2015-aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N.A. Ross | Sam Harper</title>
+    <link>/author/n.a.-ross/</link>
+      <atom:link href="/author/n.a.-ross/index.xml" rel="self" type="application/rss+xml" />
+    <description>N.A. Ross</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>N.A. Ross</title>
+      <link>/author/n.a.-ross/</link>
+    </image>
+    
+    <item>
+      <title>Neighbourhood walkability and daily steps in adults with type 2 diabetes</title>
+      <link>/publication-old/hajna-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication-old/hajna-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neighbourhood walkability, daily steps and utilitarian walking in Canadian adults</title>
+      <link>/publication-old/hajna-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication-old/hajna-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

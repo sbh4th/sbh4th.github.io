@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jaeil Ahn | Sam Harper</title>
+    <link>/author/jaeil-ahn/</link>
+      <atom:link href="/author/jaeil-ahn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jaeil Ahn</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jaeil Ahn</title>
+      <link>/author/jaeil-ahn/</link>
+    </image>
+    
+    <item>
+      <title>Improved Monte Carlo methods for estimating confidence intervals for eleven commonly used health disparity measures</title>
+      <link>/publication-old/ahn-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication-old/ahn-2019/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improved Monte Carlo methods for estimating confidence intervals for eleven commonly used health disparity measures</title>
+      <link>/publication/ahn-2019-aa/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ahn-2019-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variance Estimation and Confidence Intervals for 11 Commonly Used Health Disparity Measures</title>
+      <link>/publication/ahn-2018-aa/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/ahn-2018-aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

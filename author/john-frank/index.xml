@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Frank | Sam Harper</title>
+    <link>/author/john-frank/</link>
+      <atom:link href="/author/john-frank/index.xml" rel="self" type="application/rss+xml" />
+    <description>John Frank</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>John Frank</title>
+      <link>/author/john-frank/</link>
+    </image>
+    
+    <item>
+      <title>Do minimum wages improve early life health? Evidence from developing countries</title>
+      <link>/publication/majid-2016-aa/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/majid-2016-aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

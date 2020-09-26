@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohammad Hajizadeh | Sam Harper</title>
+    <link>/author/mohammad-hajizadeh/</link>
+      <atom:link href="/author/mohammad-hajizadeh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mohammad Hajizadeh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Mohammad Hajizadeh</title>
+      <link>/author/mohammad-hajizadeh/</link>
+    </image>
+    
+    <item>
+      <title>Increased Duration of Paid Maternity Leave Lowers Infant Mortality in Low- and Middle-Income Countries: A Quasi-Experimental Study</title>
+      <link>/publication/nandi-2016-ab/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/nandi-2016-ab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paid maternity leave and childhood vaccination uptake: Longitudinal evidence from 20 low-and-middle-income countries</title>
+      <link>/publication/hajizadeh-2015-aa/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/hajizadeh-2015-aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

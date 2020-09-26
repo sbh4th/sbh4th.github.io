@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deepa Jahagirdar | Sam Harper</title>
+    <link>/author/deepa-jahagirdar/</link>
+      <atom:link href="/author/deepa-jahagirdar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deepa Jahagirdar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Deepa Jahagirdar</title>
+      <link>/author/deepa-jahagirdar/</link>
+    </image>
+    
+    <item>
+      <title>The Impact of Parental and Medical Leave Policies on Socioeconomic and Health Outcomes in OECD Countries: A Systematic Review of the Empirical Literature</title>
+      <link>/publication/nandi-2018-aa/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/nandi-2018-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of paid maternity leave on early childhood growth in low-income and middle-income countries</title>
+      <link>/publication/jahagirdar-2017-aa/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/jahagirdar-2017-aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

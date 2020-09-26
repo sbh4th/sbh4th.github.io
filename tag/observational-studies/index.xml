@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>observational studies | Sam Harper</title>
+    <link>/tag/observational-studies/</link>
+      <atom:link href="/tag/observational-studies/index.xml" rel="self" type="application/rss+xml" />
+    <description>observational studies</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>observational studies</title>
+      <link>/tag/observational-studies/</link>
+    </image>
+    
+    <item>
+      <title>A Future for Observational Epidemiology: Clarity, Credibility, Transparency</title>
+      <link>/publication/harper-2019-ab/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/harper-2019-ab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Good practices for the design, analysis, and interpretation of observational studies on birth spacing and perinatal health outcomes</title>
+      <link>/publication-old/hutcheon-2019-o-15/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication-old/hutcheon-2019-o-15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

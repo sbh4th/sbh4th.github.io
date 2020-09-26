@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiangqun Ju | Sam Harper</title>
+    <link>/author/xiangqun-ju/</link>
+      <atom:link href="/author/xiangqun-ju/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiangqun Ju</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Xiangqun Ju</title>
+      <link>/author/xiangqun-ju/</link>
+    </image>
+    
+    <item>
+      <title>Socioeconomic status, oral health and dental disease in Australia, Canada, New Zealand and the United States</title>
+      <link>/publication/mejia-2018-aa/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mejia-2018-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social inequalities in tooth loss: A multinational comparison</title>
+      <link>/publication/elani-2017-aa/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/elani-2017-aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

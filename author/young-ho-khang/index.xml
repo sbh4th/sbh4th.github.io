@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Young-Ho Khang | Sam Harper</title>
+    <link>/author/young-ho-khang/</link>
+      <atom:link href="/author/young-ho-khang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Young-Ho Khang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 01 Oct 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Young-Ho Khang</title>
+      <link>/author/young-ho-khang/</link>
+    </image>
+    
+    <item>
+      <title>The changing gender differences in life expectancy in Korea 1970-2005</title>
+      <link>/publication/yang-2012-aa/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/yang-2012-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding the rapid increase in life expectancy in South Korea</title>
+      <link>/publication/yang-2010-aa/</link>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/yang-2010-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The contribution of material, psychosocial, and behavioral factors in explaining educational and occupational mortality inequalities in a nationally representative sample of South Koreans: relative and absolute perspectives</title>
+      <link>/publication/khang-2009-aa/</link>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/khang-2009-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socioeconomic differentials in cause-specific mortality among South Korean adolescents</title>
+      <link>/publication/cho-2007-aa/</link>
+      <pubDate>Thu, 01 Feb 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/cho-2007-aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

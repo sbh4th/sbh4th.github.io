@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marianne Hillemeier | Sam Harper</title>
+    <link>/author/marianne-hillemeier/</link>
+      <atom:link href="/author/marianne-hillemeier/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marianne Hillemeier</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Marianne Hillemeier</title>
+      <link>/author/marianne-hillemeier/</link>
+    </image>
+    
+    <item>
+      <title>Is income inequality a determinant of population health? Part 1. A systematic review</title>
+      <link>/publication/lynch-2004-ab/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/lynch-2004-ab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is income inequality a determinant of population health? Part 2. U.S. National and regional trends in income inequality and age- and cause-specific mortality</title>
+      <link>/publication/lynch-2004-aa/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/lynch-2004-aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

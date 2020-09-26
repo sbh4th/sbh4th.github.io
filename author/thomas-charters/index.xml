@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Charters | Sam Harper</title>
+    <link>/author/thomas-charters/</link>
+      <atom:link href="/author/thomas-charters/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Charters</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Thomas Charters</title>
+      <link>/author/thomas-charters/</link>
+    </image>
+    
+    <item>
+      <title>Trends in Educational Inequalities in Drug Poisoning Mortality: United States, 1994-2010</title>
+      <link>/publication/richardson-2015-aa/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/richardson-2015-aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

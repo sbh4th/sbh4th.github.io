@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alison L Park | Sam Harper</title>
+    <link>/author/alison-l-park/</link>
+      <atom:link href="/author/alison-l-park/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alison L Park</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 01 Dec 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Alison L Park</title>
+      <link>/author/alison-l-park/</link>
+    </image>
+    
+    <item>
+      <title>Francophone and Anglophone perinatal health: temporal and regional inequalities in a Canadian setting, 1981-2008</title>
+      <link>/publication/auger-2012-aa/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/auger-2012-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Educational inequalities in preterm and term small-for-gestational-age birth over time</title>
+      <link>/publication/auger-2012-ab/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/auger-2012-ab/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

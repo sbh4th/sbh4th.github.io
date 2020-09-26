@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>women&#39;s health | Sam Harper</title>
+    <link>/tag/womens-health/</link>
+      <atom:link href="/tag/womens-health/index.xml" rel="self" type="application/rss+xml" />
+    <description>women&#39;s health</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>women&#39;s health</title>
+      <link>/tag/womens-health/</link>
+    </image>
+    
+    <item>
+      <title>Quantifying the impact of targeted regulation of abortion provider laws on US abortion rates: a multi-state assessment</title>
+      <link>/publication/austin-2019-ab/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/austin-2019-ab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constructing a longitudinal database of targeted regulation of abortion providers laws</title>
+      <link>/publication/austin-2019-aa/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/austin-2019-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the impact of TRAP laws on abortion and women&#39;s health in the USA: a systematic review</title>
+      <link>/publication/austin-2018-aa/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/austin-2018-aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

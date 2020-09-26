@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vincent Lorant | Sam Harper</title>
+    <link>/author/vincent-lorant/</link>
+      <atom:link href="/author/vincent-lorant/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vincent Lorant</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sun, 01 Aug 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Vincent Lorant</title>
+      <link>/author/vincent-lorant/</link>
+    </image>
+    
+    <item>
+      <title>Decomposing socioeconomic health inequalities</title>
+      <link>/publication/speybroeck-2010-aa/</link>
+      <pubDate>Sun, 01 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/speybroeck-2010-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of socioeconomic health inequalities using the concentration index</title>
+      <link>/publication/konings-2010-aa/</link>
+      <pubDate>Mon, 01 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/konings-2010-aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
