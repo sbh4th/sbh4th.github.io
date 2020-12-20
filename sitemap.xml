@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://sbh4th.github.io/courses/mcgill/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://sbh4th.github.io/publication-type/2/</loc>
     <lastmod>2020-09-25T09:07:38-04:00</lastmod>
   </url>
@@ -100,6 +105,11 @@
   <url>
     <loc>http://sbh4th.github.io/tags/</loc>
     <lastmod>2020-09-25T09:07:38-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://sbh4th.github.io/courses/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2705,10 +2715,6 @@
   
   <url>
     <loc>http://sbh4th.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://sbh4th.github.io/courses/</loc>
   </url>
   
   <url>
