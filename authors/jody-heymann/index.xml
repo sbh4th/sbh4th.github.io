@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jody Heymann | Academic</title>
+    <link>http://sbh4th.github.io/authors/jody-heymann/</link>
+      <atom:link href="http://sbh4th.github.io/authors/jody-heymann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jody Heymann</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://sbh4th.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Jody Heymann</title>
+      <link>http://sbh4th.github.io/authors/jody-heymann/</link>
+    </image>
+    
+    <item>
+      <title>The effect of paid maternity leave on early childhood growth in low-income and middle-income countries</title>
+      <link>http://sbh4th.github.io/publication/jahagirdar-2017-aa/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://sbh4th.github.io/publication/jahagirdar-2017-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Increased Duration of Paid Maternity Leave Lowers Infant Mortality in Low- and Middle-Income Countries: A Quasi-Experimental Study</title>
+      <link>http://sbh4th.github.io/publication/nandi-2016-ab/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://sbh4th.github.io/publication/nandi-2016-ab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paid maternity leave and childhood vaccination uptake: Longitudinal evidence from 20 low-and-middle-income countries</title>
+      <link>http://sbh4th.github.io/publication/hajizadeh-2015-aa/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://sbh4th.github.io/publication/hajizadeh-2015-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economic conditions and health behaviours during the &#39;Great Recession&#39;</title>
+      <link>http://sbh4th.github.io/publication/nandi-2013-aa/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>http://sbh4th.github.io/publication/nandi-2013-aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

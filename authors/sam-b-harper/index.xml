@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sam B Harper | Academic</title>
+    <link>http://sbh4th.github.io/authors/sam-b-harper/</link>
+      <atom:link href="http://sbh4th.github.io/authors/sam-b-harper/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sam B Harper</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://sbh4th.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Sam B Harper</title>
+      <link>http://sbh4th.github.io/authors/sam-b-harper/</link>
+    </image>
+    
+    <item>
+      <title>Survey data with sampling weights: is there a \&#34;best\&#34; approach?</title>
+      <link>http://sbh4th.github.io/publication/platt-2013-aa/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://sbh4th.github.io/publication/platt-2013-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relation of socioeconomic position with ankle-brachial index</title>
+      <link>http://sbh4th.github.io/publication/agha-2011-aa/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>http://sbh4th.github.io/publication/agha-2011-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global variability in fruit and vegetable consumption</title>
+      <link>http://sbh4th.github.io/publication/hall-2009-aa/</link>
+      <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
+      <guid>http://sbh4th.github.io/publication/hall-2009-aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

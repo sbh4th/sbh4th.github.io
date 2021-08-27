@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Normand Trempe | Academic</title>
+    <link>http://sbh4th.github.io/authors/normand-trempe/</link>
+      <atom:link href="http://sbh4th.github.io/authors/normand-trempe/index.xml" rel="self" type="application/rss+xml" />
+    <description>Normand Trempe</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://sbh4th.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Normand Trempe</title>
+      <link>http://sbh4th.github.io/authors/normand-trempe/</link>
+    </image>
+    
+    <item>
+      <title>Life expectancy gap between the Francophone majority and Anglophone minority of a Canadian population</title>
+      <link>http://sbh4th.github.io/publication/auger-2012-ad/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://sbh4th.github.io/publication/auger-2012-ad/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

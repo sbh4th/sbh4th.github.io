@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yves Bergevin | Academic</title>
+    <link>http://sbh4th.github.io/authors/yves-bergevin/</link>
+      <atom:link href="http://sbh4th.github.io/authors/yves-bergevin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yves Bergevin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 01 May 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://sbh4th.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Yves Bergevin</title>
+      <link>http://sbh4th.github.io/authors/yves-bergevin/</link>
+    </image>
+    
+    <item>
+      <title>Removing user fees for facility-based delivery services: a difference-in-differences evaluation from ten sub-Saharan African countries</title>
+      <link>http://sbh4th.github.io/publication/mc-kinnon-2015-ab/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://sbh4th.github.io/publication/mc-kinnon-2015-ab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socioeconomic inequality in neonatal mortality in countries of low and middle income: a multicountry analysis</title>
+      <link>http://sbh4th.github.io/publication/mc-kinnon-2014-aa/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>http://sbh4th.github.io/publication/mc-kinnon-2014-aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

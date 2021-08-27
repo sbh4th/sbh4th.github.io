@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>peer review | Sam Harper</title>
+    <title>peer review | Academic</title>
     <link>http://sbh4th.github.io/tag/peer-review/</link>
       <atom:link href="http://sbh4th.github.io/tag/peer-review/index.xml" rel="self" type="application/rss+xml" />
     <description>peer review</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://sbh4th.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>http://sbh4th.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>peer review</title>
       <link>http://sbh4th.github.io/tag/peer-review/</link>
     </image>
@@ -25,7 +25,34 @@
 &lt;p&gt;A recent article published by Raifman et al. (2017) produces the first empirical evidence on the relationship between SSM legalization and youth mental health. Using data from the State Youth Risk Behavior Surveys (YRBS) for the period 1999-2015, Raifman et al. (2017) find that legalization is associated with a 0.6 percentage-point (7 percent) decline in self-reported suicide attempts among all high school students, and a 4 percentage-point (14 percent) decline in suicide attempts among those who identified as LGBQ relative to suicide attempts among heterosexual-identifying youth.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Hey&amp;hellip;wait a minute&amp;hellip;something seems familiar here&amp;hellip;Oh yeah! I know that paper! In fact, I &lt;em&gt;reviewed&lt;/em&gt; the Raifman (2017) paper for &lt;em&gt;JAMA Pediatrics&lt;/em&gt; a couple of years ago:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;jp-email.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/peer-review/jp-email_hu7ea811762075c66be5ec0e8bc7955154_42891_70835d3de2dea054ec74373e8eb1d6d4.png 400w,
+               /post/peer-review/jp-email_hu7ea811762075c66be5ec0e8bc7955154_42891_7577931a30ec2b0a7ef5afeac8e666e7.png 760w,
+               /post/peer-review/jp-email_hu7ea811762075c66be5ec0e8bc7955154_42891_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;http://sbh4th.github.io/post/peer-review/jp-email_hu7ea811762075c66be5ec0e8bc7955154_42891_70835d3de2dea054ec74373e8eb1d6d4.png&#34;
+               width=&#34;760&#34;
+               height=&#34;120&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;Well. This is indeed interesting. Let&amp;rsquo;s see where it goes&amp;hellip;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;While there is much to admire about the pioneering efforts of Raifman et al. (2017),&lt;/p&gt;
@@ -137,7 +164,34 @@ a story of social backlash.&lt;/p&gt;
 &lt;p&gt;My concern is about how peer review is handled. We already have a huge problem with &lt;a href=&#34;https://www.thelancet.com/series/research&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;research waste&lt;/a&gt; in biomedical research, and having smart people like Anderson et al. spend lots of time correcting flaws in a paper that were previously identified during the &amp;ldquo;normal&amp;rdquo; process of peer review seems like a waste of time and resources. Why even bother with peer review at all? Had the first version of this paper been published without any peer review, my guess is that we would see much the same paper by Anderson et al. Yes, on one hand, I can see this as a great example of a well-designed replication paper. Anderson et al. found &amp;ldquo;much to admire&amp;rdquo; in Raifman et al. (2017), but also believed the results deserved to be further interrogated. Plus, they attempt to &lt;em&gt;advance&lt;/em&gt; the evidence further by including more post-treatment data, taking advantage of a new potential source of exogenous variation, and looking at other outcomes. All good.&lt;/p&gt;
 &lt;p&gt;On the other hand, however, I&amp;rsquo;m frustrated that the process of peer review in the first go around could have been more transparent. Did the editor communicate to the authors the concerns that &lt;em&gt;both&lt;/em&gt; reviewers had about the clustering issue? Perhaps the authors argued against clustering at the state level in their response, but why then did we end up with &amp;ldquo;state-grade&amp;rdquo; clustering? When I spend my time reviewing a paper I generally hope that both the authors &lt;em&gt;and the editor&lt;/em&gt; take my comments seriously. But I don&amp;rsquo;t pretend that every comment I make in a review is equally important, or important at all. I can (and do) focus on pendantic, pet issues that bother me, but this is a case where the paper is about a serious policy (and health) issue, the authors are doing some non-standard-practice things and, as we seem to have learned from Anderson et al., these choices &lt;em&gt;actually do&lt;/em&gt; make a difference to the results and interpretation.&lt;/p&gt;
 &lt;p&gt;Perhaps it is my fault for not following up more closely. In fairness, I may have ticked the box when submitting my review that I didn&amp;rsquo;t want to see the paper again, having already invested a lot of time in reviewing it and providing what I thought were helpful comments. In fact, I tried to login to the &lt;em&gt;JAMA Pediatrics&lt;/em&gt; site to retrieve my review and see how the paper was handled and perhaps whether I asked not to see it again, and not only is there no record of my review, they don&amp;rsquo;t even have me in the system as a peer reviewer!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;jp-gone.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /post/peer-review/jp-gone_hu1e39a4b3266917a997281e8904a8c684_51636_438014fda2823f3009175cb8e99fc031.png 400w,
+               /post/peer-review/jp-gone_hu1e39a4b3266917a997281e8904a8c684_51636_92b212968dd7b7c648aae309eddaaea4.png 760w,
+               /post/peer-review/jp-gone_hu1e39a4b3266917a997281e8904a8c684_51636_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;http://sbh4th.github.io/post/peer-review/jp-gone_hu1e39a4b3266917a997281e8904a8c684_51636_438014fda2823f3009175cb8e99fc031.png&#34;
+               width=&#34;760&#34;
+               height=&#34;343&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;What the hell kind of clown show is going on here?!&lt;/p&gt;
 &lt;p&gt;Finally, it&amp;rsquo;s also important to say that NBER papers are &lt;em&gt;not&lt;/em&gt; peer-reviewed and I&amp;rsquo;m sure Anderson et al.&amp;rsquo;s paper will also benefit from the scrutiny of the peer review process. I just hope that the peer reviewers who use their limited time to provide this crucial activity, &lt;strong&gt;free-of-charge&lt;/strong&gt;, have their reports faithfully considered by editors when making judgements about the paper&amp;rsquo;s merits.&lt;/p&gt;
 </description>

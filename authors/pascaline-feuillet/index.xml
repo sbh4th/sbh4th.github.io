@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pascaline Feuillet | Academic</title>
+    <link>http://sbh4th.github.io/authors/pascaline-feuillet/</link>
+      <atom:link href="http://sbh4th.github.io/authors/pascaline-feuillet/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pascaline Feuillet</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 01 Aug 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://sbh4th.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Pascaline Feuillet</title>
+      <link>http://sbh4th.github.io/authors/pascaline-feuillet/</link>
+    </image>
+    
+    <item>
+      <title>Mortality inequality in populations with equal life expectancy: Arriaga&#39;s decomposition method in SAS, Stata, and Excel</title>
+      <link>http://sbh4th.github.io/publication/auger-2014-aa/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>http://sbh4th.github.io/publication/auger-2014-aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
