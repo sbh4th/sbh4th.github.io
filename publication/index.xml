@@ -5,12 +5,52 @@
     <link>http://sbh4th.github.io/publication/</link>
       <atom:link href="http://sbh4th.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Sam Harper</copyright><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Sam Harper</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://sbh4th.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>http://sbh4th.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Decomposition of socioeconomic inequalities in arboviral diseases in Brazil and Colombia (2007-2017)</title>
+      <link>http://sbh4th.github.io/publication/carabali-2022-wh/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://sbh4th.github.io/publication/carabali-2022-wh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>No, it is not too good to be true: Response by Hutcheon and Harper</title>
+      <link>http://sbh4th.github.io/publication/hutcheon-2021-wk/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://sbh4th.github.io/publication/hutcheon-2021-wk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>If it sounds too good to be true, it probably is: Conducting within-woman comparison studies with only one exposure observation per woman</title>
+      <link>http://sbh4th.github.io/publication/hutcheon-2021-wt/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://sbh4th.github.io/publication/hutcheon-2021-wt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Depression-related weight change and incident diabetes in a community sample</title>
+      <link>http://sbh4th.github.io/publication/graham-2021-wh/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://sbh4th.github.io/publication/graham-2021-wh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Declining Life Expectancy in the United States: Missing the Trees for the Forest</title>
+      <link>http://sbh4th.github.io/publication/harper-2021-wv/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://sbh4th.github.io/publication/harper-2021-wv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Antenatal corticosteroid administration and early school age child development: A regression discontinuity study in British Columbia, Canada</title>
