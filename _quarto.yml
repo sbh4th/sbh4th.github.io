@@ -1,0 +1,41 @@
+project:
+  type: website
+  output-dir: docs
+
+execute:
+  freeze: true
+
+website:
+  title: "Sam Harper"
+  site-url: "https://www.samharper.org"
+  repo-url: "https://sbh4th.github.io"
+  repo-actions: [issue]
+  navbar:
+    search: true
+    right:
+      - href: index.qmd
+        text: Home
+      # - about.qmd
+      - text: "Teaching"
+        file: teaching/index.qmd
+      - text: "Posts"
+        file: posts/index.qmd
+      - text: "Talks"
+        file: talks/index.qmd
+      - text: "Projects"
+        file: projects/index.qmd
+      - text: "Papers"
+        file: papers/index.qmd
+      - text: "CV"
+        file: cv/index.qmd
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: true
+    # mainfont: "Alegreya"
+    include-in-header: "_includes/header.html"
+
+editor: source
+

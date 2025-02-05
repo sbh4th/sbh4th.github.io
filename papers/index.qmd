@@ -1,0 +1,33 @@
+---
+title: "Papers"
+execute: 
+  echo: false
+  message: false
+  warning: false
+# listing:
+#   - id: articles
+#     contents: "*/index.qmd"
+#     sort: "date desc"
+#     # template: ../html/research/listing.ejs
+#     categories: true
+page-layout: full
+include-back-link: false
+toc-location: right
+cache: true
+---
+
+```{r setup}
+library(here)
+source(here("_common.R"))
+
+pubs <- get_pubs()
+```
+
+## Recent Journal Articles
+*indicates trainee under my supervision or co-supervision.
+
+`r make_pub_list(pubs, "ARTICLE")`
+
+## Book Chapters
+
+`r make_pub_list(pubs, "INCOLLECTION")`

@@ -1,0 +1,24 @@
+---
+title: "Impacts of transitioning to clean household energy"
+date: "2024-11-21"
+image: "featured.png"
+categories: ["impact evaluation", "difference-in-differences", "mediation"]
+
+---
+
+Seminar given at the University of Copenhagen Section of Social Medicine, Copenhagen, DK,  Nov 21, 2024.
+
+Below you can access the slides.
+
+:::columns
+::: {.column width="45%"}
+<center> [HTML version](https://samharper.org/asm) </center>
+[![](featured.png)](https://samharper.org/asm){width=50%}
+:::
+
+::: {.column width="45%"}
+<center> [PDF version](asm.pdf) </center>
+[![](featured.png)](asm.pdf){width=30%}
+:::
+
+:::

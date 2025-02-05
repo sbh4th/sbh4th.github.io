@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: http://sbh4th.github.io/sitemap.xml
