@@ -4,21 +4,20 @@ format:
   html:
     toc: true
 
-# format:
-#  pdf:
-#    colorlinks: true
-#    link-citations: true
-#    keep-tex: true
-#    number-sections: true
-#    # fontfamily: CrimsonPro
-#    include-in-header:
-#      - text: |
-#          \usepackage{etaremune}
-#          \usepackage{doi}
-#          \usepackage{enumitem}
-#          \setlist[itemize]{noitemsep}
-#          \usepackage{scrlayer-scrpage}
-#          \rohead{\textsf{CV - S.Harper}}
+  pdf:
+    colorlinks: true
+    link-citations: true
+    keep-tex: true
+    number-sections: true
+    # fontfamily: CrimsonPro
+    include-in-header:
+      - text: |
+          \usepackage{etaremune}
+          \usepackage{doi}
+          \usepackage{enumitem}
+          \setlist[itemize]{noitemsep}
+          \usepackage{scrlayer-scrpage}
+          \rohead{\textsf{CV - S.Harper}}
 editor_options: 
   markdown: 
     wrap: sentence
