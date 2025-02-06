@@ -1,5 +1,5 @@
 ---
-title: " "
+title: "Sam Harper, PhD"
 about:
   template: broadside
   image: portrait.png
@@ -8,11 +8,13 @@ about:
       aria-label: email
       href: "mailto:sam.harper@mcgill.ca"
     - icon: twitter
-      text: sbh4th
+      text: ""
       href: https://twitter.com/sbh4th
     - icon: github
-      text: sbh4th
+      text: ""
       href: https://github.com/sbh4th
+    - text: "{{< fa brands bluesky >}}"
+      href: https://bsky.app/profile/sbh4th.bsky.social
     - text: "{{< ai google-scholar >}}"
       href: https://scholar.google.ca/citations?user=Ipf8idcAAAAJ&hl=en
     - text: "{{< ai orcid >}}"
