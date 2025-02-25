@@ -1,0 +1,25 @@
+---
+title: "Impacts of transitioning to clean household energy"
+subtitle: "Evidence from policy reform in peri-urban Beijing"
+date: "2024-02-24"
+image: "featured.png"
+categories: ["impact evaluation", "difference-in-differences", "mediation"]
+
+---
+
+Seminar given at the Rockwool Family Foundation, Copenhagen, DK, Feb 24, 2025.
+
+Below you can access the slides.
+
+:::columns
+::: {.column width="45%"}
+<center> [HTML version](https://samharper.org/rff-bhet) </center>
+[![](featured.png)](https://samharper.org/rff-bhet){width=50%}
+:::
+
+::: {.column width="45%"}
+<center> [PDF version](rff-bhet.pdf) </center>
+[![](featured.png)](rff-bhet.pdf){width=30%}
+:::
+
+:::

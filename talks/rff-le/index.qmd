@@ -1,0 +1,25 @@
+---
+title: "Life Expectancy Inequalities in the USA"
+subtitle: "General or Specific?"
+date: "2025-02-21"
+image: "featured.png"
+categories: ["health inequalities", "life expectancy"]
+
+---
+
+Presentation given at the Rockwool Family Foundation, Copenhagen, DK, Feb 21, 2025.
+
+Below you can access the slides.
+
+:::columns
+::: {.column width="45%"}
+<center> [HTML version](https://samharper.org/rff-le) </center>
+[![](featured.png)](https://samharper.org/rff-le){width=50%}
+:::
+
+::: {.column width="45%"}
+<center> [PDF version](rff-le.pdf) </center>
+[![](featured.png)](rff-le.pdf){width=30%}
+:::
+
+:::
