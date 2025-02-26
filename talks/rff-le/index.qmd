@@ -13,13 +13,13 @@ Below you can access the slides.
 
 :::columns
 ::: {.column width="45%"}
-<center> [HTML version](https://samharper.org/rff-le) </center>
+<center> [HTML version](https://samharper.org/rff-le){target="_blank"} </center>
 [![](featured.png)](https://samharper.org/rff-le){width=50%}
 :::
 
 ::: {.column width="45%"}
-<center> [PDF version](rff-le.pdf) </center>
-[![](featured.png)](rff-le.pdf){width=30%}
+<center> [PDF version](rff-le.pdf){target="_blank"} </center>
+[![](featured.png)](rff-le.pdf){width=30% target="_blank"}
 :::
 
 :::
