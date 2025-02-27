@@ -1,7 +1,7 @@
 ---
 title: "Impacts of transitioning to clean household energy"
 subtitle: "Evidence from policy reform in peri-urban Beijing"
-date: "2024-02-24"
+date: "2025-02-24"
 image: "featured.png"
 categories: ["impact evaluation", "difference-in-differences", "mediation"]
 
