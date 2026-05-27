@@ -36,8 +36,15 @@ format:
     theme: litera
     css: styles.css
     toc: true
-    # mainfont: "Alegreya"
-    include-in-header: "_includes/header.html"
+    mainfont: "Roboto Slab"
+    include-in-header:
+      text: |
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;600&display=swap" rel="stylesheet">
+        <style>
+          body, p, li, td, th { font-family: 'Roboto Slab', serif !important; font-weight: 400; color: rgb(54, 55, 55); }
+          h1, h2, h3, h4 { font-family: 'Roboto Slab', serif !important; font-weight: 600; color: rgb(54, 55, 55); }
+          body { line-height: 1.8; }
+        </style>
 
 editor: source
 
