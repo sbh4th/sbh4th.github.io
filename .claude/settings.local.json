@@ -3,7 +3,13 @@
     "allow": [
       "Bash(python3:*)",
       "Bash(gh api *)",
-      "Bash(gh auth *)"
+      "Bash(gh auth *)",
+      "Bash(env)",
+      "Read(//Users/samharper/**)",
+      "WebFetch(domain:eutils.ncbi.nlm.nih.gov)",
+      "Bash(quarto render *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)"
     ]
   }
 }
