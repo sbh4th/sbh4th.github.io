@@ -1472,6 +1472,8 @@ Lynch, J, #strong[Harper S];, and Davey Smith G. Commentary: Plugging leaks and 
 
 === Technical reports
 <technical-reports>
+Baumgartner J, #strong[Harper S];, Barrington-Leigh C, Brehmer C, Carter EM, Li X, Robinson BE, Shen G, Sternbach TJ, Tao S, Xue K, Yuan W, Zhang X, Zhang Y. #emph[How Do Household Energy Interventions Work?] Research Reports from the Health Effects Institute 2025;235:1-65. PMID: 41937502.
+
 Seboka S, Arnaud J, Therrien MC, Lamothe F, Authier MA, Kaiser D, Nandi A, #strong[Harper S];, Nazar HA. Étude de compréhension des plans d'action communautaires de lutte à la COVID-19: impacts sur les indicateurs de suivi de la pandémie. Cité-ID LivingLab, Gouvernance de la résilience urbaine, ENAP; 2022 Mar 15
 
 Hetherington E, Nandi A, #strong[Harper S];, Vincent I. Impact Evaluation Report. #emph[Tabora Newborn Maternal Health Initiative];. September 2021 Available at #link("https://www.careevaluations.org/wp-content/uploads/TAMANI-impact-eval-report-FINAL.pdf")[CARE Evaluations]
