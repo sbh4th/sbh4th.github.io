@@ -1,32 +1,24 @@
 ---
 title: "Curriculum Vitae"
-format: 
+format:
   html:
     toc: true
-
-#format:
-#  pdf:
-#    colorlinks: true
-#    link-citations: true
-#    keep-tex: true
-#    number-sections: true
-#    fontfamily: CrimsonPro
-#    include-in-header:
-#      - text: |
-#          \usepackage{etaremune}
-#          \usepackage{doi}
-#          \usepackage{enumitem}
-#          \setlist[itemize]{noitemsep}
-#          \usepackage{scrlayer-scrpage}
-#          \rohead{\textsf{CV - S.Harper}}
-editor_options: 
-  markdown: 
+  typst:
+    keep-typ: true
+    output-file: cv-typ.pdf
+    fontsize: 10pt
+    mainfont: C059
+    font-paths: fonts
+    section-numbering: "1."
+    color-links: true
+editor_options:
+  markdown:
     wrap: sentence
 ---
 
 ::: {.content-visible when-format="html"}
 
-[PDF version](/cv/index.pdf)
+[PDF version](/cv/cv-typ.pdf)
 
 :::
 
@@ -46,7 +38,7 @@ editor_options:
 | Citizenship: | 	United States, Canada (Naturalized)  |
 | Languages: | English, French (Basic) |
 
-: {tbl-colwidths="\[15,85\]"}
+: {tbl-colwidths="\[20,80\]"}
 
 # Education
 
@@ -55,7 +47,7 @@ editor_options:
 | 2001-2005 | Doctor of Philosophy in Epidemiologic Science, University of Michigan, Ann Arbor, MI, USA. Dissertation: *Using Publicly Available Data to Monitor and Investigate Health Inequalities.* |
 | 1997-1999 | Master of Science in Public Health, Epidemiology, University of South Carolina, Columbia, SC, USA. Thesis: *A Multilevel Analysis of Intimate Partner Violence.*                         |
 | 1991-1995 | Bachelor of Arts, Biology. Westminster College, Fulton, MO, USA.                                                                                                                       |
-: {tbl-colwidths="\[15,85\]"}
+: {tbl-colwidths="\[17,83\]"}
 
 # Appointments
 
@@ -68,7 +60,7 @@ editor_options:
 | 2008-2010 | Assistant Professor (Non-Tenure Track), Department of Epidemiology, Biostatistics & Occupational Health, McGill University        |
 | 2005-2008 | Postdoctoral Fellow, Department of Epidemiology, Biostatistics & Occupational Health, McGill University |
 
-: {tbl-colwidths="\[15,85\]"}
+: {tbl-colwidths="\[17,83\]"}
 
 
 # Special Honors, Awards, and Recognition
@@ -84,7 +76,7 @@ editor_options:
 | 2007      | Nominee, top article for 2007: The Year in Research, Robert Wood Johnson Foundation.                                                                |
 | 2007      | Nominee, Paper of the Year, 2006, Lancet. 
 
-: {tbl-colwidths="\[15,85\]"}
+: {tbl-colwidths="\[17,83\]"}
 
 # Teaching
 
@@ -107,7 +99,7 @@ editor_options:
 | 2007 |  Guest Lecture on Life Tables, EPIB 602 (Introduction to Population Health), Department of Epidemiology, Biostatistics & Occupational Health, McGill University. | 
 | 2006 |  Guest Lecture on Measuring Health Inequalities, EPIB 670 (Introduction to Population Health and Social Epidemiology) | 
 
-: {tbl-colwidths="\[15,85\]"}
+: {tbl-colwidths="\[17,83\]"}
 
 
 ### Undergraduate
@@ -128,7 +120,7 @@ editor_options:
 | 2011 |  Co-Instructor (3 lectures), *Ph.D. course in Advanced Social Epidemiology: A focus on Methodology, Context and Lifecourse.* Institute of Public Health, University of Copenhagen, Denmark. |
 | 2009 |  Co-Instructor, *Social Determinants of Health---Principles and Methods*, Institut national de la santé et de la recherche médicale (INSERM), Paris, France. | 
 
-: {tbl-colwidths="\[15,85\]"}
+: {tbl-colwidths="\[17,83\]"}
 
 ## Research Trainees Supervised
 ### Postdoctoral fellows (7)
@@ -145,7 +137,7 @@ editor_options:
 | |   *CIHR Fellowship, $73,333* |
 | 2011-2012 | Kristin Voigt (co-supervised with Nick King)      |
 
-: {tbl-colwidths="\[15,85\]"}
+: {tbl-colwidths="\[17,83\]"}
 
 ### Doctoral students (13)
 
@@ -192,7 +184,7 @@ editor_options:
 | |    *Faculty of Medicine International Travel Fund (2012)* |
 | |    *HD-IDEAS Matching Studentship (2010, 2013)* |
 
-: {tbl-colwidths="\[15,85\]"}
+: {tbl-colwidths="\[17,83\]"}
 
 ### Master's degree students (8)
 
@@ -218,7 +210,6 @@ editor_options:
 |           |                                                |
 |-----------|------------------------------------------------|
 | 2022-2024	| Martha Lee (PhD, Epidemiology) |
-| 2021-2022	| Doris Duncan (PhD, Epidemiology) |
 | 2017-2020	| Mabel Carabali (PhD, Epidemiology) |
 | 2016-2020	| Eva Graham, (PhD, Epidemiology) |
 | 2014-2019	| Stephanie Law (PhD, Epidemiology) |
@@ -236,9 +227,9 @@ editor_options:
 #### Current
 |           |                                                |
 |-----------|------------------------------------------------|
-| 2025-present	| Adwoa Safowaa (PhD, Epidemiology) |
 | 2024-present	| Jordyn Gattie (MSc, Epidemiology) |
 | 2022-present	| Sarah Windle (PhD, Epidemiology) |
+| 2021-present	| Doris Duncan (PhD, Epidemiology) |
 | 2014-present	| Miriam Kinkaid (PhD, Epidemiology) |
 
 : {tbl-colwidths="\[15,85\]"}
@@ -587,7 +578,7 @@ My research focuses on investigating how social and environmental factors impact
 | **The Influence of Reviewer Expertise and Engagement on Peer Review of Grants**
 |    Agency: Social Science and Humanities Research Council of Canada 
 |    Role: PI
-|    Amount: CAD \$780,000
+|    Amount: CAD \$192,017
 |    Duration: 2025-2028
 | 
 
@@ -815,6 +806,22 @@ My research focuses on investigating how social and environmental factors impact
 ### Articles in peer reviewed journals
 
 \*Indicates one of my trainees.
+
+\*Socha PM, Oskoui M, Hutcheon JA, **Harper S**. A multivariable model for improving the identification of cerebral palsy cases in administrative health data. *Ann Epidemiol.* 2026.
+
+Hutcheon JA, **Harper S**, Cordingley MC, Liauw J, Skoll MA, \*Socha PM, et al. Antenatal Corticosteroid Administration and Childhood Respiratory Morbidity: A Regression Discontinuity Study. *BJOG.* 2026;133(2):263-71.
+
+Windle SB, **Harper S**, Arneja J, \*Socha P, Nandi A. Systematic reviews of quasi-experimental studies: challenges and considerations. *J Clin Epidemiol.* 2025;112121.
+
+\*Socha PM, Hutcheon JA, Strumpf EC, Liauw J, Srour M, Ting JY, Skoll MA, **Harper S**. Antenatal Corticosteroids and Risk of Cerebral Palsy: A Regression Discontinuity Study. J *Pediatr*. 2025;114960.
+
+Li X, Brehmer C, Hirst K, \*Sternbach T, \*Yuan W, Zhang X, et al. Multi-year Evaluation of a Clean Heating Policy on Residents' Air Pollution Exposures in Beijing, China. *Environ Sci Technol.* 2025;59(45):24347-58.
+
+Lall R, \*Socha PM, **Harper S**, Ofili DFC, Hetherington E. Inequalities in preterm birth among immigrants to Canada by race and time since immigration: A population‐based repeated cross‐sectional study. *Int J Gynaecol Obstet.* 2025.
+
+\*Yuan W, Li X, Brehmer C, \*Sternbach T, Zhang X, Carter E, et al. Effects of Outdoor and Household Air Pollution on Hand Grip Strength in a Longitudinal Study of Rural Beijing Adults. *Int J Environ Res Public Health.* 2025;22(8):1283.
+
+Ma J, Zhu X, Li X, Zhang X, Zhao F, Zhao A, et al. Investigating indoor VOC complexities in rural Beijing: Environmental, resident behavioral, and household energy-use paradigms. *Build Environ.* 2025;279:113042.
 
 Hutcheon JA, **Harper S**, Cordingley MC, Liauw J, Skoll MA, Socha PM, Srour M, Ting JY, Strumpf EC. Antenatal Corticosteroid Administration and Childhood Respiratory Morbidity: A Regression Discontinuity Study. *BJOG: An International Journal of Obstetrics & Gynaecology*. 2025; 1471-0528.18252.
 
