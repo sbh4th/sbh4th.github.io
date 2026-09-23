@@ -1,0 +1,23 @@
+---
+title: "Decomposition Techniques for Social Epidemiology: Why and How"
+date: "2026-09-22"
+image: "featured.png"
+categories: ["decomposition methods", "health inequalities", "social epidemiology", "causal inference"]
+---
+
+Presentation given at the Danish Epidemiological Society Conference, Nyborg, Denmark, Sept 22, 2026.
+
+Below you can access the slides.
+
+:::columns
+::: {.column width="45%"}
+<center> [HTML version](https://samharper.org/des-decomp) </center>
+[![](featured.png)](https://samharper.org/des-decomp){width=50%}
+:::
+
+::: {.column width="45%"}
+<center> [PDF version](des-decomp.pdf) </center>
+[![](featured.png)](des-decomp.pdf){width=30%}
+:::
+
+:::
