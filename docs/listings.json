@@ -1,5 +1,20 @@
 [
   {
+    "listing": "/posts/index.html",
+    "items": [
+      "/posts/peer-review/index.html",
+      "/posts/420-update/index.html",
+      "/posts/is-420-deadly/index.html",
+      "/posts/did-it-take-a-village/index.html"
+    ]
+  },
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/articles/harper-2021-wv/index.html"
+    ]
+  },
+  {
     "listing": "/talks/index.html",
     "items": [
       "/talks/nee/index.html",
@@ -12,21 +27,6 @@
       "/talks/hei/index.html",
       "/talks/rsf/index.html",
       "/talks/kickoff/index.html"
-    ]
-  },
-  {
-    "listing": "/research/index.html",
-    "items": [
-      "/research/articles/harper-2021-wv/index.html"
-    ]
-  },
-  {
-    "listing": "/posts/index.html",
-    "items": [
-      "/posts/peer-review/index.html",
-      "/posts/420-update/index.html",
-      "/posts/is-420-deadly/index.html",
-      "/posts/did-it-take-a-village/index.html"
     ]
   }
 ]

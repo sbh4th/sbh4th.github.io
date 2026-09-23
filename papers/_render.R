@@ -118,8 +118,25 @@ render_pub <- function(p) {
   # Render markdown in citation (bold, italics, asterisks) to HTML
   cite_html <- renderMarkdown(text = p$citation)
 
-  # --- Buttons ---
+  # --- Buttons (order: Abstract, View, Scholar, Cited, Altmetric) ---
   btns <- tagList()
+
+  # Abstract toggle (Bootstrap collapse, available in Quarto/litera theme)
+  abs_block <- NULL
+  if (!is.na(p$abstract) && nchar(trimws(p$abstract)) > 0) {
+    abs_id <- paste0("abs-", p$key)
+    btns <- tagAppendChild(btns,
+      tags$button(
+        class = "pub-btn btn-abstract",
+        `data-bs-toggle` = "collapse",
+        `data-bs-target` = paste0("#", abs_id),
+        "Abstract"
+      ))
+    abs_block <- tags$div(
+      id = abs_id, class = "collapse pub-abstract-body",
+      tags$p(p$abstract)
+    )
+  }
 
   # View (DOI link)
   if (!is.na(p$url))
@@ -143,39 +160,21 @@ render_pub <- function(p) {
     )
   }
 
-  # Abstract toggle (Bootstrap collapse, available in Quarto/litera theme)
-  abs_block <- NULL
-  if (!is.na(p$abstract) && nchar(trimws(p$abstract)) > 0) {
-    abs_id <- paste0("abs-", p$key)
-    btns <- tagAppendChild(btns,
-      tags$button(
-        class = "pub-btn btn-abstract",
-        `data-bs-toggle` = "collapse",
-        `data-bs-target` = paste0("#", abs_id),
-        "Abstract"
-      ))
-    abs_block <- tags$div(
-      id = abs_id, class = "collapse pub-abstract-body",
-      tags$p(p$abstract)
-    )
-  }
-
-  # Altmetric donut badge
-  altmetric <- NULL
+  # Altmetric donut badge (inline after Cited)
   if (!is.na(p$doi))
-    altmetric <- tags$div(
-      class = "altmetric-embed pub-altmetric",
-      `data-badge-type` = "donut",
-      `data-doi` = p$doi,
-      `data-hide-no-mentions` = "true"
-    )
+    btns <- tagAppendChild(btns,
+      tags$div(
+        class = "altmetric-embed pub-altmetric",
+        `data-badge-type` = "donut",
+        `data-doi` = p$doi,
+        `data-hide-no-mentions` = "true"
+      ))
 
   # Assemble
   tags$div(class = "pub-entry",
     HTML(cite_html),
     tags$div(class = "pub-buttons", btns),
-    abs_block,
-    altmetric
+    abs_block
   )
 }
 

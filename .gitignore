@@ -11,3 +11,4 @@
 .claude/worktrees/
 
 **/*.quarto_ipynb
+.positai
