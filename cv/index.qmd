@@ -807,6 +807,20 @@ My research focuses on investigating how social and environmental factors impact
 
 \*Indicates one of my trainees.
 
+**Harper S**, Kaufman J, Nandi A. Unnatural Definitions for Natural Experiments: A Call for Clarity When Estimating Causal Effects of Interventions. *J Epidemiol Community Health.* 2026;jech-2025-225083.
+
+\*Farhat I, Greenaway C, **Harper S**, Panagiotoglou D. Trends in Chronic Hepatitis C Visits by Providers in Quebec, Canada: A Population-Level Cohort Study. *Can Liver J.* 2026;9(3):464-74.
+
+Windle SB, \*Socha PM, Arneja J, **Harper S**, Gore G, et al. Impacts of Global Cannabis Policy Changes on Substance Use: A Systematic Review of Quasi-Experimental Studies. *Milbank Q.* 2026;1468-0009.70108.
+
+Tyner AH, Abatayo AL, Daley M, Field S, Fox N, et al. Investigating the Replicability of the Social and Behavioural Sciences. *Nature.* 2026;652:143-50.
+
+Xue K, Baumgartner J, **Harper S**, \*Sternbach T, Li X, Shang J, et al. Effects of China's Clean Heating Policy on Respiratory Symptoms and Airway Inflammation in Adults: A Quasi-Experimental Study in Rural Beijing. *Am J Respir Crit Care Med.* 2026;aamag181.
+
+\*Alcantara M, **Harper S**, Shapiro GD, Bushnik T, Kaufman JS, et al. Perinatal Health Inequalities between Canadian-born and Foreign-Born Women in Canada: A Decomposition Analysis. *BMJ Public Health.* 2025;3(2):e001231.
+
+\*Richardson R, **Harper S**, Keyes KK, Crowe CL, Calvo E. Contributors to Age Inequalities in Loneliness among Older Adults: A Decomposition Analysis of 29 Countries. *Aging Ment Health.* 2025;1-9.
+
 \*Socha PM, Oskoui M, Hutcheon JA, **Harper S**. A multivariable model for improving the identification of cerebral palsy cases in administrative health data. *Ann Epidemiol.* 2026.
 
 Hutcheon JA, **Harper S**, Cordingley MC, Liauw J, Skoll MA, \*Socha PM, et al. Antenatal Corticosteroid Administration and Childhood Respiratory Morbidity: A Regression Discontinuity Study. *BJOG.* 2026;133(2):263-71.

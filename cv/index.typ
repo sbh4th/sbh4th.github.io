@@ -1060,6 +1060,20 @@ My research focuses on investigating how social and environmental factors impact
 <articles-in-peer-reviewed-journals>
 \*Indicates one of my trainees.
 
+#strong[Harper S];, Kaufman J, Nandi A. Unnatural Definitions for Natural Experiments: A Call for Clarity When Estimating Causal Effects of Interventions. #emph[J Epidemiol Community Health.] 2026;jech-2025-225083.
+
+\*Farhat I, Greenaway C, #strong[Harper S];, Panagiotoglou D. Trends in Chronic Hepatitis C Visits by Providers in Quebec, Canada: A Population-Level Cohort Study. #emph[Can Liver J.] 2026;9(3):464-74.
+
+Windle SB, \*Socha PM, Arneja J, #strong[Harper S];, Gore G, et al.~Impacts of Global Cannabis Policy Changes on Substance Use: A Systematic Review of Quasi-Experimental Studies. #emph[Milbank Q.] 2026;1468-0009.70108.
+
+Tyner AH, Abatayo AL, Daley M, Field S, Fox N, et al.~Investigating the Replicability of the Social and Behavioural Sciences. #emph[Nature.] 2026;652:143-50.
+
+Xue K, Baumgartner J, #strong[Harper S];, \*Sternbach T, Li X, Shang J, et al.~Effects of China's Clean Heating Policy on Respiratory Symptoms and Airway Inflammation in Adults: A Quasi-Experimental Study in Rural Beijing. #emph[Am J Respir Crit Care Med.] 2026;aamag181.
+
+\*Alcantara M, #strong[Harper S];, Shapiro GD, Bushnik T, Kaufman JS, et al.~Perinatal Health Inequalities between Canadian-born and Foreign-Born Women in Canada: A Decomposition Analysis. #emph[BMJ Public Health.] 2025;3(2):e001231.
+
+\*Richardson R, #strong[Harper S];, Keyes KK, Crowe CL, Calvo E. Contributors to Age Inequalities in Loneliness among Older Adults: A Decomposition Analysis of 29 Countries. #emph[Aging Ment Health.] 2025;1-9.
+
 \*Socha PM, Oskoui M, Hutcheon JA, #strong[Harper S];. A multivariable model for improving the identification of cerebral palsy cases in administrative health data. #emph[Ann Epidemiol.] 2026.
 
 Hutcheon JA, #strong[Harper S];, Cordingley MC, Liauw J, Skoll MA, \*Socha PM, et al.~Antenatal Corticosteroid Administration and Childhood Respiratory Morbidity: A Regression Discontinuity Study. #emph[BJOG.] 2026;133(2):263-71.
