@@ -509,6 +509,7 @@
 #table(
   columns: (15%, 85%),
   align: (auto,auto,),
+  [2026], [#emph[Decomposition Techniques for Social Epidemiology: Why and How] Invited lecture given at the Danish Epidemiological Society Conference, Nyborg, Denmark, Sept 22, 2026],
   [2025], [#emph[Do we need 'Natural Experiments'?] Seminar given (remotely) for the launch of the UK MRC's #emph[Framework for natural experimental evaluations: Launch event];, May 23, 2025],
   [2024], [#emph[Impacts of transitioning to clean household energy.] Seminar given at the University of Copenhagen Section of Social Medicine, Copenhagen, DK, Nov 21, 2024],
   [2024], [Keynote Address: #emph[Multilevel Models in Social Epidemiology: Past, Present, and Future.] Danish Epidemiology Society Annual Meeting, Aarhus University, Aarhus, DK Nov 7, 2024],
@@ -1060,7 +1061,11 @@ My research focuses on investigating how social and environmental factors impact
 <articles-in-peer-reviewed-journals>
 \*Indicates one of my trainees.
 
+Nandi A, Atabay E, Windle SB, Akbari E, White L, et al.~Evaluating the Impact of Free Access to Early Childhood Education on Mental Distress in Adolescence: Evidence from Europe. #emph[J Epidemiol Community Health.] 2026;jech-2026-226571.
+
 #strong[Harper S];, Kaufman J, Nandi A. Unnatural Definitions for Natural Experiments: A Call for Clarity When Estimating Causal Effects of Interventions. #emph[J Epidemiol Community Health.] 2026;jech-2025-225083.
+
+\*Sternbach T, #strong[Harper S];, Li X, Brehmer C, Zhang Y, et al.~China's Clean Heating Policy and Effects on Blood Pressure in Rural Beijing Adults. #emph[Environ Health Perspect.] 2026.
 
 \*Farhat I, Greenaway C, #strong[Harper S];, Panagiotoglou D. Trends in Chronic Hepatitis C Visits by Providers in Quebec, Canada: A Population-Level Cohort Study. #emph[Can Liver J.] 2026;9(3):464-74.
 
