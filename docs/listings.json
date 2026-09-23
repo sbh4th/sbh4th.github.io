@@ -17,6 +17,7 @@
   {
     "listing": "/talks/index.html",
     "items": [
+      "/talks/des-decomp/index.html",
       "/talks/nee/index.html",
       "/talks/asm/index.html",
       "/talks/des-mlm/index.html",

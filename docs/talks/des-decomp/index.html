@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2026-09-22">
 
-<title>Recent Talks – Sam Harper</title>
+<title>Decomposition Techniques for Social Epidemiology: Why and How – Sam Harper</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,25 +24,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-de070a7b0ab54f8780927367ac907214.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-b9e694851dbac8c2595c8a8a10e3a02b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-de070a7b0ab54f8780927367ac907214.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-b9e694851dbac8c2595c8a8a10e3a02b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,35 +68,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-subtitle','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <!-- academic icons -->
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
@@ -114,37 +84,8 @@ ul.task-list li input[type="checkbox"] {
   body { line-height: 1.8; }
 </style>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -154,7 +95,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Sam Harper</span>
     </a>
   </div>
@@ -165,31 +106,31 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../teaching/index.html"> 
+    <a class="nav-link" href="../../teaching/index.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../posts/index.html"> 
+    <a class="nav-link" href="../../posts/index.html"> 
 <span class="menu-text">Posts</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../talks/index.html" aria-current="page"> 
+    <a class="nav-link" href="../../talks/index.html"> 
 <span class="menu-text">Talks</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../projects/index.html"> 
+    <a class="nav-link" href="../../projects/index.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../papers/index.html"> 
+    <a class="nav-link" href="../../papers/index.html"> 
 <span class="menu-text">Papers</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../cv/index.html"> 
+    <a class="nav-link" href="../../cv/index.html"> 
 <span class="menu-text">CV</span></a>
   </li>  
 </ul>
@@ -211,14 +152,26 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Recent Talks</h1>
-</div>
+<h1 class="title">Decomposition Techniques for Social Epidemiology: Why and How</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">decomposition methods</div>
+    <div class="quarto-category">health inequalities</div>
+    <div class="quarto-category">social epidemiology</div>
+    <div class="quarto-category">causal inference</div>
+  </div>
+  </div>
 
 
 
 <div class="quarto-title-meta">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">September 22, 2026</p>
+    </div>
+  </div>
   
     
   </div>
@@ -228,291 +181,25 @@ window.Quarto = {
 </header>
 
 
-<p>Some recent presentations of my work.</p>
+<p>Presentation given at the Danish Epidemiological Society Conference, Nyborg, Denmark, Sept 22, 2026.</p>
+<p>Below you can access the slides.</p>
+<div class="columns">
+<div class="column" style="width:45%;">
+<center>
+<a href="https://samharper.org/des-decomp">HTML version</a>
+</center>
+<p><a href="https://samharper.org/des-decomp" width="50%"><img src="featured.png" class="img-fluid"></a></p>
+</div><div class="column" style="width:45%;">
+<center>
+<a href="des-decomp.pdf">PDF version</a>
+</center>
+<p><a href="des-decomp.pdf" width="30%"><img src="featured.png" class="img-fluid"></a></p>
+</div>
+</div>
 
 
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="ZGVjb21wb3NpdGlvbiUyMG1ldGhvZHMlMkNoZWFsdGglMjBpbmVxdWFsaXRpZXMlMkNzb2NpYWwlMjBlcGlkZW1pb2xvZ3klMkNjYXVzYWwlMjBpbmZlcmVuY2U=" data-listing-date-sort="1790028000000" data-listing-file-modified-sort="1790163070528" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="28">
-<div class="thumbnail"><a href="../talks/des-decomp/index.html" class="no-external">
-
-<img loading="lazy" src="../talks/des-decomp/featured.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../talks/des-decomp/index.html" class="no-external">Decomposition Techniques for Social Epidemiology: Why and How</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../talks/des-decomp/index.html" class="no-external"></a>
-</div>
-<div class="delink listing-description"><a href="../talks/des-decomp/index.html" class="no-external">
-Presentation given at the Danish Epidemiological Society Conference, Nyborg, Denmark, Sept 22, 2026.
-</a></div>
-</div>
-<div class="metadata">
-<a href="../talks/des-decomp/index.html" class="no-external">
-<div class="listing-date">
-Sep 22, 2026
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="aW1wYWN0JTIwZXZhbHVhdGlvbiUyQ2RpZmZlcmVuY2UtaW4tZGlmZmVyZW5jZXMlMkNldmlkZW5jZSUyQ3F1YXNpLWV4cGVyaW1lbnRzJTJDY2F1c2FsJTIwaW5mZXJlbmNl" data-listing-date-sort="1747951200000" data-listing-file-modified-sort="1748015374289" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="35">
-<div class="thumbnail"><a href="../talks/nee/index.html" class="no-external">
-
-<img loading="lazy" src="../talks/nee/featured.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../talks/nee/index.html" class="no-external">Do we need ‘Natural Experiments’?</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../talks/nee/index.html" class="no-external"></a>
-</div>
-<div class="delink listing-description"><a href="../talks/nee/index.html" class="no-external">
-Seminar given (remotely) for the launch of the UK MRC’s <em>Framework for natural experimental evaluations: Launch event</em>, May 23, 2025
-</a></div>
-</div>
-<div class="metadata">
-<a href="../talks/nee/index.html" class="no-external">
-<div class="listing-date">
-May 23, 2025
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="aW1wYWN0JTIwZXZhbHVhdGlvbiUyQ2RpZmZlcmVuY2UtaW4tZGlmZmVyZW5jZXMlMkNtZWRpYXRpb24=" data-listing-date-sort="1732143600000" data-listing-file-modified-sort="1732297193148" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="32">
-<div class="thumbnail"><a href="../talks/asm/index.html" class="no-external">
-
-<img loading="lazy" src="../talks/asm/featured.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../talks/asm/index.html" class="no-external">Impacts of transitioning to clean household energy</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../talks/asm/index.html" class="no-external"></a>
-</div>
-<div class="delink listing-description"><a href="../talks/asm/index.html" class="no-external">
-Seminar given at the University of Copenhagen Section of Social Medicine, Copenhagen, DK, Nov 21, 2024.
-</a></div>
-</div>
-<div class="metadata">
-<a href="../talks/asm/index.html" class="no-external">
-<div class="listing-date">
-Nov 21, 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="bXVsdGlsZXZlbCUyMG1vZGVscyUyQ3NvY2lhbCUyMGVwaWRlbWlvbG9neQ==" data-listing-date-sort="1730934000000" data-listing-file-modified-sort="1732296723481" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="36">
-<div class="thumbnail"><a href="../talks/des-mlm/index.html" class="no-external">
-
-<img loading="lazy" src="../talks/des-mlm/featured.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../talks/des-mlm/index.html" class="no-external">Multilevel Models in Social Epidemiology: Past, Present, and Future</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../talks/des-mlm/index.html" class="no-external"></a>
-</div>
-<div class="delink listing-description"><a href="../talks/des-mlm/index.html" class="no-external">
-Presentation given at the Danish Epidemiology Society annual meeting that took place at Aarhus University, Aarhus, DK Nov 7, 2024.
-</a></div>
-</div>
-<div class="metadata">
-<a href="../talks/des-mlm/index.html" class="no-external">
-<div class="listing-date">
-Nov 7, 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="cXVhc2ktZXhwZXJpbWVudHMlMkNkaWZmZXJlbmNlLWluLWRpZmZlcmVuY2VzJTJDc29jaWFsJTIwZXBpZGVtaW9sb2d5" data-listing-date-sort="1730847600000" data-listing-file-modified-sort="1732294477522" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="35">
-<div class="thumbnail"><a href="../talks/des-dd/index.html" class="no-external">
-
-<img loading="lazy" src="../talks/des-dd/featured.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../talks/des-dd/index.html" class="no-external">Difference-in-Differences for Social Epidemiology</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../talks/des-dd/index.html" class="no-external"></a>
-</div>
-<div class="delink listing-description"><a href="../talks/des-dd/index.html" class="no-external">
-Presentation given at the Danish Epidemiology Society workshop that took place at Aarhus University, Aarhus, DK Nov 6, 2024.
-</a></div>
-</div>
-<div class="metadata">
-<a href="../talks/des-dd/index.html" class="no-external">
-<div class="listing-date">
-Nov 6, 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="aGVhbHRoJTIwaW5lcXVhbGl0aWVzJTJDbGlmZSUyMGV4cGVjdGFuY3k=" data-listing-date-sort="1717970400000" data-listing-file-modified-sort="1729960892388" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="33">
-<div class="thumbnail"><a href="../talks/mortal/index.html" class="no-external">
-
-<img loading="lazy" src="../talks/mortal/featured.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../talks/mortal/index.html" class="no-external">Despair and Disadvantage: Some Questions</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../talks/mortal/index.html" class="no-external"></a>
-</div>
-<div class="delink listing-description"><a href="../talks/mortal/index.html" class="no-external">
-Presentation given at the MORTAL workshop that took place at Nuffield College, Oxford University, UK Jun 10-11, 2024.
-</a></div>
-</div>
-<div class="metadata">
-<a href="../talks/mortal/index.html" class="no-external">
-<div class="listing-date">
-Jun 10, 2024
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="6" data-categories="aGVhbHRoJTIwaW5lcXVhbGl0aWVzJTJDc29jaWFsJTIwZGV0ZXJtaW5hbnRz" data-listing-date-sort="1687298400000" data-listing-file-modified-sort="1729958147826" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="44">
-<div class="thumbnail"><a href="../talks/nasem/index.html" class="no-external">
-
-<img loading="lazy" src="../talks/nasem/featured.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../talks/nasem/index.html" class="no-external">Measuring Health Equity: Beyond Description</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../talks/nasem/index.html" class="no-external"></a>
-</div>
-<div class="delink listing-description"><a href="../talks/nasem/index.html" class="no-external">
-Presentation given at the US National Academy of Sciences, Engineering, &amp; Medicine for <em>The Ecosystem of Health Equity Measures: A Workshop</em>, Oakland, CA, USA June 21, 2023…
-</a></div>
-</div>
-<div class="metadata">
-<a href="../talks/nasem/index.html" class="no-external">
-<div class="listing-date">
-Jun 21, 2023
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="7" data-categories="bXVsdGlsZXZlbCUyMG1vZGVscyUyQ3NvY2lhbCUyMGVwaWRlbWlvbG9neQ==" data-listing-date-sort="1686693600000" data-listing-file-modified-sort="1729959613887" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="34">
-<div class="thumbnail"><a href="../talks/ser/index.html" class="no-external">
-
-<img loading="lazy" src="../talks/ser/featured.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../talks/ser/index.html" class="no-external">A Quarter Century of Multilevel Models in Social Epidemiology</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../talks/ser/index.html" class="no-external">A Short Story in Three Acts</a>
-</div>
-<div class="delink listing-description"><a href="../talks/ser/index.html" class="no-external">
-Presentation given at the annual meeting of the Society for Epidemiologic Research in Portland, OR, USA June 14, 2023.
-</a></div>
-</div>
-<div class="metadata">
-<a href="../talks/ser/index.html" class="no-external">
-<div class="listing-date">
-Jun 14, 2023
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="8" data-categories="YWlyJTIwcG9sbHV0aW9uJTJDaGVhbHRoJTIwaW5lcXVhbGl0aWVzJTJDc29jaWFsJTIwZGV0ZXJtaW5hbnRz" data-listing-date-sort="1589925600000" data-listing-file-modified-sort="1729959712581" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="25">
-<div class="thumbnail"><a href="../talks/hei/index.html" class="no-external">
-
-<img loading="lazy" src="../talks/hei/featured.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../talks/hei/index.html" class="no-external">Social Determinants of Health–Concepts and Methods Relevant to Air Pollution</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../talks/hei/index.html" class="no-external"></a>
-</div>
-<div class="delink listing-description"><a href="../talks/hei/index.html" class="no-external">
-Presentation given for the Health Effects Institute Annual Conference, Boston, MA, USA, May 20, 2020 (given remotely).
-</a></div>
-</div>
-<div class="metadata">
-<a href="../talks/hei/index.html" class="no-external">
-<div class="listing-date">
-May 20, 2020
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="9" data-categories="cnVyYWwlMjBoZWFsdGglMkNoZWFsdGglMjBpbmVxdWFsaXRpZXMlMkNzdWljaWRl" data-listing-date-sort="1552604400000" data-listing-file-modified-sort="1729960032235" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="17">
-<div class="thumbnail"><a href="../talks/rsf/index.html" class="no-external">
-
-<img loading="lazy" src="../talks/rsf/featured.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../talks/rsf/index.html" class="no-external">Past and present rural-urban mortality transitions</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../talks/rsf/index.html" class="no-external">Russell Sage Foundation: Listening to Rural America</a>
-</div>
-<div class="delink listing-description"><a href="../talks/rsf/index.html" class="no-external">
-Presentation given for the Russell Sage Foundation, New York, NY, Mar 15, 2019.
-</a></div>
-</div>
-<div class="metadata">
-<a href="../talks/rsf/index.html" class="no-external">
-<div class="listing-date">
-Mar 15, 2019
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="10" data-categories="cXVhc2ktZXhwZXJpbWVudHMlMkNoZWFsdGglMjBpbmVxdWFsaXRpZXM=" data-listing-date-sort="1539295200000" data-listing-file-modified-sort="1729960225005" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="26">
-<div class="thumbnail"><a href="../talks/kickoff/index.html" class="no-external">
-
-<img loading="lazy" src="../talks/kickoff/featured.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../talks/kickoff/index.html" class="no-external">Challenges, advantages, and limitations of quasi-experimental approaches to evaluate interventions on health inequalities</a>
-</h3>
-<div class="listing-subtitle">
-<a href="../talks/kickoff/index.html" class="no-external"></a>
-</div>
-<div class="delink listing-description"><a href="../talks/kickoff/index.html" class="no-external">
-Presentation given at the kickoff event for the <em>Smarter Choices, Better Health</em> project at Erasmus University, Rotterdam, The Netherlands, Oct 12, 2018.
-</a></div>
-</div>
-<div class="metadata">
-<a href="../talks/kickoff/index.html" class="no-external">
-<div class="listing-date">
-Oct 12, 2018
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
