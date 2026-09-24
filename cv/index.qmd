@@ -8,7 +8,7 @@ format:
     output-file: cv-typ.pdf
     fontsize: 10pt
     mainfont: C059
-    font-paths: fonts
+    font-paths: /cv/fonts
     section-numbering: "1."
     color-links: true
 editor_options:
