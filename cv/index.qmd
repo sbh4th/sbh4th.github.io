@@ -11,6 +11,10 @@ format:
     font-paths: /cv/fonts
     section-numbering: "1."
     color-links: true
+brand:
+  typography:
+    headings:
+      family: C059
 editor_options:
   markdown:
     wrap: sentence

@@ -278,6 +278,7 @@
   inset: 6pt,
   stroke: none
 )
+#show heading: set text(font: ("C059",), )
 
 #set page(
   paper: "us-letter",
@@ -289,6 +290,7 @@
   title: [Curriculum Vitae],
   font: ("C059",),
   fontsize: 10pt,
+  heading-family: ("C059",),
   sectionnumbering: "1.",
   toc_title: [Table of contents],
   toc_depth: 3,
