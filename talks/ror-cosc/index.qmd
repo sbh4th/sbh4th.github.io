@@ -1,0 +1,24 @@
+---
+title: "Reviewer Expertise and Engagement in Grant Peer Review"
+subtitle: "2nd Canadian Open Science Conference -- pre-conference webinar"
+date: "2026-10-02"
+image: "featured.png"
+categories: ["peer review", "metaresearch", "open science", "Bayesian methods"]
+---
+
+Presentation (with Arijit Nandi) given at the pre-conference webinar for the 2nd Canadian Open Science Conference, Oct 2, 2026.
+
+Below you can access the slides.
+
+:::columns
+::: {.column width="45%"}
+<center> [HTML version](ror-cosc-2026.html) </center>
+[![](featured.png)](ror-cosc-2026.html){width=50%}
+:::
+
+::: {.column width="45%"}
+<center> [PDF version](ror-cosc-2026.pdf) </center>
+[![](featured.png)](ror-cosc-2026.pdf){width=30%}
+:::
+
+:::
