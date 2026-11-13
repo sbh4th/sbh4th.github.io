@@ -46,6 +46,32 @@
     populations.'
   has_summary: no
   year: '2026'
+- key: harper2026
+  category: ARTICLE
+  title: 'Unnatural Definitions for Natural Experiments: A Call for Clarity When Estimating
+    Causal Effects of Interventions'
+  citation: '**Harper S**, Kaufman J, Nandi A. "Unnatural Definitions for Natural
+    Experiments: A Call for Clarity When Estimating Causal Effects of Interventions"
+    2026; jech-2025-225083. DOI: [10.1136/jech-2025-225083](https://doi.org/10.1136/jech-2025-225083)'
+  doi: 10.1136/jech-2025-225083
+  url: https://doi.org/10.1136/jech-2025-225083
+  abstract: The term 'natural experiment’ has a murky conceptual history in public
+    health, with definitions ranging from naturally occurring states to unspecified
+    approximations of randomised trials. Craig and colleagues recently defined natural
+    experiments as events creating exposed and unexposed groups outside researcher
+    control, but this is largely indistinguishable from any observational study. One
+    could define natural experiments as cases of randomised treatment assignment by
+    a third party but expanding beyond this creates complications. We argue that grouping
+    study designs with labels like 'natural experiments’ or 'quasi-experiments’ provides
+    potentially misleading guidance for causal inference given the difficulty of justifying
+    the core assumption of ‘as-if randomisation’ across diverse designs. Rather than
+    relying on vague labels, researchers should explicitly state their design and
+    defend the credibility of assumptions needed for causal inference. Expansive definitions
+    of ‘natural experiments’ can potentially bias evidence synthesis by obscuring
+    the rigorous justifications needed for causal inference, ultimately creating more
+    confusion than clarity.
+  has_summary: no
+  year: '2026'
 - key: lall2026
   category: ARTICLE
   title: 'Inequalities in Preterm Birth among Immigrants to Canada by Race and Time
@@ -277,10 +303,10 @@
   year: '2026'
 - key: alcantara2025
   category: ARTICLE
-  title: 'Perinatal Health Inequalities between Canadian-born and Foreign-Born Women
+  title: 'Perinatal Health Inequalities between Canadian-Born and Foreign-Born Women
     in Canada: A Decomposition Analysis'
   citation: 'Alcantara M, Harper SB, Shapiro GD, Bushnik T, Kaufman JS, Vang Z, Mashford-Pringle
-    A, Yang S. "Perinatal Health Inequalities between Canadian-born and Foreign-Born
+    A, Yang S. "Perinatal Health Inequalities between Canadian-Born and Foreign-Born
     Women in Canada: A Decomposition Analysis" 2025; 3: e001231. DOI: [10.1136/bmjph-2024-001231](https://doi.org/10.1136/bmjph-2024-001231)'
   doi: 10.1136/bmjph-2024-001231
   url: https://doi.org/10.1136/bmjph-2024-001231
@@ -2886,10 +2912,10 @@
 - key: arsenault2017
   category: ARTICLE
   title: 'Monitoring Equity in Vaccination Coverage: A Systematic Analysis of Demographic
-    and Health Surveys from 45 Gavi-supported Countries'
+    and Health Surveys from 45 Gavi-Supported Countries'
   citation: 'Arsenault C*, **Harper S**, Nandi A, Mendoza Rodríguez J, Hansen P, Johri
     M. "Monitoring Equity in Vaccination Coverage: A Systematic Analysis of Demographic
-    and Health Surveys from 45 Gavi-supported Countries" 2017; 35: 951--959. DOI:
+    and Health Surveys from 45 Gavi-Supported Countries" 2017; 35: 951--959. DOI:
     [10.1016/j.vaccine.2016.12.041](https://doi.org/10.1016/j.vaccine.2016.12.041)
     Citations: 84'
   doi: 10.1016/j.vaccine.2016.12.041
@@ -2927,10 +2953,10 @@
   year: '2017'
 - key: arsenault2017a
   category: ARTICLE
-  title: Country-Level Predictors of Vaccination Coverage and Inequalities in Gavi-supported
+  title: Country-Level Predictors of Vaccination Coverage and Inequalities in Gavi-Supported
     Countries
   citation: 'Arsenault C*, Johri M, Nandi A, Mendoza Rodríguez J, Hansen P, **Harper
-    S**. "Country-Level Predictors of Vaccination Coverage and Inequalities in Gavi-supported
+    S**. "Country-Level Predictors of Vaccination Coverage and Inequalities in Gavi-Supported
     Countries" 2017; 35: 2479--2488. DOI: [10.1016/j.vaccine.2017.03.029](https://doi.org/10.1016/j.vaccine.2017.03.029)
     Citations: 69'
   doi: 10.1016/j.vaccine.2017.03.029
@@ -4594,10 +4620,10 @@
   year: '2013'
 - key: king2013
   category: ARTICLE
-  title: Who Cares about Health Inequalities? Cross-country Evidence from the World
+  title: Who Cares about Health Inequalities? Cross-Country Evidence from the World
     Health Survey
   citation: 'King N, **Harper S**, Young M. "Who Cares about Health Inequalities?
-    Cross-country Evidence from the World Health Survey" 2013; 28: 558--571. DOI:
+    Cross-Country Evidence from the World Health Survey" 2013; 28: 558--571. DOI:
     [10.1093/heapol/czs094](https://doi.org/10.1093/heapol/czs094) Citations: 32'
   doi: 10.1093/heapol/czs094
   url: https://doi.org/10.1093/heapol/czs094
